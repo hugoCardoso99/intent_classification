@@ -1,0 +1,2001 @@
+text,label,intent_name
+ETA for Maersk Edmonton voyage 70 from Russia?,1,ask_vessel_schedule
+Cancel pilot order for ONE Bangkok ETA changed to 2024-02-22,5,modify_berth_booking
+Container OOLU4567890 loaded on which vessel voyage?,6,track_container
+Cancel pilot order for Evergreen Tokyo ETA changed to 2024-08-28,5,modify_berth_booking
+Requesting anchorage for ONE Bangkok awaiting berth availability for LNG discharge,0,request_berth_booking
+Berth request: ONE Bangkok IMO 9791952 arriving 2024-03-14 with 14071 MT of containers FOB,0,request_berth_booking
+Book berth for Hapag Dubai at CTA terminal ETA 2024-06-25 draft 16m alongside port,0,request_berth_booking
+Cargo manifest declaration for Maersk Edmonton voyage 344 loading electronics destination UK,9,declare_cargo_manifest
+Ballast water management requirements at Busan for ONE Bangkok,8,ask_regulations
+Modify: Yang Ming Kaohsiung shifting from berth 9 to 19 for cargo segregation,5,modify_berth_booking
+Order pilot for HMM Busan LOA 167m GT 45302 ETA pilot station 2024-09-21,7,request_pilotage_tug
+What are the ISPS security requirements for ONE Bangkok at Antwerp?,8,ask_regulations
+Security alert: unauthorized personnel near SSA terminal perimeter,3,report_port_incident
+Port state control inspection procedures for Singapore flag vessels,8,ask_regulations
+Requesting wharfage rates for container vessel vessels at Dubai,4,ask_tariff_rates
+Requesting wharfage rates for LNG carrier vessels at Rotterdam,4,ask_tariff_rates
+Location of container MAEU9876543 in yard block B2?,6,track_container
+Certificate of origin attached for bauxite HS code 2601.11 preferential origin Canada,2,submit_customs_docs
+Berth swap requested between MSC Geneva and CMA CGM Rio at PSA,5,modify_berth_booking
+Port incident: HLCU5556667 collapsed during stacking at yard block F6,3,report_port_incident
+Tug services: ZIM Haifa unberthing from CTB ETD 2024-01-23,7,request_pilotage_tug
+What are the cargo handling charges for containers per metric ton at APM?,4,ask_tariff_rates
+Port incident: YMLU7778889 collapsed during stacking at yard block A1,3,report_port_incident
+Container MSCU1234567 customs inspection status?,6,track_container
+Schedule inquiry: ZIM Haifa arriving Hong Kong berth 3,1,ask_vessel_schedule
+Final cargo manifest for MSC Geneva total 57485 MT 17494 TEU Los Angeles to Netherlands,9,declare_cargo_manifest
+Incident: ONE Bangkok allision with jetty during berthing maneuver,3,report_port_incident
+Escort tug request for Hapag Dubai in restricted channel due to high winds,7,request_pilotage_tug
+What are the cargo handling charges for soybeans per metric ton at CTA?,4,ask_tariff_rates
+Stevedoring charges for chemicals discharge rate 782 MT per hour,4,ask_tariff_rates
+Environmental incident: oil spill from CMA CGM Rio at anchorage during bunkering,3,report_port_incident
+Bulk cargo declaration: soybeans 38362 MT shipper Odebrecht consignee Trafigura,9,declare_cargo_manifest
+Schedule inquiry: Hapag Dubai arriving Singapore berth 9,1,ask_vessel_schedule
+Requesting wharfage rates for tanker vessels at Dubai,4,ask_tariff_rates
+When does Evergreen Tokyo depart Hong Kong bound for India?,1,ask_vessel_schedule
+Berth reservation: COSCO Shanghai arriving 2024-03-26 with reefer containers total 2540 TEU,0,request_berth_booking
+Submitting SAD document for import of steel coils origin USA consignee Bunge,2,submit_customs_docs
+Security alert: unauthorized personnel near LBCT terminal perimeter,3,report_port_incident
+Reschedule: HMM Busan advance cargo operations to 2024-06-17 due to weather,5,modify_berth_booking
+ETD for MSC Geneva after cargo operations complete?,1,ask_vessel_schedule
+Container ZIMU1239874 customs inspection status?,6,track_container
+Security alert: unauthorized personnel near PSA terminal perimeter,3,report_port_incident
+ETD for ZIM Haifa after cargo operations complete?,1,ask_vessel_schedule
+Incident report: Maersk Edmonton damaged fender at berth 9 during mooring,3,report_port_incident
+Tug service rates for Hapag Dubai gross tonnage 31260 at Antwerp,4,ask_tariff_rates
+Standby tug for Maersk Edmonton during cargo transfer operations,7,request_pilotage_tug
+Container HLCU5556667 loaded on which vessel voyage?,6,track_container
+Cancel berth reservation for MSC Geneva voyage 791,5,modify_berth_booking
+Order pilot for Yang Ming Kaohsiung LOA 234m GT 52630 ETA pilot station 2024-05-21,7,request_pilotage_tug
+Reschedule: Maersk Edmonton advance cargo operations to 2024-09-17 due to weather,5,modify_berth_booking
+Phytosanitary certificate submitted for agricultural cargo electronics container OOLU4567890,2,submit_customs_docs
+Dangerous goods manifest: textiles UN number 2218 class 5 container ZIMU1239874,9,declare_cargo_manifest
+Bulk cargo declaration: textiles 75751 MT shipper Glencore consignee Cargill,9,declare_cargo_manifest
+What is the pilotage fee for LOA 299m vessel entering Ningbo?,4,ask_tariff_rates
+Cancel pilot order for Hapag Dubai ETA changed to 2024-09-14,5,modify_berth_booking
+Regulations for handling automobiles IMO class 5 at Delta?,8,ask_regulations
+Extend stay: Evergreen Tokyo requires additional 11 days alongside for electronics,5,modify_berth_booking
+Container EGLV4445556 loaded on which vessel voyage?,6,track_container
+Where is container HLCU5556667 currently in port?,6,track_container
+Order pilot for Evergreen Tokyo LOA 321m GT 144381 ETA pilot station 2024-04-26,7,request_pilotage_tug
+Berth swap requested between COSCO Shanghai and MSC Geneva at SSA,5,modify_berth_booking
+Berth reservation: ONE Bangkok arriving 2024-05-13 with reefer containers total 5146 TEU,0,request_berth_booking
+Berth reservation: HMM Busan arriving 2024-07-12 with dry van containers total 2666 TEU,0,request_berth_booking
+Container ONEU3334445 customs inspection status?,6,track_container
+Berth reservation: MSC Geneva arriving 2024-03-12 with open top containers total 15759 TEU,0,request_berth_booking
+Is ZIMU1239874 available for collection at Delta gate?,6,track_container
+Reefer cargo list attached for HMM Busan 19820 refrigerated containers set temps included,9,declare_cargo_manifest
+Mooring gang requested for Yang Ming Kaohsiung at berth 7 ETA 2024-04-25,7,request_pilotage_tug
+Modify: Evergreen Tokyo shifting from berth 1 to 19 for cargo segregation,5,modify_berth_booking
+Container MAEU9876543 customs inspection status?,6,track_container
+Security alert: unauthorized personnel near PSA terminal perimeter,3,report_port_incident
+What is the ETB for COSCO Shanghai at terminal LBCT?,1,ask_vessel_schedule
+Berth reservation: Yang Ming Kaohsiung arriving 2024-05-24 with tank containers total 10594 TEU,0,request_berth_booking
+Extend stay: ONE Bangkok requires additional 5 days alongside for automobiles,5,modify_berth_booking
+Customs entry filed: Bill of Lading MSCU6008636 container ONEU3334445 cargo textiles,2,submit_customs_docs
+Berth swap requested between HMM Busan and MSC Geneva at LBCT,5,modify_berth_booking
+Port state control inspection procedures for Malta flag vessels,8,ask_regulations
+Cargo manifest declaration for COSCO Shanghai voyage 843 loading containers destination Germany,9,declare_cargo_manifest
+ONE Bangkok requesting quay space for discharge of frozen meat ETA 2024-05-12 LOA 377m GRT 121418,0,request_berth_booking
+Status inquiry: MSCU1234567 customs hold or released?,6,track_container
+Out of gauge cargo declaration: iron ore dimensions 11x3x3m,9,declare_cargo_manifest
+Requesting anchorage for COSCO Shanghai awaiting berth availability for steel coils discharge,0,request_berth_booking
+Manifest amendment: container OOLU4567890 cargo description changed to textiles,9,declare_cargo_manifest
+Arrival window for HMM Busan at pilot station 8 to 16,1,ask_vessel_schedule
+Book berth for Maersk Edmonton at SSA terminal ETA 2024-04-11 draft 9m alongside starboard,0,request_berth_booking
+Where is container HLCU5556667 currently in port?,6,track_container
+Double tug configuration for ZIM Haifa due to adverse currents,7,request_pilotage_tug
+Need pier allocation for car carrier ONE Bangkok loading textiles ETD 2024-02-28,0,request_berth_booking
+What is the pilotage fee for LOA 360m vessel entering Busan?,4,ask_tariff_rates
+Requesting wharfage rates for LNG carrier vessels at Busan,4,ask_tariff_rates
+Container TCLU1112223 loaded on which vessel voyage?,6,track_container
+Extend stay: Yang Ming Kaohsiung requires additional 8 days alongside for steel coils,5,modify_berth_booking
+Tariff inquiry: container storage fees for flat rack after 17 days free time,4,ask_tariff_rates
+Book berth for COSCO Shanghai at Euromax terminal ETA 2024-06-11 draft 15m alongside starboard,0,request_berth_booking
+Demurrage rates for containers at Matson after free time expires,4,ask_tariff_rates
+Environmental compliance: scrubber washwater discharge rules at Los Angeles,8,ask_regulations
+Port state control inspection procedures for Liberia flag vessels,8,ask_regulations
+Certificate of origin attached for textiles HS code 6203.42 preferential origin Chile,2,submit_customs_docs
+Demurrage rates for containers at Euromax after free time expires,4,ask_tariff_rates
+Stevedoring charges for LNG discharge rate 474 MT per hour,4,ask_tariff_rates
+Manifest amendment: container COSU7654321 cargo description changed to containers,9,declare_cargo_manifest
+ETA for Yang Ming Kaohsiung voyage 229 from Brazil?,1,ask_vessel_schedule
+Cancel pilot order for Maersk Edmonton ETA changed to 2024-01-18,5,modify_berth_booking
+Certificate of origin attached for wheat HS code 8703.23 preferential origin Russia,2,submit_customs_docs
+Reefer cargo list attached for Evergreen Tokyo 1083 refrigerated containers set temps included,9,declare_cargo_manifest
+OPL (Outer Port Limit) anchorage regulations for ro-ro vessel vessels,8,ask_regulations
+ETA for Maersk Edmonton voyage 581 from Russia?,1,ask_vessel_schedule
+Port incident: COSU7654321 collapsed during stacking at yard block D4,3,report_port_incident
+Container ONEU3334445 customs inspection status?,6,track_container
+Hapag Dubai requesting quay space for discharge of frozen meat ETA 2024-08-14 LOA 256m GRT 104155,0,request_berth_booking
+Customs docs: commercial invoice 84346 coal value 3370442 Incoterm DDP,2,submit_customs_docs
+ETD for ZIM Haifa after cargo operations complete?,1,ask_vessel_schedule
+Berth request: Maersk Edmonton IMO 9231854 arriving 2024-06-25 with 72917 MT of frozen meat FOB,0,request_berth_booking
+Safety incident: crew injury on Evergreen Tokyo during lashing operations,3,report_port_incident
+Berth reservation: ZIM Haifa arriving 2024-08-12 with tank containers total 18142 TEU,0,request_berth_booking
+Certificate of origin attached for iron ore HS code 2601.11 preferential origin Canada,2,submit_customs_docs
+Standby tug for Hapag Dubai during cargo transfer operations,7,request_pilotage_tug
+Incident: Evergreen Tokyo allision with jetty during berthing maneuver,3,report_port_incident
+Certificate of origin attached for coal HS code 6203.42 preferential origin Russia,2,submit_customs_docs
+Demurrage rates for containers at CTA after free time expires,4,ask_tariff_rates
+Arrival window for ZIM Haifa at pilot station 4 to 19,1,ask_vessel_schedule
+Container EGLV4445556 loaded on which vessel voyage?,6,track_container
+Request tug assistance: CMA CGM Rio berthing at berth 1 wind force 5,7,request_pilotage_tug
+Safety incident: crew injury on MSC Geneva during lashing operations,3,report_port_incident
+Security alert: unauthorized personnel near APM terminal perimeter,3,report_port_incident
+Submitting customs declaration for frozen meat HS code 2601.11 value 2600660 CIF,2,submit_customs_docs
+Schedule inquiry: MSC Geneva arriving Hamburg berth 9,1,ask_vessel_schedule
+Arrival window for Evergreen Tokyo at pilot station 10 to 22,1,ask_vessel_schedule
+Submitting customs declaration for bauxite HS code 0901.11 value 1496216 FOB,2,submit_customs_docs
+Request berth allocation for MV HMM Busan LOA 381m beam 46m draft 10m ETA 2024-08-21 cargo bauxite,0,request_berth_booking
+When is CMA CGM Rio expected to arrive at Shanghai?,1,ask_vessel_schedule
+Requesting wharfage rates for bulk carrier vessels at Los Angeles,4,ask_tariff_rates
+Customs entry filed: Bill of Lading HLCU6366594 container MSCU1234567 cargo electronics,2,submit_customs_docs
+Port dues for Yang Ming Kaohsiung net tonnage 49786 stay duration 15 days,4,ask_tariff_rates
+Phytosanitary certificate submitted for agricultural cargo wheat container EGLV4445556,2,submit_customs_docs
+Double tug configuration for Maersk Edmonton due to adverse currents,7,request_pilotage_tug
+Standby tug for CMA CGM Rio during cargo transfer operations,7,request_pilotage_tug
+Order pilot for ZIM Haifa LOA 322m GT 115730 ETA pilot station 2024-09-25,7,request_pilotage_tug
+Requesting wharfage rates for car carrier vessels at Busan,4,ask_tariff_rates
+Requesting anchorage for Maersk Edmonton awaiting berth availability for bauxite discharge,0,request_berth_booking
+Security alert: unauthorized personnel near CTB terminal perimeter,3,report_port_incident
+Status inquiry: HLCU5556667 customs hold or released?,6,track_container
+Need pier allocation for ro-ro vessel ONE Bangkok loading textiles ETD 2024-02-19,0,request_berth_booking
+Dangerous goods manifest: LNG UN number 1670 class 9 container EGLV4445556,9,declare_cargo_manifest
+ETD for ONE Bangkok after cargo operations complete?,1,ask_vessel_schedule
+Berth reservation: CMA CGM Rio arriving 2024-02-12 with open top containers total 12319 TEU,0,request_berth_booking
+Certificate of origin attached for crude oil HS code 2601.11 preferential origin Russia,2,submit_customs_docs
+Status inquiry: COSU7654321 customs hold or released?,6,track_container
+Extend stay: COSCO Shanghai requires additional 8 days alongside for LNG,5,modify_berth_booking
+Double tug configuration for ZIM Haifa due to adverse currents,7,request_pilotage_tug
+Arrival window for Hapag Dubai at pilot station 12 to 18,1,ask_vessel_schedule
+Port incident: HLCU5556667 collapsed during stacking at yard block F6,3,report_port_incident
+Tracking: ONEU3334445 discharge completion time at terminal Delta,6,track_container
+ETA for MSC Geneva voyage 544 from Russia?,1,ask_vessel_schedule
+Berth request: HMM Busan IMO 9347372 arriving 2024-07-25 with 20923 MT of crude oil FOB,0,request_berth_booking
+Regulations for handling steel coils IMO class 6 at PSA?,8,ask_regulations
+Submitting customs declaration for soybeans HS code 2709.00 value 3899090 DDP,2,submit_customs_docs
+Tug services: ONE Bangkok unberthing from Delta ETD 2024-08-24,7,request_pilotage_tug
+Demurrage rates for containers at Euromax after free time expires,4,ask_tariff_rates
+Port state control inspection procedures for Liberia flag vessels,8,ask_regulations
+Request berth allocation for MV CMA CGM Rio LOA 367m beam 51m draft 16m ETA 2024-09-26 cargo bauxite,0,request_berth_booking
+When does ONE Bangkok depart Antwerp bound for Turkey?,1,ask_vessel_schedule
+Phytosanitary certificate submitted for agricultural cargo steel coils container MAEU9876543,2,submit_customs_docs
+Security alert: unauthorized personnel near Delta terminal perimeter,3,report_port_incident
+What is the pilotage fee for LOA 285m vessel entering Rotterdam?,4,ask_tariff_rates
+Location of container EGLV4445556 in yard block B2?,6,track_container
+Where is container HLCU5556667 currently in port?,6,track_container
+Mooring gang requested for COSCO Shanghai at berth 3 ETA 2024-09-17,7,request_pilotage_tug
+Container EGLV4445556 customs inspection status?,6,track_container
+Tug service rates for HMM Busan gross tonnage 123497 at Singapore,4,ask_tariff_rates
+Requesting wharfage rates for LNG carrier vessels at Busan,4,ask_tariff_rates
+Container ONEU3334445 loaded on which vessel voyage?,6,track_container
+Cancel pilot order for MSC Geneva ETA changed to 2024-04-27,5,modify_berth_booking
+ETD for Maersk Edmonton after cargo operations complete?,1,ask_vessel_schedule
+Port dues for ZIM Haifa net tonnage 12978 stay duration 15 days,4,ask_tariff_rates
+When is Yang Ming Kaohsiung expected to arrive at Ningbo?,1,ask_vessel_schedule
+Submitting SAD document for import of textiles origin Canada consignee Wilmar,2,submit_customs_docs
+Out of gauge cargo declaration: electronics dimensions 5x2x3m,9,declare_cargo_manifest
+Location of container EGLV4445556 in yard block C3?,6,track_container
+Port state control inspection procedures for Malta flag vessels,8,ask_regulations
+Cancel pilot order for MSC Geneva ETA changed to 2024-06-21,5,modify_berth_booking
+Reefer cargo list attached for CMA CGM Rio 9721 refrigerated containers set temps included,9,declare_cargo_manifest
+Requesting wharfage rates for general cargo vessels at Hamburg,4,ask_tariff_rates
+What is the ETB for MSC Geneva at terminal Matson?,1,ask_vessel_schedule
+Cargo manifest declaration for HMM Busan voyage 900 loading chemicals destination Turkey,9,declare_cargo_manifest
+Bulk cargo declaration: frozen meat 39732 MT shipper ADM consignee Trafigura,9,declare_cargo_manifest
+Cancel pilot order for Maersk Edmonton ETA changed to 2024-05-18,5,modify_berth_booking
+Documentation submitted: cargo manifest for Evergreen Tokyo voyage 958 Hong Kong,2,submit_customs_docs
+Out of gauge cargo declaration: crude oil dimensions 15x4x2m,9,declare_cargo_manifest
+Reefer cargo list attached for Hapag Dubai 8912 refrigerated containers set temps included,9,declare_cargo_manifest
+What are the ISPS security requirements for Yang Ming Kaohsiung at Rotterdam?,8,ask_regulations
+Cargo manifest declaration for Evergreen Tokyo voyage 851 loading automobiles destination Japan,9,declare_cargo_manifest
+Port dues for Maersk Edmonton net tonnage 21134 stay duration 18 days,4,ask_tariff_rates
+Requesting anchorage for Yang Ming Kaohsiung awaiting berth availability for electronics discharge,0,request_berth_booking
+Bulk cargo declaration: soybeans 55868 MT shipper Odebrecht consignee ADM,9,declare_cargo_manifest
+Berth request: CMA CGM Rio IMO 9755185 arriving 2024-03-24 with 31812 MT of crude oil FOB,0,request_berth_booking
+When is COSCO Shanghai expected to arrive at Ningbo?,1,ask_vessel_schedule
+OPL (Outer Port Limit) anchorage regulations for bulk carrier vessels,8,ask_regulations
+Need pier allocation for container vessel ONE Bangkok loading frozen meat ETD 2024-08-23,0,request_berth_booking
+Submitting customs declaration for LNG HS code 8703.23 value 146706 DDP,2,submit_customs_docs
+Reschedule: COSCO Shanghai advance cargo operations to 2024-01-15 due to weather,5,modify_berth_booking
+Incident: MSC Geneva allision with jetty during berthing maneuver,3,report_port_incident
+Phytosanitary certificate submitted for agricultural cargo electronics container HLCU5556667,2,submit_customs_docs
+Incident: ZIM Haifa allision with jetty during berthing maneuver,3,report_port_incident
+Status inquiry: ONEU3334445 customs hold or released?,6,track_container
+Phytosanitary certificate submitted for agricultural cargo steel coils container YMLU7778889,2,submit_customs_docs
+Container ZIMU1239874 customs inspection status?,6,track_container
+Tug services: Maersk Edmonton unberthing from Matson ETD 2024-03-17,7,request_pilotage_tug
+Reschedule: ONE Bangkok advance cargo operations to 2024-02-28 due to weather,5,modify_berth_booking
+OPL (Outer Port Limit) anchorage regulations for general cargo vessels,8,ask_regulations
+Uploading packing list for container YMLU7778889 HS 3004.90 weight 6488kg,2,submit_customs_docs
+Customs docs: commercial invoice 58434 textiles value 4298174 Incoterm DDP,2,submit_customs_docs
+Request tug assistance: Evergreen Tokyo berthing at berth 7 wind force 8,7,request_pilotage_tug
+Tariff inquiry: container storage fees for dry van after 3 days free time,4,ask_tariff_rates
+Modify: HMM Busan shifting from berth 7 to 22 for cargo segregation,5,modify_berth_booking
+ETD for Maersk Edmonton after cargo operations complete?,1,ask_vessel_schedule
+Incident: Evergreen Tokyo allision with jetty during berthing maneuver,3,report_port_incident
+Arrival window for Evergreen Tokyo at pilot station 2 to 23,1,ask_vessel_schedule
+Status inquiry: MAEU9876543 customs hold or released?,6,track_container
+Order pilot for Hapag Dubai LOA 175m GT 128103 ETA pilot station 2024-09-18,7,request_pilotage_tug
+Immigration formalities for crew change on Evergreen Tokyo at Hong Kong,8,ask_regulations
+Regulations for handling textiles IMO class 2 at CTB?,8,ask_regulations
+Certificate of origin attached for iron ore HS code 0901.11 preferential origin Chile,2,submit_customs_docs
+Reporting equipment failure: crane RMG02 breakdown at berth 4,3,report_port_incident
+Need berth booking for bulk carrier HMM Busan carrying iron ore ETA 2024-01-22 LOA 273 meters,0,request_berth_booking
+Requesting anchorage for MSC Geneva awaiting berth availability for iron ore discharge,0,request_berth_booking
+Reporting equipment failure: crane QC02 breakdown at berth 9,3,report_port_incident
+Port incident: TCLU1112223 collapsed during stacking at yard block A1,3,report_port_incident
+What is the ETB for Hapag Dubai at terminal Matson?,1,ask_vessel_schedule
+CMA CGM Rio requesting quay space for discharge of crude oil ETA 2024-01-27 LOA 329m GRT 54613,0,request_berth_booking
+Book berth for Maersk Edmonton at PSA terminal ETA 2024-05-28 draft 16m alongside port,0,request_berth_booking
+Cancel berth reservation for ZIM Haifa voyage 779,5,modify_berth_booking
+Reschedule: ZIM Haifa advance cargo operations to 2024-09-23 due to weather,5,modify_berth_booking
+Cancel berth reservation for HMM Busan voyage 712,5,modify_berth_booking
+Container OOLU4567890 customs inspection status?,6,track_container
+Pilotage required for LNG carrier HMM Busan draft 13m arriving 2024-06-27,7,request_pilotage_tug
+Tug services: COSCO Shanghai unberthing from Euromax ETD 2024-01-10,7,request_pilotage_tug
+Reporting delay: cargo operations suspended at terminal HIT due to heavy rain,3,report_port_incident
+Reporting delay: cargo operations suspended at terminal SSA due to rough seas,3,report_port_incident
+Incident report: ZIM Haifa damaged fender at berth 3 during mooring,3,report_port_incident
+Port dues for ONE Bangkok net tonnage 15057 stay duration 4 days,4,ask_tariff_rates
+Cargo manifest declaration for Evergreen Tokyo voyage 596 loading frozen meat destination Spain,9,declare_cargo_manifest
+Certificate of origin attached for iron ore HS code 2709.00 preferential origin Argentina,2,submit_customs_docs
+Requesting wharfage rates for general cargo vessels at Antwerp,4,ask_tariff_rates
+Berth swap requested between Evergreen Tokyo and Maersk Edmonton at Delta,5,modify_berth_booking
+Escort tug request for COSCO Shanghai in restricted channel due to rough seas,7,request_pilotage_tug
+Extend stay: Maersk Edmonton requires additional 6 days alongside for bauxite,5,modify_berth_booking
+Dangerous goods manifest: electronics UN number 1127 class 3 container MAEU9876543,9,declare_cargo_manifest
+Reporting delay: cargo operations suspended at terminal PSA due to high winds,3,report_port_incident
+Documentation submitted: cargo manifest for CMA CGM Rio voyage 598 Antwerp,2,submit_customs_docs
+Order pilot for Hapag Dubai LOA 246m GT 59255 ETA pilot station 2024-09-12,7,request_pilotage_tug
+Uploading packing list for container MSCU1234567 HS 6203.42 weight 21981kg,2,submit_customs_docs
+Standby tug for ZIM Haifa during cargo transfer operations,7,request_pilotage_tug
+Berth request: COSCO Shanghai IMO 9860109 arriving 2024-09-15 with 42274 MT of iron ore FOB,0,request_berth_booking
+Demurrage rates for containers at CTA after free time expires,4,ask_tariff_rates
+Demurrage rates for containers at SSA after free time expires,4,ask_tariff_rates
+What are the ISPS security requirements for Hapag Dubai at Los Angeles?,8,ask_regulations
+Track container YMLU7778889 last reported location?,6,track_container
+Certificate of origin attached for crude oil HS code 0901.11 preferential origin Brazil,2,submit_customs_docs
+Immigration formalities for crew change on Yang Ming Kaohsiung at Antwerp,8,ask_regulations
+Uploading packing list for container ZIMU1239874 HS 2709.00 weight 19000kg,2,submit_customs_docs
+Requesting vessel schedule for Hapag Dubai IMO 9456784,1,ask_vessel_schedule
+Documentation submitted: cargo manifest for COSCO Shanghai voyage 97 Hamburg,2,submit_customs_docs
+Reefer cargo list attached for HMM Busan 19515 refrigerated containers set temps included,9,declare_cargo_manifest
+Reporting delay: cargo operations suspended at terminal SSA due to fog,3,report_port_incident
+Submitting customs declaration for wheat HS code 6203.42 value 1878968 EXW,2,submit_customs_docs
+Modify: HMM Busan shifting from berth 5 to 22 for cargo segregation,5,modify_berth_booking
+Submitting manifest: reefer containers total 10056 TEU on ZIM Haifa,9,declare_cargo_manifest
+Customs docs: commercial invoice 30023 chemicals value 2770524 Incoterm CIF,2,submit_customs_docs
+Requesting anchorage for COSCO Shanghai awaiting berth availability for steel coils discharge,0,request_berth_booking
+Location of container ZIMU1239874 in yard block D4?,6,track_container
+Uploading packing list for container HLCU5556667 HS 6203.42 weight 11729kg,2,submit_customs_docs
+Regulations for handling coal IMO class 6 at PSA?,8,ask_regulations
+Need pier allocation for car carrier ZIM Haifa loading containers ETD 2024-04-19,0,request_berth_booking
+Where is container TCLU1112223 currently in port?,6,track_container
+Submitting manifest: reefer containers total 9149 TEU on Yang Ming Kaohsiung,9,declare_cargo_manifest
+Extend stay: HMM Busan requires additional 3 days alongside for coal,5,modify_berth_booking
+Tariff inquiry: container storage fees for flat rack after 19 days free time,4,ask_tariff_rates
+Cancel berth reservation for HMM Busan voyage 901,5,modify_berth_booking
+Incident: Evergreen Tokyo allision with jetty during berthing maneuver,3,report_port_incident
+Tariff inquiry: container storage fees for open top after 15 days free time,4,ask_tariff_rates
+Berth request: CMA CGM Rio IMO 9632063 arriving 2024-01-22 with 59773 MT of wheat FOB,0,request_berth_booking
+Requesting vessel schedule for Evergreen Tokyo IMO 9611931,1,ask_vessel_schedule
+What is the ETB for Evergreen Tokyo at terminal HIT?,1,ask_vessel_schedule
+Port state control inspection procedures for Panama flag vessels,8,ask_regulations
+Requesting vessel schedule for ZIM Haifa IMO 9679020,1,ask_vessel_schedule
+Regulations for handling bauxite IMO class 9 at APM?,8,ask_regulations
+Status inquiry: HLCU5556667 customs hold or released?,6,track_container
+Requesting anchorage for ZIM Haifa awaiting berth availability for automobiles discharge,0,request_berth_booking
+Tariff inquiry: container storage fees for dry van after 11 days free time,4,ask_tariff_rates
+Container MAEU9876543 customs inspection status?,6,track_container
+Requesting vessel schedule for Evergreen Tokyo IMO 9298534,1,ask_vessel_schedule
+Bulk cargo declaration: coal 41786 MT shipper Odebrecht consignee Olam,9,declare_cargo_manifest
+Pilotage required for general cargo HMM Busan draft 10m arriving 2024-08-13,7,request_pilotage_tug
+Arrival window for Maersk Edmonton at pilot station 1 to 24,1,ask_vessel_schedule
+Demurrage rates for containers at Delta after free time expires,4,ask_tariff_rates
+Ballast water management requirements at Ningbo for Maersk Edmonton,8,ask_regulations
+Certificate of origin attached for frozen meat HS code 6203.42 preferential origin China,2,submit_customs_docs
+Location of container COSU7654321 in yard block F6?,6,track_container
+Pilotage required for car carrier MSC Geneva draft 13m arriving 2024-04-15,7,request_pilotage_tug
+Certificate of origin attached for iron ore HS code 0901.11 preferential origin China,2,submit_customs_docs
+When does MSC Geneva depart Shanghai bound for Japan?,1,ask_vessel_schedule
+Tug services: ONE Bangkok unberthing from SSA ETD 2024-06-13,7,request_pilotage_tug
+Cancel pilot order for CMA CGM Rio ETA changed to 2024-03-16,5,modify_berth_booking
+Schedule inquiry: Maersk Edmonton arriving Antwerp berth 10,1,ask_vessel_schedule
+Requesting wharfage rates for cruise ship vessels at Los Angeles,4,ask_tariff_rates
+ETA for ONE Bangkok voyage 832 from Argentina?,1,ask_vessel_schedule
+Order pilot for Hapag Dubai LOA 191m GT 148310 ETA pilot station 2024-06-23,7,request_pilotage_tug
+Need pier allocation for general cargo Yang Ming Kaohsiung loading frozen meat ETD 2024-04-25,0,request_berth_booking
+Tracking: MSCU1234567 discharge completion time at terminal CTB,6,track_container
+Tug service rates for MSC Geneva gross tonnage 31086 at Los Angeles,4,ask_tariff_rates
+Documentation submitted: cargo manifest for Evergreen Tokyo voyage 565 Singapore,2,submit_customs_docs
+What are the cargo handling charges for chemicals per metric ton at LBCT?,4,ask_tariff_rates
+Submitting customs declaration for automobiles HS code 6203.42 value 3904249 EXW,2,submit_customs_docs
+Incident report: Evergreen Tokyo damaged fender at berth 11 during mooring,3,report_port_incident
+Demurrage rates for containers at LBCT after free time expires,4,ask_tariff_rates
+Double tug configuration for ONE Bangkok due to adverse currents,7,request_pilotage_tug
+Escort tug request for ONE Bangkok in restricted channel due to rough seas,7,request_pilotage_tug
+What is the pilotage fee for LOA 154m vessel entering Hamburg?,4,ask_tariff_rates
+Submitting manifest: reefer containers total 10954 TEU on MSC Geneva,9,declare_cargo_manifest
+Reschedule: Yang Ming Kaohsiung advance cargo operations to 2024-01-23 due to weather,5,modify_berth_booking
+Environmental incident: oil spill from Evergreen Tokyo at anchorage during bunkering,3,report_port_incident
+Requesting anchorage for Maersk Edmonton awaiting berth availability for chemicals discharge,0,request_berth_booking
+Status inquiry: MSCU1234567 customs hold or released?,6,track_container
+Extend stay: ZIM Haifa requires additional 17 days alongside for frozen meat,5,modify_berth_booking
+Documentation submitted: cargo manifest for CMA CGM Rio voyage 334 Hamburg,2,submit_customs_docs
+Environmental incident: oil spill from HMM Busan at anchorage during bunkering,3,report_port_incident
+Environmental compliance: scrubber washwater discharge rules at Dubai,8,ask_regulations
+Submitting SAD document for import of soybeans origin Chile consignee Wilmar,2,submit_customs_docs
+Escort tug request for ONE Bangkok in restricted channel due to thunderstorms,7,request_pilotage_tug
+Amend berth booking: HMM Busan new ETA 2024-03-12 original booking 2024-08-8,5,modify_berth_booking
+Where is container MSCU1234567 currently in port?,6,track_container
+Need pier allocation for ro-ro vessel Yang Ming Kaohsiung loading LNG ETD 2024-03-20,0,request_berth_booking
+Out of gauge cargo declaration: chemicals dimensions 5x3x5m,9,declare_cargo_manifest
+What are the ISPS security requirements for HMM Busan at Hong Kong?,8,ask_regulations
+Modify: Hapag Dubai shifting from berth 5 to 23 for cargo segregation,5,modify_berth_booking
+Manifest amendment: container MAEU9876543 cargo description changed to containers,9,declare_cargo_manifest
+Ballast water management requirements at Hong Kong for Maersk Edmonton,8,ask_regulations
+Manifest amendment: container COSU7654321 cargo description changed to LNG,9,declare_cargo_manifest
+Reporting delay: cargo operations suspended at terminal CTA due to thunderstorms,3,report_port_incident
+Berth reservation: ONE Bangkok arriving 2024-01-20 with flat rack containers total 1448 TEU,0,request_berth_booking
+Container MSCU1234567 customs inspection status?,6,track_container
+Bulk cargo declaration: soybeans 8223 MT shipper Odebrecht consignee Cargill,9,declare_cargo_manifest
+Environmental incident: oil spill from COSCO Shanghai at anchorage during bunkering,3,report_port_incident
+Phytosanitary certificate submitted for agricultural cargo electronics container HLCU5556667,2,submit_customs_docs
+Container ONEU3334445 customs inspection status?,6,track_container
+Mooring gang requested for ONE Bangkok at berth 2 ETA 2024-09-17,7,request_pilotage_tug
+Extend stay: Yang Ming Kaohsiung requires additional 11 days alongside for textiles,5,modify_berth_booking
+Request berth allocation for MV MSC Geneva LOA 313m beam 38m draft 16m ETA 2024-01-15 cargo bauxite,0,request_berth_booking
+Ballast water management requirements at Busan for CMA CGM Rio,8,ask_regulations
+Dangerous goods manifest: wheat UN number 3137 class 5 container YMLU7778889,9,declare_cargo_manifest
+Submitting SAD document for import of crude oil origin Argentina consignee Trafigura,2,submit_customs_docs
+Incident: ONE Bangkok allision with jetty during berthing maneuver,3,report_port_incident
+Customs docs: commercial invoice 43388 containers value 3352732 Incoterm CFR,2,submit_customs_docs
+Berth change request: COSCO Shanghai needs deeper draft berth 20 draft 15m,5,modify_berth_booking
+Berth request: COSCO Shanghai IMO 9341806 arriving 2024-03-15 with 11875 MT of wheat FOB,0,request_berth_booking
+Port incident: MAEU9876543 collapsed during stacking at yard block F6,3,report_port_incident
+Berth reservation: Maersk Edmonton arriving 2024-06-13 with open top containers total 9984 TEU,0,request_berth_booking
+Is HLCU5556667 available for collection at Euromax gate?,6,track_container
+Bulk cargo declaration: frozen meat 60306 MT shipper Vitol consignee ADM,9,declare_cargo_manifest
+Requesting anchorage for ONE Bangkok awaiting berth availability for iron ore discharge,0,request_berth_booking
+Port incident: MAEU9876543 collapsed during stacking at yard block E5,3,report_port_incident
+OPL (Outer Port Limit) anchorage regulations for tanker vessels,8,ask_regulations
+Pilotage required for general cargo ONE Bangkok draft 14m arriving 2024-03-13,7,request_pilotage_tug
+Standby tug for ZIM Haifa during cargo transfer operations,7,request_pilotage_tug
+Submitting manifest: flat rack containers total 23144 TEU on MSC Geneva,9,declare_cargo_manifest
+Bulk cargo declaration: electronics 30396 MT shipper Vitol consignee Wilmar,9,declare_cargo_manifest
+Documentation submitted: cargo manifest for Maersk Edmonton voyage 77 Singapore,2,submit_customs_docs
+Track container MAEU9876543 last reported location?,6,track_container
+Uploading packing list for container EGLV4445556 HS 3004.90 weight 26025kg,2,submit_customs_docs
+Standby tug for ONE Bangkok during cargo transfer operations,7,request_pilotage_tug
+Ballast water management requirements at Ningbo for Evergreen Tokyo,8,ask_regulations
+Demurrage rates for containers at Delta after free time expires,4,ask_tariff_rates
+What are the ISPS security requirements for ZIM Haifa at Busan?,8,ask_regulations
+Incident report: CMA CGM Rio damaged fender at berth 3 during mooring,3,report_port_incident
+Cancel pilot order for Maersk Edmonton ETA changed to 2024-01-14,5,modify_berth_booking
+Customs docs: commercial invoice 18242 crude oil value 3586631 Incoterm FOB,2,submit_customs_docs
+Submitting manifest: reefer containers total 22512 TEU on Hapag Dubai,9,declare_cargo_manifest
+Requesting anchorage for Maersk Edmonton awaiting berth availability for iron ore discharge,0,request_berth_booking
+Book berth for COSCO Shanghai at Euromax terminal ETA 2024-09-10 draft 15m alongside port,0,request_berth_booking
+Book berth for ZIM Haifa at HIT terminal ETA 2024-08-12 draft 11m alongside port,0,request_berth_booking
+Requesting vessel schedule for Maersk Edmonton IMO 9690573,1,ask_vessel_schedule
+Reporting delay: cargo operations suspended at terminal HIT due to heavy rain,3,report_port_incident
+Container ZIMU1239874 customs inspection status?,6,track_container
+Customs procedures for transshipment cargo at Shanghai,8,ask_regulations
+Reschedule: COSCO Shanghai advance cargo operations to 2024-04-10 due to weather,5,modify_berth_booking
+Reporting delay: cargo operations suspended at terminal HIT due to rough seas,3,report_port_incident
+Container COSU7654321 customs inspection status?,6,track_container
+Container TCLU1112223 loaded on which vessel voyage?,6,track_container
+Tug service rates for MSC Geneva gross tonnage 87109 at Hong Kong,4,ask_tariff_rates
+Customs entry filed: Bill of Lading MAEU2190891 container MSCU1234567 cargo coal,2,submit_customs_docs
+Extend stay: Evergreen Tokyo requires additional 18 days alongside for chemicals,5,modify_berth_booking
+Need berth booking for cruise ship Maersk Edmonton carrying coal ETA 2024-07-24 LOA 213 meters,0,request_berth_booking
+Customs docs: commercial invoice 93392 wheat value 2739064 Incoterm FOB,2,submit_customs_docs
+Tug service rates for MSC Geneva gross tonnage 99855 at Rotterdam,4,ask_tariff_rates
+Safety incident: crew injury on MSC Geneva during lashing operations,3,report_port_incident
+Berth swap requested between COSCO Shanghai and Yang Ming Kaohsiung at PSA,5,modify_berth_booking
+ETD for Maersk Edmonton after cargo operations complete?,1,ask_vessel_schedule
+Environmental compliance: scrubber washwater discharge rules at Ningbo,8,ask_regulations
+Request tug assistance: MSC Geneva berthing at berth 5 wind force 6,7,request_pilotage_tug
+ETD for Yang Ming Kaohsiung after cargo operations complete?,1,ask_vessel_schedule
+What is the pilotage fee for LOA 223m vessel entering Hamburg?,4,ask_tariff_rates
+Port incident: OOLU4567890 collapsed during stacking at yard block D4,3,report_port_incident
+Need pier allocation for tanker CMA CGM Rio loading frozen meat ETD 2024-02-26,0,request_berth_booking
+Schedule inquiry: Evergreen Tokyo arriving Rotterdam berth 7,1,ask_vessel_schedule
+Order pilot for HMM Busan LOA 350m GT 142950 ETA pilot station 2024-01-28,7,request_pilotage_tug
+Tug services: Maersk Edmonton unberthing from LBCT ETD 2024-06-23,7,request_pilotage_tug
+Schedule inquiry: Evergreen Tokyo arriving Busan berth 12,1,ask_vessel_schedule
+What is the pilotage fee for LOA 376m vessel entering Dubai?,4,ask_tariff_rates
+Berth change request: COSCO Shanghai needs deeper draft berth 19 draft 8m,5,modify_berth_booking
+Submitting SAD document for import of frozen meat origin Chile consignee Cargill,2,submit_customs_docs
+Final cargo manifest for Hapag Dubai total 27021 MT 2867 TEU Busan to India,9,declare_cargo_manifest
+Stevedoring charges for textiles discharge rate 380 MT per hour,4,ask_tariff_rates
+Requesting vessel schedule for Evergreen Tokyo IMO 9406582,1,ask_vessel_schedule
+Incident report: ONE Bangkok damaged fender at berth 4 during mooring,3,report_port_incident
+Requesting anchorage for Evergreen Tokyo awaiting berth availability for wheat discharge,0,request_berth_booking
+Is ONEU3334445 available for collection at Euromax gate?,6,track_container
+Berth swap requested between Yang Ming Kaohsiung and COSCO Shanghai at PSA,5,modify_berth_booking
+Submitting customs declaration for containers HS code 8703.23 value 4367635 DDP,2,submit_customs_docs
+Pilotage required for car carrier Evergreen Tokyo draft 10m arriving 2024-08-18,7,request_pilotage_tug
+Cancel berth reservation for Maersk Edmonton voyage 813,5,modify_berth_booking
+Extend stay: HMM Busan requires additional 19 days alongside for LNG,5,modify_berth_booking
+Amend berth booking: Yang Ming Kaohsiung new ETA 2024-04-21 original booking 2024-06-6,5,modify_berth_booking
+Bulk cargo declaration: crude oil 6579 MT shipper Trafigura consignee ADM,9,declare_cargo_manifest
+Phytosanitary certificate submitted for agricultural cargo chemicals container HLCU5556667,2,submit_customs_docs
+Environmental incident: oil spill from Hapag Dubai at anchorage during bunkering,3,report_port_incident
+Safety incident: crew injury on COSCO Shanghai during lashing operations,3,report_port_incident
+Pilotage required for cruise ship CMA CGM Rio draft 15m arriving 2024-05-27,7,request_pilotage_tug
+Tracking: YMLU7778889 discharge completion time at terminal SSA,6,track_container
+Standby tug for CMA CGM Rio during cargo transfer operations,7,request_pilotage_tug
+Container COSU7654321 customs inspection status?,6,track_container
+ETA for Hapag Dubai voyage 782 from USA?,1,ask_vessel_schedule
+Yang Ming Kaohsiung requesting quay space for discharge of chemicals ETA 2024-06-28 LOA 200m GRT 43979,0,request_berth_booking
+Regulations for handling textiles IMO class 7 at APM?,8,ask_regulations
+OPL (Outer Port Limit) anchorage regulations for ro-ro vessel vessels,8,ask_regulations
+Customs entry filed: Bill of Lading HLCU2362695 container MSCU1234567 cargo textiles,2,submit_customs_docs
+Is ONEU3334445 available for collection at CTB gate?,6,track_container
+Request tug assistance: Hapag Dubai berthing at berth 6 wind force 9,7,request_pilotage_tug
+Container ZIMU1239874 customs inspection status?,6,track_container
+Request tug assistance: MSC Geneva berthing at berth 10 wind force 9,7,request_pilotage_tug
+Customs entry filed: Bill of Lading MSCU8798827 container MSCU1234567 cargo chemicals,2,submit_customs_docs
+Pilotage required for car carrier HMM Busan draft 8m arriving 2024-03-13,7,request_pilotage_tug
+Phytosanitary certificate submitted for agricultural cargo soybeans container ONEU3334445,2,submit_customs_docs
+Evergreen Tokyo requesting quay space for discharge of electronics ETA 2024-05-15 LOA 386m GRT 148861,0,request_berth_booking
+Track container YMLU7778889 last reported location?,6,track_container
+Tug service rates for HMM Busan gross tonnage 76478 at Busan,4,ask_tariff_rates
+Tug service rates for HMM Busan gross tonnage 60485 at Hamburg,4,ask_tariff_rates
+Track container ONEU3334445 last reported location?,6,track_container
+ETA for ONE Bangkok voyage 837 from Brazil?,1,ask_vessel_schedule
+Customs docs: commercial invoice 58655 textiles value 2916307 Incoterm EXW,2,submit_customs_docs
+Standby tug for Yang Ming Kaohsiung during cargo transfer operations,7,request_pilotage_tug
+Amend berth booking: Hapag Dubai new ETA 2024-07-25 original booking 2024-04-8,5,modify_berth_booking
+Requesting vessel schedule for CMA CGM Rio IMO 9540028,1,ask_vessel_schedule
+Incident: ZIM Haifa allision with jetty during berthing maneuver,3,report_port_incident
+Certificate of origin attached for soybeans HS code 0901.11 preferential origin Chile,2,submit_customs_docs
+ZIM Haifa requesting quay space for discharge of crude oil ETA 2024-03-27 LOA 359m GRT 99315,0,request_berth_booking
+Dangerous goods manifest: containers UN number 1823 class 1 container HLCU5556667,9,declare_cargo_manifest
+Book berth for HMM Busan at CTB terminal ETA 2024-07-23 draft 16m alongside port,0,request_berth_booking
+Double tug configuration for Yang Ming Kaohsiung due to adverse currents,7,request_pilotage_tug
+Requesting anchorage for MSC Geneva awaiting berth availability for frozen meat discharge,0,request_berth_booking
+When does Yang Ming Kaohsiung depart Ningbo bound for Spain?,1,ask_vessel_schedule
+ETD for Yang Ming Kaohsiung after cargo operations complete?,1,ask_vessel_schedule
+Order pilot for ZIM Haifa LOA 195m GT 121381 ETA pilot station 2024-06-22,7,request_pilotage_tug
+Out of gauge cargo declaration: chemicals dimensions 6x3x5m,9,declare_cargo_manifest
+Dangerous goods manifest: bauxite UN number 3005 class 2 container COSU7654321,9,declare_cargo_manifest
+OPL (Outer Port Limit) anchorage regulations for car carrier vessels,8,ask_regulations
+What is the pilotage fee for LOA 395m vessel entering Dubai?,4,ask_tariff_rates
+Tug service rates for MSC Geneva gross tonnage 80468 at Antwerp,4,ask_tariff_rates
+Pilotage required for tanker ZIM Haifa draft 11m arriving 2024-01-14,7,request_pilotage_tug
+Submitting customs declaration for textiles HS code 2709.00 value 184693 FOB,2,submit_customs_docs
+Need pier allocation for tanker Hapag Dubai loading iron ore ETD 2024-08-12,0,request_berth_booking
+Customs docs: commercial invoice 10007 crude oil value 1110479 Incoterm CIF,2,submit_customs_docs
+When does ONE Bangkok depart Antwerp bound for South Korea?,1,ask_vessel_schedule
+Submitting manifest: flat rack containers total 20198 TEU on COSCO Shanghai,9,declare_cargo_manifest
+Pilotage required for container vessel Hapag Dubai draft 14m arriving 2024-05-20,7,request_pilotage_tug
+What is the ETB for ONE Bangkok at terminal CTB?,1,ask_vessel_schedule
+Requesting wharfage rates for LNG carrier vessels at Hong Kong,4,ask_tariff_rates
+ETD for CMA CGM Rio after cargo operations complete?,1,ask_vessel_schedule
+What are the cargo handling charges for soybeans per metric ton at APM?,4,ask_tariff_rates
+Tariff inquiry: container storage fees for reefer after 18 days free time,4,ask_tariff_rates
+Incident: CMA CGM Rio allision with jetty during berthing maneuver,3,report_port_incident
+Manifest amendment: container EGLV4445556 cargo description changed to steel coils,9,declare_cargo_manifest
+When is ONE Bangkok expected to arrive at Singapore?,1,ask_vessel_schedule
+Track container ZIMU1239874 last reported location?,6,track_container
+Berth swap requested between Evergreen Tokyo and Maersk Edmonton at CTA,5,modify_berth_booking
+Reschedule: COSCO Shanghai advance cargo operations to 2024-08-15 due to weather,5,modify_berth_booking
+Tug services: Maersk Edmonton unberthing from Matson ETD 2024-07-22,7,request_pilotage_tug
+Cancel berth reservation for Hapag Dubai voyage 599,5,modify_berth_booking
+Reschedule: Maersk Edmonton advance cargo operations to 2024-05-20 due to weather,5,modify_berth_booking
+Pilotage required for car carrier ZIM Haifa draft 13m arriving 2024-01-10,7,request_pilotage_tug
+Container ONEU3334445 customs inspection status?,6,track_container
+Reschedule: CMA CGM Rio advance cargo operations to 2024-07-26 due to weather,5,modify_berth_booking
+Immigration formalities for crew change on Evergreen Tokyo at Hamburg,8,ask_regulations
+Reporting equipment failure: crane QC03 breakdown at berth 11,3,report_port_incident
+Customs docs: commercial invoice 17002 LNG value 1642774 Incoterm CFR,2,submit_customs_docs
+Tracking: EGLV4445556 discharge completion time at terminal LBCT,6,track_container
+Immigration formalities for crew change on HMM Busan at Antwerp,8,ask_regulations
+Uploading packing list for container OOLU4567890 HS 8703.23 weight 18929kg,2,submit_customs_docs
+ETD for ONE Bangkok after cargo operations complete?,1,ask_vessel_schedule
+Port dues for Maersk Edmonton net tonnage 14817 stay duration 3 days,4,ask_tariff_rates
+Immigration formalities for crew change on CMA CGM Rio at Shanghai,8,ask_regulations
+Tracking: YMLU7778889 discharge completion time at terminal Matson,6,track_container
+Tug services: Yang Ming Kaohsiung unberthing from CTB ETD 2024-02-18,7,request_pilotage_tug
+Documentation submitted: cargo manifest for Hapag Dubai voyage 439 Busan,2,submit_customs_docs
+Customs procedures for transshipment cargo at Antwerp,8,ask_regulations
+Environmental incident: oil spill from COSCO Shanghai at anchorage during bunkering,3,report_port_incident
+Order pilot for CMA CGM Rio LOA 211m GT 107621 ETA pilot station 2024-03-26,7,request_pilotage_tug
+Track container MSCU1234567 last reported location?,6,track_container
+Manifest amendment: container ONEU3334445 cargo description changed to containers,9,declare_cargo_manifest
+Incident report: Hapag Dubai damaged fender at berth 4 during mooring,3,report_port_incident
+Container YMLU7778889 customs inspection status?,6,track_container
+Where is container ONEU3334445 currently in port?,6,track_container
+Manifest amendment: container YMLU7778889 cargo description changed to frozen meat,9,declare_cargo_manifest
+Berth change request: Yang Ming Kaohsiung needs deeper draft berth 24 draft 13m,5,modify_berth_booking
+What are the ISPS security requirements for MSC Geneva at Busan?,8,ask_regulations
+Cancel pilot order for MSC Geneva ETA changed to 2024-03-27,5,modify_berth_booking
+Standby tug for Yang Ming Kaohsiung during cargo transfer operations,7,request_pilotage_tug
+What are the ISPS security requirements for MSC Geneva at Dubai?,8,ask_regulations
+Container EGLV4445556 customs inspection status?,6,track_container
+When does COSCO Shanghai depart Los Angeles bound for Germany?,1,ask_vessel_schedule
+Uploading packing list for container TCLU1112223 HS 8703.23 weight 10498kg,2,submit_customs_docs
+Customs entry filed: Bill of Lading MAEU2610184 container MSCU1234567 cargo bauxite,2,submit_customs_docs
+Ballast water management requirements at Antwerp for Yang Ming Kaohsiung,8,ask_regulations
+Stevedoring charges for chemicals discharge rate 1603 MT per hour,4,ask_tariff_rates
+Requesting vessel schedule for Hapag Dubai IMO 9283246,1,ask_vessel_schedule
+Schedule inquiry: COSCO Shanghai arriving Ningbo berth 1,1,ask_vessel_schedule
+Where is container MSCU1234567 currently in port?,6,track_container
+Modify: ONE Bangkok shifting from berth 12 to 15 for cargo segregation,5,modify_berth_booking
+Mooring gang requested for ONE Bangkok at berth 1 ETA 2024-03-19,7,request_pilotage_tug
+Arrival window for Hapag Dubai at pilot station 2 to 22,1,ask_vessel_schedule
+What are the ISPS security requirements for ZIM Haifa at Los Angeles?,8,ask_regulations
+Environmental incident: oil spill from MSC Geneva at anchorage during bunkering,3,report_port_incident
+Location of container COSU7654321 in yard block F6?,6,track_container
+Modify: COSCO Shanghai shifting from berth 9 to 19 for cargo segregation,5,modify_berth_booking
+Modify: Evergreen Tokyo shifting from berth 8 to 20 for cargo segregation,5,modify_berth_booking
+Demurrage rates for containers at Delta after free time expires,4,ask_tariff_rates
+Regulations for handling textiles IMO class 5 at CTB?,8,ask_regulations
+Safety incident: crew injury on CMA CGM Rio during lashing operations,3,report_port_incident
+Final cargo manifest for MSC Geneva total 72447 MT 10523 TEU Los Angeles to Japan,9,declare_cargo_manifest
+ETD for Maersk Edmonton after cargo operations complete?,1,ask_vessel_schedule
+Uploading packing list for container ONEU3334445 HS 3004.90 weight 23920kg,2,submit_customs_docs
+Standby tug for Maersk Edmonton during cargo transfer operations,7,request_pilotage_tug
+Container MAEU9876543 customs inspection status?,6,track_container
+When is Maersk Edmonton expected to arrive at Rotterdam?,1,ask_vessel_schedule
+Is ONEU3334445 available for collection at LBCT gate?,6,track_container
+Where is container ZIMU1239874 currently in port?,6,track_container
+Reefer cargo list attached for ZIM Haifa 23576 refrigerated containers set temps included,9,declare_cargo_manifest
+Demurrage rates for containers at PSA after free time expires,4,ask_tariff_rates
+Request berth allocation for MV CMA CGM Rio LOA 288m beam 31m draft 9m ETA 2024-03-14 cargo bauxite,0,request_berth_booking
+Certificate of origin attached for bauxite HS code 2709.00 preferential origin Argentina,2,submit_customs_docs
+Double tug configuration for COSCO Shanghai due to adverse currents,7,request_pilotage_tug
+Amend berth booking: ZIM Haifa new ETA 2024-06-10 original booking 2024-06-6,5,modify_berth_booking
+Tug services: Hapag Dubai unberthing from Delta ETD 2024-07-10,7,request_pilotage_tug
+Tracking: ZIMU1239874 discharge completion time at terminal HIT,6,track_container
+Ballast water management requirements at Antwerp for Maersk Edmonton,8,ask_regulations
+Environmental incident: oil spill from Yang Ming Kaohsiung at anchorage during bunkering,3,report_port_incident
+Reefer cargo list attached for Maersk Edmonton 6733 refrigerated containers set temps included,9,declare_cargo_manifest
+Documentation submitted: cargo manifest for ONE Bangkok voyage 517 Shanghai,2,submit_customs_docs
+Request berth allocation for MV Evergreen Tokyo LOA 157m beam 52m draft 13m ETA 2024-04-25 cargo frozen meat,0,request_berth_booking
+Modify: Maersk Edmonton shifting from berth 11 to 19 for cargo segregation,5,modify_berth_booking
+Certificate of origin attached for automobiles HS code 0901.11 preferential origin Brazil,2,submit_customs_docs
+Standby tug for Yang Ming Kaohsiung during cargo transfer operations,7,request_pilotage_tug
+What are the ISPS security requirements for ZIM Haifa at Hong Kong?,8,ask_regulations
+Certificate of origin attached for wheat HS code 2709.00 preferential origin Brazil,2,submit_customs_docs
+Submitting SAD document for import of automobiles origin South Africa consignee Olam,2,submit_customs_docs
+Schedule inquiry: Yang Ming Kaohsiung arriving Hong Kong berth 11,1,ask_vessel_schedule
+Final cargo manifest for MSC Geneva total 74102 MT 21004 TEU Rotterdam to Netherlands,9,declare_cargo_manifest
+Manifest amendment: container YMLU7778889 cargo description changed to chemicals,9,declare_cargo_manifest
+Container MSCU1234567 customs inspection status?,6,track_container
+Berth change request: COSCO Shanghai needs deeper draft berth 22 draft 10m,5,modify_berth_booking
+Submitting manifest: tank containers total 12427 TEU on ZIM Haifa,9,declare_cargo_manifest
+Where is container YMLU7778889 currently in port?,6,track_container
+Security alert: unauthorized personnel near CTA terminal perimeter,3,report_port_incident
+Requesting vessel schedule for ZIM Haifa IMO 9096619,1,ask_vessel_schedule
+Container TCLU1112223 customs inspection status?,6,track_container
+Out of gauge cargo declaration: electronics dimensions 8x3x2m,9,declare_cargo_manifest
+Dangerous goods manifest: crude oil UN number 2605 class 1 container MAEU9876543,9,declare_cargo_manifest
+Ballast water management requirements at Hamburg for COSCO Shanghai,8,ask_regulations
+Berth change request: ONE Bangkok needs deeper draft berth 13 draft 8m,5,modify_berth_booking
+What are the ISPS security requirements for ONE Bangkok at Antwerp?,8,ask_regulations
+What is the pilotage fee for LOA 286m vessel entering Ningbo?,4,ask_tariff_rates
+What are the ISPS security requirements for Hapag Dubai at Singapore?,8,ask_regulations
+Immigration formalities for crew change on COSCO Shanghai at Ningbo,8,ask_regulations
+Port incident: ZIMU1239874 collapsed during stacking at yard block A1,3,report_port_incident
+Submitting customs declaration for LNG HS code 2601.11 value 856323 CFR,2,submit_customs_docs
+Stevedoring charges for crude oil discharge rate 811 MT per hour,4,ask_tariff_rates
+Ballast water management requirements at Singapore for ZIM Haifa,8,ask_regulations
+What are the ISPS security requirements for Evergreen Tokyo at Shanghai?,8,ask_regulations
+Submitting customs declaration for iron ore HS code 0901.11 value 2198276 EXW,2,submit_customs_docs
+What are the ISPS security requirements for HMM Busan at Hamburg?,8,ask_regulations
+Submitting customs declaration for LNG HS code 8703.23 value 528260 DDP,2,submit_customs_docs
+Book berth for ZIM Haifa at APM terminal ETA 2024-05-15 draft 11m alongside starboard,0,request_berth_booking
+Order pilot for Evergreen Tokyo LOA 280m GT 99277 ETA pilot station 2024-01-28,7,request_pilotage_tug
+Environmental incident: oil spill from Yang Ming Kaohsiung at anchorage during bunkering,3,report_port_incident
+When does Yang Ming Kaohsiung depart Ningbo bound for Netherlands?,1,ask_vessel_schedule
+Tug services: ONE Bangkok unberthing from HIT ETD 2024-06-22,7,request_pilotage_tug
+ETD for Yang Ming Kaohsiung after cargo operations complete?,1,ask_vessel_schedule
+Port incident: ZIMU1239874 collapsed during stacking at yard block C3,3,report_port_incident
+Dangerous goods manifest: automobiles UN number 1575 class 9 container HLCU5556667,9,declare_cargo_manifest
+Container HLCU5556667 customs inspection status?,6,track_container
+Status inquiry: HLCU5556667 customs hold or released?,6,track_container
+Incident: ONE Bangkok allision with jetty during berthing maneuver,3,report_port_incident
+OPL (Outer Port Limit) anchorage regulations for cruise ship vessels,8,ask_regulations
+Container OOLU4567890 customs inspection status?,6,track_container
+Requesting anchorage for Yang Ming Kaohsiung awaiting berth availability for containers discharge,0,request_berth_booking
+Ballast water management requirements at Antwerp for CMA CGM Rio,8,ask_regulations
+Ballast water management requirements at Antwerp for Evergreen Tokyo,8,ask_regulations
+Submitting manifest: open top containers total 20426 TEU on Yang Ming Kaohsiung,9,declare_cargo_manifest
+Environmental incident: oil spill from ZIM Haifa at anchorage during bunkering,3,report_port_incident
+Out of gauge cargo declaration: automobiles dimensions 12x5x4m,9,declare_cargo_manifest
+Berth reservation: HMM Busan arriving 2024-08-17 with open top containers total 16534 TEU,0,request_berth_booking
+Location of container HLCU5556667 in yard block D4?,6,track_container
+Reporting equipment failure: crane RMG02 breakdown at berth 12,3,report_port_incident
+Amend berth booking: Yang Ming Kaohsiung new ETA 2024-01-14 original booking 2024-07-8,5,modify_berth_booking
+Is ONEU3334445 available for collection at CTB gate?,6,track_container
+OPL (Outer Port Limit) anchorage regulations for bulk carrier vessels,8,ask_regulations
+Ballast water management requirements at Hong Kong for ONE Bangkok,8,ask_regulations
+Requesting wharfage rates for bulk carrier vessels at Los Angeles,4,ask_tariff_rates
+Incident: HMM Busan allision with jetty during berthing maneuver,3,report_port_incident
+Customs procedures for transshipment cargo at Dubai,8,ask_regulations
+Is COSU7654321 available for collection at CTB gate?,6,track_container
+Customs docs: commercial invoice 60246 soybeans value 432641 Incoterm DDP,2,submit_customs_docs
+Schedule inquiry: ONE Bangkok arriving Rotterdam berth 5,1,ask_vessel_schedule
+Phytosanitary certificate submitted for agricultural cargo automobiles container MAEU9876543,2,submit_customs_docs
+Bulk cargo declaration: wheat 78281 MT shipper Vitol consignee Vitol,9,declare_cargo_manifest
+Port dues for MSC Geneva net tonnage 12864 stay duration 9 days,4,ask_tariff_rates
+Double tug configuration for Evergreen Tokyo due to adverse currents,7,request_pilotage_tug
+Stevedoring charges for automobiles discharge rate 682 MT per hour,4,ask_tariff_rates
+Submitting customs declaration for bauxite HS code 8703.23 value 4853249 CIF,2,submit_customs_docs
+Tug services: CMA CGM Rio unberthing from Matson ETD 2024-05-14,7,request_pilotage_tug
+Request tug assistance: Hapag Dubai berthing at berth 12 wind force 7,7,request_pilotage_tug
+ETD for MSC Geneva after cargo operations complete?,1,ask_vessel_schedule
+Arrival window for Yang Ming Kaohsiung at pilot station 14 to 19,1,ask_vessel_schedule
+Immigration formalities for crew change on ZIM Haifa at Shanghai,8,ask_regulations
+ETA for Hapag Dubai voyage 675 from Indonesia?,1,ask_vessel_schedule
+OPL (Outer Port Limit) anchorage regulations for ro-ro vessel vessels,8,ask_regulations
+When is CMA CGM Rio expected to arrive at Ningbo?,1,ask_vessel_schedule
+Submitting manifest: tank containers total 16814 TEU on ONE Bangkok,9,declare_cargo_manifest
+Safety incident: crew injury on Yang Ming Kaohsiung during lashing operations,3,report_port_incident
+Uploading packing list for container COSU7654321 HS 6203.42 weight 22431kg,2,submit_customs_docs
+Port incident: TCLU1112223 collapsed during stacking at yard block F6,3,report_port_incident
+Where is container ZIMU1239874 currently in port?,6,track_container
+Final cargo manifest for Maersk Edmonton total 18264 MT 15313 TEU Shanghai to France,9,declare_cargo_manifest
+Arrival window for ONE Bangkok at pilot station 2 to 29,1,ask_vessel_schedule
+Reporting delay: cargo operations suspended at terminal SSA due to rough seas,3,report_port_incident
+Demurrage rates for containers at PSA after free time expires,4,ask_tariff_rates
+Requesting vessel schedule for Yang Ming Kaohsiung IMO 9185973,1,ask_vessel_schedule
+Documentation submitted: cargo manifest for CMA CGM Rio voyage 21 Singapore,2,submit_customs_docs
+ETD for Yang Ming Kaohsiung after cargo operations complete?,1,ask_vessel_schedule
+Submitting SAD document for import of coal origin Argentina consignee Vitol,2,submit_customs_docs
+Requesting anchorage for Maersk Edmonton awaiting berth availability for iron ore discharge,0,request_berth_booking
+Environmental incident: oil spill from HMM Busan at anchorage during bunkering,3,report_port_incident
+Port dues for HMM Busan net tonnage 37110 stay duration 14 days,4,ask_tariff_rates
+Container TCLU1112223 customs inspection status?,6,track_container
+ETA for HMM Busan voyage 982 from South Africa?,1,ask_vessel_schedule
+Standby tug for MSC Geneva during cargo transfer operations,7,request_pilotage_tug
+What are the ISPS security requirements for Maersk Edmonton at Dubai?,8,ask_regulations
+Reporting delay: cargo operations suspended at terminal HIT due to rough seas,3,report_port_incident
+Customs procedures for transshipment cargo at Rotterdam,8,ask_regulations
+Berth request: Evergreen Tokyo IMO 9606204 arriving 2024-03-13 with 12818 MT of textiles FOB,0,request_berth_booking
+Submitting manifest: tank containers total 13111 TEU on Hapag Dubai,9,declare_cargo_manifest
+Need berth booking for tanker Yang Ming Kaohsiung carrying soybeans ETA 2024-04-25 LOA 213 meters,0,request_berth_booking
+Out of gauge cargo declaration: steel coils dimensions 12x2x5m,9,declare_cargo_manifest
+Cancel pilot order for ONE Bangkok ETA changed to 2024-03-19,5,modify_berth_booking
+Reschedule: ONE Bangkok advance cargo operations to 2024-08-23 due to weather,5,modify_berth_booking
+Arrival window for ONE Bangkok at pilot station 5 to 22,1,ask_vessel_schedule
+Tug services: Maersk Edmonton unberthing from APM ETD 2024-07-13,7,request_pilotage_tug
+Escort tug request for ZIM Haifa in restricted channel due to high winds,7,request_pilotage_tug
+What is the pilotage fee for LOA 202m vessel entering Antwerp?,4,ask_tariff_rates
+Order pilot for HMM Busan LOA 386m GT 58436 ETA pilot station 2024-01-15,7,request_pilotage_tug
+Reschedule: ONE Bangkok advance cargo operations to 2024-03-21 due to weather,5,modify_berth_booking
+OPL (Outer Port Limit) anchorage regulations for general cargo vessels,8,ask_regulations
+Incident report: Maersk Edmonton damaged fender at berth 2 during mooring,3,report_port_incident
+Documentation submitted: cargo manifest for CMA CGM Rio voyage 437 Hong Kong,2,submit_customs_docs
+Requesting anchorage for CMA CGM Rio awaiting berth availability for chemicals discharge,0,request_berth_booking
+Final cargo manifest for Maersk Edmonton total 13122 MT 23916 TEU Dubai to Turkey,9,declare_cargo_manifest
+Berth change request: ONE Bangkok needs deeper draft berth 13 draft 10m,5,modify_berth_booking
+Manifest amendment: container HLCU5556667 cargo description changed to crude oil,9,declare_cargo_manifest
+Berth swap requested between COSCO Shanghai and HMM Busan at CTA,5,modify_berth_booking
+Regulations for handling steel coils IMO class 9 at PSA?,8,ask_regulations
+Need berth booking for container vessel Evergreen Tokyo carrying containers ETA 2024-08-12 LOA 196 meters,0,request_berth_booking
+ETD for ZIM Haifa after cargo operations complete?,1,ask_vessel_schedule
+Demurrage rates for containers at SSA after free time expires,4,ask_tariff_rates
+Modify: ZIM Haifa shifting from berth 1 to 17 for cargo segregation,5,modify_berth_booking
+Out of gauge cargo declaration: electronics dimensions 8x5x4m,9,declare_cargo_manifest
+Documentation submitted: cargo manifest for COSCO Shanghai voyage 436 Dubai,2,submit_customs_docs
+Reschedule: Maersk Edmonton advance cargo operations to 2024-09-28 due to weather,5,modify_berth_booking
+Regulations for handling coal IMO class 3 at APM?,8,ask_regulations
+Uploading packing list for container TCLU1112223 HS 3004.90 weight 22136kg,2,submit_customs_docs
+Documentation submitted: cargo manifest for MSC Geneva voyage 267 Hamburg,2,submit_customs_docs
+When does Yang Ming Kaohsiung depart Rotterdam bound for France?,1,ask_vessel_schedule
+When does ZIM Haifa depart Shanghai bound for South Korea?,1,ask_vessel_schedule
+Location of container MSCU1234567 in yard block A1?,6,track_container
+Where is container TCLU1112223 currently in port?,6,track_container
+Container ZIMU1239874 loaded on which vessel voyage?,6,track_container
+Customs procedures for transshipment cargo at Shanghai,8,ask_regulations
+Tug services: Maersk Edmonton unberthing from PSA ETD 2024-03-21,7,request_pilotage_tug
+Dangerous goods manifest: wheat UN number 2266 class 5 container TCLU1112223,9,declare_cargo_manifest
+Berth swap requested between CMA CGM Rio and ZIM Haifa at CTA,5,modify_berth_booking
+Book berth for CMA CGM Rio at HIT terminal ETA 2024-07-25 draft 14m alongside starboard,0,request_berth_booking
+Port incident: MSCU1234567 collapsed during stacking at yard block F6,3,report_port_incident
+Pilotage required for bulk carrier Hapag Dubai draft 14m arriving 2024-02-22,7,request_pilotage_tug
+Book berth for ZIM Haifa at CTA terminal ETA 2024-03-12 draft 15m alongside port,0,request_berth_booking
+Berth request: HMM Busan IMO 9882995 arriving 2024-02-10 with 6818 MT of frozen meat FOB,0,request_berth_booking
+Tariff inquiry: container storage fees for tank after 10 days free time,4,ask_tariff_rates
+Need berth booking for car carrier HMM Busan carrying containers ETA 2024-04-19 LOA 307 meters,0,request_berth_booking
+Reporting equipment failure: crane QC03 breakdown at berth 7,3,report_port_incident
+Tug services: CMA CGM Rio unberthing from SSA ETD 2024-06-19,7,request_pilotage_tug
+Certificate of origin attached for automobiles HS code 2601.11 preferential origin Canada,2,submit_customs_docs
+Extend stay: Maersk Edmonton requires additional 17 days alongside for electronics,5,modify_berth_booking
+Reporting equipment failure: crane QC01 breakdown at berth 8,3,report_port_incident
+Need berth booking for cruise ship CMA CGM Rio carrying soybeans ETA 2024-07-14 LOA 302 meters,0,request_berth_booking
+Environmental compliance: scrubber washwater discharge rules at Busan,8,ask_regulations
+Berth change request: Evergreen Tokyo needs deeper draft berth 15 draft 8m,5,modify_berth_booking
+Berth request: Maersk Edmonton IMO 9512530 arriving 2024-06-24 with 31097 MT of crude oil FOB,0,request_berth_booking
+Reporting delay: cargo operations suspended at terminal CTB due to heavy rain,3,report_port_incident
+Port incident: MSCU1234567 collapsed during stacking at yard block B2,3,report_port_incident
+Environmental incident: oil spill from MSC Geneva at anchorage during bunkering,3,report_port_incident
+Where is container EGLV4445556 currently in port?,6,track_container
+Cargo manifest declaration for ZIM Haifa voyage 502 loading bauxite destination Spain,9,declare_cargo_manifest
+Uploading packing list for container MAEU9876543 HS 2709.00 weight 8176kg,2,submit_customs_docs
+Request tug assistance: HMM Busan berthing at berth 8 wind force 6,7,request_pilotage_tug
+Cancel pilot order for ZIM Haifa ETA changed to 2024-03-10,5,modify_berth_booking
+Reporting delay: cargo operations suspended at terminal LBCT due to high winds,3,report_port_incident
+Request tug assistance: MSC Geneva berthing at berth 1 wind force 4,7,request_pilotage_tug
+Immigration formalities for crew change on COSCO Shanghai at Dubai,8,ask_regulations
+Demurrage rates for containers at LBCT after free time expires,4,ask_tariff_rates
+ETA for HMM Busan voyage 775 from China?,1,ask_vessel_schedule
+Stevedoring charges for automobiles discharge rate 1517 MT per hour,4,ask_tariff_rates
+Customs entry filed: Bill of Lading MAEU1806878 container MAEU9876543 cargo steel coils,2,submit_customs_docs
+Mooring gang requested for COSCO Shanghai at berth 5 ETA 2024-05-17,7,request_pilotage_tug
+Book berth for Hapag Dubai at LBCT terminal ETA 2024-06-24 draft 12m alongside port,0,request_berth_booking
+Certificate of origin attached for soybeans HS code 3004.90 preferential origin Russia,2,submit_customs_docs
+Immigration formalities for crew change on Maersk Edmonton at Busan,8,ask_regulations
+ETA for CMA CGM Rio voyage 159 from China?,1,ask_vessel_schedule
+Demurrage rates for containers at Matson after free time expires,4,ask_tariff_rates
+Arrival window for ONE Bangkok at pilot station 1 to 28,1,ask_vessel_schedule
+What are the cargo handling charges for iron ore per metric ton at PSA?,4,ask_tariff_rates
+Environmental compliance: scrubber washwater discharge rules at Hong Kong,8,ask_regulations
+Order pilot for HMM Busan LOA 233m GT 86898 ETA pilot station 2024-07-16,7,request_pilotage_tug
+Schedule inquiry: ZIM Haifa arriving Rotterdam berth 8,1,ask_vessel_schedule
+Immigration formalities for crew change on Yang Ming Kaohsiung at Dubai,8,ask_regulations
+HMM Busan requesting quay space for discharge of textiles ETA 2024-05-25 LOA 398m GRT 106161,0,request_berth_booking
+Standby tug for MSC Geneva during cargo transfer operations,7,request_pilotage_tug
+Requesting wharfage rates for general cargo vessels at Hong Kong,4,ask_tariff_rates
+Dangerous goods manifest: textiles UN number 2358 class 5 container TCLU1112223,9,declare_cargo_manifest
+Cancel pilot order for ZIM Haifa ETA changed to 2024-03-23,5,modify_berth_booking
+Order pilot for Maersk Edmonton LOA 159m GT 140092 ETA pilot station 2024-01-13,7,request_pilotage_tug
+Port state control inspection procedures for Liberia flag vessels,8,ask_regulations
+Is MSCU1234567 available for collection at HIT gate?,6,track_container
+Uploading packing list for container ONEU3334445 HS 2601.11 weight 21956kg,2,submit_customs_docs
+Port dues for Evergreen Tokyo net tonnage 20212 stay duration 16 days,4,ask_tariff_rates
+Need pier allocation for bulk carrier Maersk Edmonton loading steel coils ETD 2024-05-16,0,request_berth_booking
+Order pilot for Evergreen Tokyo LOA 160m GT 93630 ETA pilot station 2024-08-14,7,request_pilotage_tug
+Submitting manifest: flat rack containers total 15325 TEU on ZIM Haifa,9,declare_cargo_manifest
+What are the cargo handling charges for crude oil per metric ton at Delta?,4,ask_tariff_rates
+Submitting customs declaration for soybeans HS code 2709.00 value 2555259 DDP,2,submit_customs_docs
+Berth request: ZIM Haifa IMO 9497643 arriving 2024-03-24 with 20203 MT of steel coils FOB,0,request_berth_booking
+Manifest amendment: container TCLU1112223 cargo description changed to chemicals,9,declare_cargo_manifest
+Need berth booking for tanker Yang Ming Kaohsiung carrying electronics ETA 2024-03-13 LOA 269 meters,0,request_berth_booking
+Cargo manifest declaration for HMM Busan voyage 658 loading coal destination UK,9,declare_cargo_manifest
+Security alert: unauthorized personnel near PSA terminal perimeter,3,report_port_incident
+Request tug assistance: COSCO Shanghai berthing at berth 7 wind force 4,7,request_pilotage_tug
+Cancel pilot order for CMA CGM Rio ETA changed to 2024-07-12,5,modify_berth_booking
+Need berth booking for tanker Maersk Edmonton carrying steel coils ETA 2024-05-14 LOA 259 meters,0,request_berth_booking
+Status inquiry: YMLU7778889 customs hold or released?,6,track_container
+Tug services: Maersk Edmonton unberthing from SSA ETD 2024-06-11,7,request_pilotage_tug
+Tracking: ONEU3334445 discharge completion time at terminal Euromax,6,track_container
+Reschedule: CMA CGM Rio advance cargo operations to 2024-04-17 due to weather,5,modify_berth_booking
+Tug service rates for COSCO Shanghai gross tonnage 131551 at Los Angeles,4,ask_tariff_rates
+Berth reservation: ZIM Haifa arriving 2024-06-22 with flat rack containers total 19428 TEU,0,request_berth_booking
+Mooring gang requested for Yang Ming Kaohsiung at berth 7 ETA 2024-07-26,7,request_pilotage_tug
+Schedule inquiry: Yang Ming Kaohsiung arriving Hong Kong berth 8,1,ask_vessel_schedule
+Incident: Hapag Dubai allision with jetty during berthing maneuver,3,report_port_incident
+Regulations for handling wheat IMO class 1 at Delta?,8,ask_regulations
+What is the pilotage fee for LOA 177m vessel entering Antwerp?,4,ask_tariff_rates
+Tug service rates for Yang Ming Kaohsiung gross tonnage 94226 at Singapore,4,ask_tariff_rates
+Berth change request: ZIM Haifa needs deeper draft berth 22 draft 9m,5,modify_berth_booking
+Manifest amendment: container MSCU1234567 cargo description changed to chemicals,9,declare_cargo_manifest
+Documentation submitted: cargo manifest for HMM Busan voyage 206 Hamburg,2,submit_customs_docs
+Customs docs: commercial invoice 48653 bauxite value 3166623 Incoterm FOB,2,submit_customs_docs
+Customs docs: commercial invoice 82379 automobiles value 1071016 Incoterm CIF,2,submit_customs_docs
+Request berth allocation for MV Hapag Dubai LOA 194m beam 33m draft 13m ETA 2024-08-26 cargo chemicals,0,request_berth_booking
+Escort tug request for HMM Busan in restricted channel due to high winds,7,request_pilotage_tug
+Reefer cargo list attached for Yang Ming Kaohsiung 10982 refrigerated containers set temps included,9,declare_cargo_manifest
+Berth request: Evergreen Tokyo IMO 9333222 arriving 2024-08-20 with 30875 MT of coal FOB,0,request_berth_booking
+Requesting anchorage for Hapag Dubai awaiting berth availability for crude oil discharge,0,request_berth_booking
+Cancel pilot order for HMM Busan ETA changed to 2024-08-17,5,modify_berth_booking
+Environmental incident: oil spill from Evergreen Tokyo at anchorage during bunkering,3,report_port_incident
+What are the cargo handling charges for wheat per metric ton at APM?,4,ask_tariff_rates
+Demurrage rates for containers at APM after free time expires,4,ask_tariff_rates
+Pilotage required for tanker ZIM Haifa draft 11m arriving 2024-03-16,7,request_pilotage_tug
+Submitting customs declaration for coal HS code 6203.42 value 4274918 EXW,2,submit_customs_docs
+Amend berth booking: Evergreen Tokyo new ETA 2024-08-27 original booking 2024-01-5,5,modify_berth_booking
+Order pilot for Evergreen Tokyo LOA 368m GT 66687 ETA pilot station 2024-07-12,7,request_pilotage_tug
+Submitting customs declaration for bauxite HS code 0901.11 value 4909350 EXW,2,submit_customs_docs
+Need pier allocation for LNG carrier Evergreen Tokyo loading chemicals ETD 2024-05-20,0,request_berth_booking
+Berth change request: ZIM Haifa needs deeper draft berth 23 draft 8m,5,modify_berth_booking
+Reefer cargo list attached for MSC Geneva 6678 refrigerated containers set temps included,9,declare_cargo_manifest
+What is the pilotage fee for LOA 384m vessel entering Los Angeles?,4,ask_tariff_rates
+Schedule inquiry: CMA CGM Rio arriving Shanghai berth 5,1,ask_vessel_schedule
+Cancel pilot order for Maersk Edmonton ETA changed to 2024-04-17,5,modify_berth_booking
+Immigration formalities for crew change on Evergreen Tokyo at Rotterdam,8,ask_regulations
+Escort tug request for ZIM Haifa in restricted channel due to high winds,7,request_pilotage_tug
+Tracking: TCLU1112223 discharge completion time at terminal PSA,6,track_container
+Berth change request: Evergreen Tokyo needs deeper draft berth 14 draft 10m,5,modify_berth_booking
+Book berth for MSC Geneva at Delta terminal ETA 2024-03-27 draft 13m alongside starboard,0,request_berth_booking
+Dangerous goods manifest: crude oil UN number 1646 class 9 container OOLU4567890,9,declare_cargo_manifest
+Amend berth booking: Hapag Dubai new ETA 2024-06-28 original booking 2024-09-9,5,modify_berth_booking
+Container OOLU4567890 customs inspection status?,6,track_container
+Modify: Evergreen Tokyo shifting from berth 11 to 18 for cargo segregation,5,modify_berth_booking
+Submitting SAD document for import of automobiles origin Russia consignee Odebrecht,2,submit_customs_docs
+Bulk cargo declaration: steel coils 72254 MT shipper Glencore consignee Vitol,9,declare_cargo_manifest
+Order pilot for Maersk Edmonton LOA 161m GT 101528 ETA pilot station 2024-08-24,7,request_pilotage_tug
+Tariff inquiry: container storage fees for tank after 18 days free time,4,ask_tariff_rates
+Environmental compliance: scrubber washwater discharge rules at Hong Kong,8,ask_regulations
+Cancel berth reservation for Yang Ming Kaohsiung voyage 11,5,modify_berth_booking
+Berth reservation: Maersk Edmonton arriving 2024-07-19 with flat rack containers total 9542 TEU,0,request_berth_booking
+Is OOLU4567890 available for collection at APM gate?,6,track_container
+CMA CGM Rio requesting quay space for discharge of wheat ETA 2024-09-19 LOA 359m GRT 129231,0,request_berth_booking
+Submitting customs declaration for frozen meat HS code 6203.42 value 2468575 CIF,2,submit_customs_docs
+Track container ONEU3334445 last reported location?,6,track_container
+Schedule inquiry: Maersk Edmonton arriving Los Angeles berth 4,1,ask_vessel_schedule
+Reschedule: MSC Geneva advance cargo operations to 2024-08-10 due to weather,5,modify_berth_booking
+Incident: ONE Bangkok allision with jetty during berthing maneuver,3,report_port_incident
+Where is container ONEU3334445 currently in port?,6,track_container
+Reporting delay: cargo operations suspended at terminal Matson due to high winds,3,report_port_incident
+Uploading packing list for container HLCU5556667 HS 3004.90 weight 26811kg,2,submit_customs_docs
+Escort tug request for MSC Geneva in restricted channel due to fog,7,request_pilotage_tug
+Immigration formalities for crew change on MSC Geneva at Rotterdam,8,ask_regulations
+Tug service rates for Hapag Dubai gross tonnage 114048 at Ningbo,4,ask_tariff_rates
+ETA for Yang Ming Kaohsiung voyage 614 from Chile?,1,ask_vessel_schedule
+Container ONEU3334445 customs inspection status?,6,track_container
+Documentation submitted: cargo manifest for COSCO Shanghai voyage 776 Hamburg,2,submit_customs_docs
+What is the ETB for HMM Busan at terminal Delta?,1,ask_vessel_schedule
+OPL (Outer Port Limit) anchorage regulations for container vessel vessels,8,ask_regulations
+Berth change request: Evergreen Tokyo needs deeper draft berth 21 draft 16m,5,modify_berth_booking
+Out of gauge cargo declaration: bauxite dimensions 11x2x4m,9,declare_cargo_manifest
+Container COSU7654321 loaded on which vessel voyage?,6,track_container
+Incident: Evergreen Tokyo allision with jetty during berthing maneuver,3,report_port_incident
+Documentation submitted: cargo manifest for Evergreen Tokyo voyage 142 Singapore,2,submit_customs_docs
+Out of gauge cargo declaration: soybeans dimensions 9x4x2m,9,declare_cargo_manifest
+Port incident: ONEU3334445 collapsed during stacking at yard block D4,3,report_port_incident
+When does Maersk Edmonton depart Antwerp bound for India?,1,ask_vessel_schedule
+Demurrage rates for containers at Euromax after free time expires,4,ask_tariff_rates
+Tug service rates for COSCO Shanghai gross tonnage 46212 at Ningbo,4,ask_tariff_rates
+What are the ISPS security requirements for COSCO Shanghai at Antwerp?,8,ask_regulations
+Tug services: Yang Ming Kaohsiung unberthing from Delta ETD 2024-03-16,7,request_pilotage_tug
+Security alert: unauthorized personnel near HIT terminal perimeter,3,report_port_incident
+Reporting delay: cargo operations suspended at terminal Matson due to thunderstorms,3,report_port_incident
+Is COSU7654321 available for collection at CTA gate?,6,track_container
+Cargo manifest declaration for HMM Busan voyage 866 loading soybeans destination Japan,9,declare_cargo_manifest
+Request berth allocation for MV ZIM Haifa LOA 249m beam 53m draft 8m ETA 2024-04-27 cargo wheat,0,request_berth_booking
+Customs procedures for transshipment cargo at Antwerp,8,ask_regulations
+Mooring gang requested for Hapag Dubai at berth 11 ETA 2024-01-23,7,request_pilotage_tug
+Phytosanitary certificate submitted for agricultural cargo chemicals container EGLV4445556,2,submit_customs_docs
+Ballast water management requirements at Shanghai for ZIM Haifa,8,ask_regulations
+Requesting wharfage rates for cruise ship vessels at Rotterdam,4,ask_tariff_rates
+Tug services: HMM Busan unberthing from Matson ETD 2024-08-21,7,request_pilotage_tug
+Yang Ming Kaohsiung requesting quay space for discharge of LNG ETA 2024-02-21 LOA 199m GRT 63084,0,request_berth_booking
+ETD for Yang Ming Kaohsiung after cargo operations complete?,1,ask_vessel_schedule
+When does HMM Busan depart Rotterdam bound for Turkey?,1,ask_vessel_schedule
+Out of gauge cargo declaration: iron ore dimensions 8x3x2m,9,declare_cargo_manifest
+Manifest amendment: container MAEU9876543 cargo description changed to containers,9,declare_cargo_manifest
+Cargo manifest declaration for Hapag Dubai voyage 528 loading crude oil destination Netherlands,9,declare_cargo_manifest
+Tug service rates for ZIM Haifa gross tonnage 47788 at Hamburg,4,ask_tariff_rates
+Incident: MSC Geneva allision with jetty during berthing maneuver,3,report_port_incident
+Incident report: ZIM Haifa damaged fender at berth 10 during mooring,3,report_port_incident
+ETA for MSC Geneva voyage 281 from China?,1,ask_vessel_schedule
+Cancel pilot order for Hapag Dubai ETA changed to 2024-01-24,5,modify_berth_booking
+Submitting SAD document for import of coal origin Indonesia consignee Odebrecht,2,submit_customs_docs
+Berth reservation: Hapag Dubai arriving 2024-08-13 with flat rack containers total 13096 TEU,0,request_berth_booking
+ETD for Hapag Dubai after cargo operations complete?,1,ask_vessel_schedule
+Reporting delay: cargo operations suspended at terminal Matson due to heavy rain,3,report_port_incident
+Escort tug request for Evergreen Tokyo in restricted channel due to fog,7,request_pilotage_tug
+Need pier allocation for bulk carrier Yang Ming Kaohsiung loading bauxite ETD 2024-07-15,0,request_berth_booking
+Extend stay: ZIM Haifa requires additional 4 days alongside for iron ore,5,modify_berth_booking
+When does Maersk Edmonton depart Busan bound for South Korea?,1,ask_vessel_schedule
+Cancel berth reservation for ZIM Haifa voyage 218,5,modify_berth_booking
+Where is container EGLV4445556 currently in port?,6,track_container
+OPL (Outer Port Limit) anchorage regulations for car carrier vessels,8,ask_regulations
+Tariff inquiry: container storage fees for open top after 12 days free time,4,ask_tariff_rates
+Final cargo manifest for CMA CGM Rio total 62332 MT 10241 TEU Hong Kong to UK,9,declare_cargo_manifest
+Ballast water management requirements at Hong Kong for COSCO Shanghai,8,ask_regulations
+Request berth allocation for MV HMM Busan LOA 331m beam 47m draft 15m ETA 2024-02-21 cargo bauxite,0,request_berth_booking
+Cancel pilot order for COSCO Shanghai ETA changed to 2024-07-18,5,modify_berth_booking
+Final cargo manifest for ZIM Haifa total 22783 MT 8145 TEU Dubai to UK,9,declare_cargo_manifest
+Demurrage rates for containers at APM after free time expires,4,ask_tariff_rates
+OPL (Outer Port Limit) anchorage regulations for general cargo vessels,8,ask_regulations
+Berth swap requested between ZIM Haifa and COSCO Shanghai at Euromax,5,modify_berth_booking
+Cancel berth reservation for HMM Busan voyage 328,5,modify_berth_booking
+Berth reservation: Hapag Dubai arriving 2024-06-13 with reefer containers total 764 TEU,0,request_berth_booking
+Arrival window for HMM Busan at pilot station 7 to 18,1,ask_vessel_schedule
+Cancel berth reservation for Maersk Edmonton voyage 739,5,modify_berth_booking
+What is the ETB for ONE Bangkok at terminal Euromax?,1,ask_vessel_schedule
+Out of gauge cargo declaration: crude oil dimensions 10x2x4m,9,declare_cargo_manifest
+Reefer cargo list attached for Evergreen Tokyo 16533 refrigerated containers set temps included,9,declare_cargo_manifest
+What is the ETB for MSC Geneva at terminal CTA?,1,ask_vessel_schedule
+Uploading packing list for container EGLV4445556 HS 6203.42 weight 24707kg,2,submit_customs_docs
+Safety incident: crew injury on CMA CGM Rio during lashing operations,3,report_port_incident
+Port dues for Hapag Dubai net tonnage 47323 stay duration 12 days,4,ask_tariff_rates
+Security alert: unauthorized personnel near CTB terminal perimeter,3,report_port_incident
+Request berth allocation for MV Yang Ming Kaohsiung LOA 313m beam 59m draft 11m ETA 2024-08-24 cargo soybeans,0,request_berth_booking
+When is Evergreen Tokyo expected to arrive at Hong Kong?,1,ask_vessel_schedule
+Cancel pilot order for MSC Geneva ETA changed to 2024-01-22,5,modify_berth_booking
+Environmental incident: oil spill from Hapag Dubai at anchorage during bunkering,3,report_port_incident
+Final cargo manifest for COSCO Shanghai total 79429 MT 16615 TEU Hamburg to Spain,9,declare_cargo_manifest
+Regulations for handling steel coils IMO class 4 at CTB?,8,ask_regulations
+Requesting vessel schedule for ZIM Haifa IMO 9749013,1,ask_vessel_schedule
+Incident: Hapag Dubai allision with jetty during berthing maneuver,3,report_port_incident
+Documentation submitted: cargo manifest for COSCO Shanghai voyage 156 Rotterdam,2,submit_customs_docs
+Container ZIMU1239874 customs inspection status?,6,track_container
+Port state control inspection procedures for Marshall Islands flag vessels,8,ask_regulations
+Arrival window for Yang Ming Kaohsiung at pilot station 11 to 22,1,ask_vessel_schedule
+Immigration formalities for crew change on COSCO Shanghai at Hong Kong,8,ask_regulations
+Escort tug request for Maersk Edmonton in restricted channel due to rough seas,7,request_pilotage_tug
+Location of container OOLU4567890 in yard block D4?,6,track_container
+Ballast water management requirements at Hamburg for ZIM Haifa,8,ask_regulations
+OPL (Outer Port Limit) anchorage regulations for car carrier vessels,8,ask_regulations
+Requesting vessel schedule for Evergreen Tokyo IMO 9622138,1,ask_vessel_schedule
+Customs procedures for transshipment cargo at Los Angeles,8,ask_regulations
+Environmental incident: oil spill from CMA CGM Rio at anchorage during bunkering,3,report_port_incident
+Regulations for handling coal IMO class 6 at CTA?,8,ask_regulations
+Pilotage required for container vessel COSCO Shanghai draft 10m arriving 2024-01-16,7,request_pilotage_tug
+Schedule inquiry: HMM Busan arriving Hamburg berth 5,1,ask_vessel_schedule
+Customs procedures for transshipment cargo at Antwerp,8,ask_regulations
+Status inquiry: TCLU1112223 customs hold or released?,6,track_container
+Order pilot for Hapag Dubai LOA 326m GT 68011 ETA pilot station 2024-06-20,7,request_pilotage_tug
+Tug services: ONE Bangkok unberthing from SSA ETD 2024-03-27,7,request_pilotage_tug
+Berth reservation: ONE Bangkok arriving 2024-06-11 with flat rack containers total 22607 TEU,0,request_berth_booking
+Is MAEU9876543 available for collection at APM gate?,6,track_container
+Submitting customs declaration for containers HS code 6203.42 value 4063010 CFR,2,submit_customs_docs
+Port state control inspection procedures for Marshall Islands flag vessels,8,ask_regulations
+Submitting customs declaration for automobiles HS code 8703.23 value 1773094 FOB,2,submit_customs_docs
+Status inquiry: ONEU3334445 customs hold or released?,6,track_container
+Schedule inquiry: COSCO Shanghai arriving Singapore berth 7,1,ask_vessel_schedule
+Request berth allocation for MV Maersk Edmonton LOA 204m beam 47m draft 10m ETA 2024-08-23 cargo coal,0,request_berth_booking
+Pilotage required for ro-ro vessel Hapag Dubai draft 12m arriving 2024-05-22,7,request_pilotage_tug
+Mooring gang requested for MSC Geneva at berth 3 ETA 2024-09-27,7,request_pilotage_tug
+Cancel pilot order for HMM Busan ETA changed to 2024-09-23,5,modify_berth_booking
+Customs docs: commercial invoice 50889 coal value 1844272 Incoterm FOB,2,submit_customs_docs
+Security alert: unauthorized personnel near Delta terminal perimeter,3,report_port_incident
+Need berth booking for car carrier COSCO Shanghai carrying LNG ETA 2024-04-28 LOA 290 meters,0,request_berth_booking
+Submitting SAD document for import of iron ore origin Russia consignee ADM,2,submit_customs_docs
+Reefer cargo list attached for CMA CGM Rio 6554 refrigerated containers set temps included,9,declare_cargo_manifest
+Tug service rates for HMM Busan gross tonnage 120263 at Hong Kong,4,ask_tariff_rates
+Incident report: Yang Ming Kaohsiung damaged fender at berth 11 during mooring,3,report_port_incident
+Berth request: Yang Ming Kaohsiung IMO 9716586 arriving 2024-02-10 with 6673 MT of bauxite FOB,0,request_berth_booking
+What is the ETB for CMA CGM Rio at terminal PSA?,1,ask_vessel_schedule
+Security alert: unauthorized personnel near PSA terminal perimeter,3,report_port_incident
+OPL (Outer Port Limit) anchorage regulations for bulk carrier vessels,8,ask_regulations
+Manifest amendment: container MAEU9876543 cargo description changed to wheat,9,declare_cargo_manifest
+Safety incident: crew injury on Yang Ming Kaohsiung during lashing operations,3,report_port_incident
+Arrival window for ONE Bangkok at pilot station 10 to 16,1,ask_vessel_schedule
+Tariff inquiry: container storage fees for open top after 4 days free time,4,ask_tariff_rates
+Location of container TCLU1112223 in yard block E5?,6,track_container
+Modify: ONE Bangkok shifting from berth 10 to 15 for cargo segregation,5,modify_berth_booking
+Final cargo manifest for Hapag Dubai total 79555 MT 9241 TEU Hamburg to Spain,9,declare_cargo_manifest
+Mooring gang requested for HMM Busan at berth 10 ETA 2024-07-20,7,request_pilotage_tug
+Container MSCU1234567 customs inspection status?,6,track_container
+Container ZIMU1239874 customs inspection status?,6,track_container
+Track container HLCU5556667 last reported location?,6,track_container
+Final cargo manifest for ZIM Haifa total 72456 MT 15756 TEU Busan to Japan,9,declare_cargo_manifest
+Location of container ZIMU1239874 in yard block F6?,6,track_container
+Submitting customs declaration for bauxite HS code 2601.11 value 3047622 FOB,2,submit_customs_docs
+Environmental incident: oil spill from Maersk Edmonton at anchorage during bunkering,3,report_port_incident
+Ballast water management requirements at Hamburg for Hapag Dubai,8,ask_regulations
+Bulk cargo declaration: automobiles 6289 MT shipper Louis Dreyfus consignee Glencore,9,declare_cargo_manifest
+Reschedule: HMM Busan advance cargo operations to 2024-01-25 due to weather,5,modify_berth_booking
+Port dues for Evergreen Tokyo net tonnage 19392 stay duration 9 days,4,ask_tariff_rates
+Ballast water management requirements at Ningbo for Hapag Dubai,8,ask_regulations
+Port incident: ONEU3334445 collapsed during stacking at yard block A1,3,report_port_incident
+ETA for Yang Ming Kaohsiung voyage 957 from Canada?,1,ask_vessel_schedule
+Uploading packing list for container HLCU5556667 HS 3004.90 weight 18033kg,2,submit_customs_docs
+Port state control inspection procedures for Malta flag vessels,8,ask_regulations
+Berth swap requested between ZIM Haifa and MSC Geneva at APM,5,modify_berth_booking
+Demurrage rates for containers at HIT after free time expires,4,ask_tariff_rates
+Double tug configuration for Hapag Dubai due to adverse currents,7,request_pilotage_tug
+Location of container YMLU7778889 in yard block F6?,6,track_container
+Requesting vessel schedule for Evergreen Tokyo IMO 9698412,1,ask_vessel_schedule
+What is the ETB for Yang Ming Kaohsiung at terminal Euromax?,1,ask_vessel_schedule
+Where is container OOLU4567890 currently in port?,6,track_container
+Port state control inspection procedures for Liberia flag vessels,8,ask_regulations
+Location of container EGLV4445556 in yard block C3?,6,track_container
+Reporting delay: cargo operations suspended at terminal Delta due to rough seas,3,report_port_incident
+When does ZIM Haifa depart Rotterdam bound for Japan?,1,ask_vessel_schedule
+Order pilot for CMA CGM Rio LOA 234m GT 65333 ETA pilot station 2024-04-20,7,request_pilotage_tug
+Submitting SAD document for import of bauxite origin Brazil consignee Vitol,2,submit_customs_docs
+Amend berth booking: ZIM Haifa new ETA 2024-07-22 original booking 2024-09-9,5,modify_berth_booking
+Extend stay: Hapag Dubai requires additional 20 days alongside for chemicals,5,modify_berth_booking
+Hapag Dubai requesting quay space for discharge of wheat ETA 2024-01-12 LOA 236m GRT 71060,0,request_berth_booking
+Request berth allocation for MV Maersk Edmonton LOA 360m beam 51m draft 8m ETA 2024-03-22 cargo automobiles,0,request_berth_booking
+Port state control inspection procedures for Marshall Islands flag vessels,8,ask_regulations
+Ballast water management requirements at Rotterdam for ZIM Haifa,8,ask_regulations
+Safety incident: crew injury on CMA CGM Rio during lashing operations,3,report_port_incident
+Location of container MSCU1234567 in yard block C3?,6,track_container
+Environmental compliance: scrubber washwater discharge rules at Hong Kong,8,ask_regulations
+Submitting customs declaration for iron ore HS code 8703.23 value 902201 DDP,2,submit_customs_docs
+Port state control inspection procedures for Liberia flag vessels,8,ask_regulations
+Submitting SAD document for import of coal origin China consignee Louis Dreyfus,2,submit_customs_docs
+Extend stay: CMA CGM Rio requires additional 20 days alongside for crude oil,5,modify_berth_booking
+Safety incident: crew injury on Hapag Dubai during lashing operations,3,report_port_incident
+CMA CGM Rio requesting quay space for discharge of iron ore ETA 2024-05-21 LOA 159m GRT 120507,0,request_berth_booking
+Standby tug for CMA CGM Rio during cargo transfer operations,7,request_pilotage_tug
+Stevedoring charges for electronics discharge rate 1982 MT per hour,4,ask_tariff_rates
+Cargo manifest declaration for CMA CGM Rio voyage 26 loading chemicals destination Spain,9,declare_cargo_manifest
+Port incident: ONEU3334445 collapsed during stacking at yard block C3,3,report_port_incident
+What is the ETB for COSCO Shanghai at terminal CTA?,1,ask_vessel_schedule
+Amend berth booking: Maersk Edmonton new ETA 2024-08-25 original booking 2024-02-9,5,modify_berth_booking
+Modify: ZIM Haifa shifting from berth 4 to 17 for cargo segregation,5,modify_berth_booking
+Track container MSCU1234567 last reported location?,6,track_container
+Book berth for HMM Busan at Euromax terminal ETA 2024-04-19 draft 14m alongside port,0,request_berth_booking
+Incident: CMA CGM Rio allision with jetty during berthing maneuver,3,report_port_incident
+Ballast water management requirements at Shanghai for MSC Geneva,8,ask_regulations
+Escort tug request for Maersk Edmonton in restricted channel due to rough seas,7,request_pilotage_tug
+Cancel berth reservation for CMA CGM Rio voyage 75,5,modify_berth_booking
+Tug service rates for HMM Busan gross tonnage 125478 at Hamburg,4,ask_tariff_rates
+Cargo manifest declaration for Evergreen Tokyo voyage 346 loading steel coils destination France,9,declare_cargo_manifest
+Customs docs: commercial invoice 85276 electronics value 4967384 Incoterm CIF,2,submit_customs_docs
+Pilotage required for ro-ro vessel CMA CGM Rio draft 16m arriving 2024-02-12,7,request_pilotage_tug
+OPL (Outer Port Limit) anchorage regulations for car carrier vessels,8,ask_regulations
+Regulations for handling steel coils IMO class 9 at Delta?,8,ask_regulations
+What is the ETB for Yang Ming Kaohsiung at terminal CTA?,1,ask_vessel_schedule
+Cancel berth reservation for Evergreen Tokyo voyage 670,5,modify_berth_booking
+Regulations for handling coal IMO class 7 at CTB?,8,ask_regulations
+Out of gauge cargo declaration: containers dimensions 12x2x3m,9,declare_cargo_manifest
+Track container MSCU1234567 last reported location?,6,track_container
+OPL (Outer Port Limit) anchorage regulations for car carrier vessels,8,ask_regulations
+Standby tug for Yang Ming Kaohsiung during cargo transfer operations,7,request_pilotage_tug
+Cargo manifest declaration for CMA CGM Rio voyage 542 loading LNG destination Turkey,9,declare_cargo_manifest
+Status inquiry: ZIMU1239874 customs hold or released?,6,track_container
+Submitting customs declaration for iron ore HS code 2709.00 value 807460 CFR,2,submit_customs_docs
+Arrival window for Maersk Edmonton at pilot station 3 to 29,1,ask_vessel_schedule
+When does MSC Geneva depart Singapore bound for South Korea?,1,ask_vessel_schedule
+Environmental compliance: scrubber washwater discharge rules at Rotterdam,8,ask_regulations
+Submitting manifest: flat rack containers total 6179 TEU on Hapag Dubai,9,declare_cargo_manifest
+Environmental compliance: scrubber washwater discharge rules at Busan,8,ask_regulations
+Berth swap requested between Yang Ming Kaohsiung and HMM Busan at CTB,5,modify_berth_booking
+Submitting SAD document for import of frozen meat origin Chile consignee Olam,2,submit_customs_docs
+Berth swap requested between COSCO Shanghai and Evergreen Tokyo at PSA,5,modify_berth_booking
+ETD for Maersk Edmonton after cargo operations complete?,1,ask_vessel_schedule
+Demurrage rates for containers at Delta after free time expires,4,ask_tariff_rates
+Incident: Evergreen Tokyo allision with jetty during berthing maneuver,3,report_port_incident
+Book berth for CMA CGM Rio at HIT terminal ETA 2024-09-19 draft 11m alongside port,0,request_berth_booking
+Standby tug for Hapag Dubai during cargo transfer operations,7,request_pilotage_tug
+Double tug configuration for ONE Bangkok due to adverse currents,7,request_pilotage_tug
+Need pier allocation for bulk carrier ZIM Haifa loading wheat ETD 2024-08-14,0,request_berth_booking
+Cargo manifest declaration for HMM Busan voyage 120 loading textiles destination South Korea,9,declare_cargo_manifest
+Where is container ZIMU1239874 currently in port?,6,track_container
+Demurrage rates for containers at APM after free time expires,4,ask_tariff_rates
+Manifest amendment: container ONEU3334445 cargo description changed to frozen meat,9,declare_cargo_manifest
+Incident report: Hapag Dubai damaged fender at berth 12 during mooring,3,report_port_incident
+Requesting vessel schedule for COSCO Shanghai IMO 9229504,1,ask_vessel_schedule
+Mooring gang requested for HMM Busan at berth 2 ETA 2024-01-11,7,request_pilotage_tug
+Submitting SAD document for import of bauxite origin China consignee Bunge,2,submit_customs_docs
+Dangerous goods manifest: crude oil UN number 1643 class 1 container COSU7654321,9,declare_cargo_manifest
+Port dues for CMA CGM Rio net tonnage 14394 stay duration 5 days,4,ask_tariff_rates
+Berth reservation: Hapag Dubai arriving 2024-02-26 with reefer containers total 5387 TEU,0,request_berth_booking
+What are the cargo handling charges for containers per metric ton at PSA?,4,ask_tariff_rates
+Phytosanitary certificate submitted for agricultural cargo chemicals container ZIMU1239874,2,submit_customs_docs
+Phytosanitary certificate submitted for agricultural cargo electronics container OOLU4567890,2,submit_customs_docs
+Tariff inquiry: container storage fees for flat rack after 12 days free time,4,ask_tariff_rates
+Tracking: OOLU4567890 discharge completion time at terminal LBCT,6,track_container
+Port state control inspection procedures for Malta flag vessels,8,ask_regulations
+Stevedoring charges for wheat discharge rate 454 MT per hour,4,ask_tariff_rates
+Berth change request: MSC Geneva needs deeper draft berth 21 draft 9m,5,modify_berth_booking
+Berth change request: Maersk Edmonton needs deeper draft berth 20 draft 16m,5,modify_berth_booking
+Tariff inquiry: container storage fees for tank after 18 days free time,4,ask_tariff_rates
+Reporting equipment failure: crane QC02 breakdown at berth 4,3,report_port_incident
+Tug services: Yang Ming Kaohsiung unberthing from CTA ETD 2024-08-22,7,request_pilotage_tug
+Tug service rates for ONE Bangkok gross tonnage 36706 at Busan,4,ask_tariff_rates
+Track container OOLU4567890 last reported location?,6,track_container
+Arrival window for ZIM Haifa at pilot station 6 to 26,1,ask_vessel_schedule
+Submitting SAD document for import of bauxite origin South Africa consignee Odebrecht,2,submit_customs_docs
+Certificate of origin attached for electronics HS code 0901.11 preferential origin Argentina,2,submit_customs_docs
+Schedule inquiry: ONE Bangkok arriving Rotterdam berth 9,1,ask_vessel_schedule
+Book berth for ZIM Haifa at APM terminal ETA 2024-08-10 draft 13m alongside starboard,0,request_berth_booking
+Port state control inspection procedures for Panama flag vessels,8,ask_regulations
+Is HLCU5556667 available for collection at APM gate?,6,track_container
+ETA for Evergreen Tokyo voyage 105 from Russia?,1,ask_vessel_schedule
+Reschedule: MSC Geneva advance cargo operations to 2024-07-21 due to weather,5,modify_berth_booking
+Cancel pilot order for COSCO Shanghai ETA changed to 2024-04-13,5,modify_berth_booking
+ONE Bangkok requesting quay space for discharge of chemicals ETA 2024-04-18 LOA 194m GRT 140335,0,request_berth_booking
+Reporting delay: cargo operations suspended at terminal APM due to heavy rain,3,report_port_incident
+Book berth for Maersk Edmonton at PSA terminal ETA 2024-01-11 draft 9m alongside port,0,request_berth_booking
+Customs docs: commercial invoice 13040 steel coils value 1549632 Incoterm EXW,2,submit_customs_docs
+Need berth booking for car carrier Hapag Dubai carrying crude oil ETA 2024-02-24 LOA 362 meters,0,request_berth_booking
+Final cargo manifest for HMM Busan total 30863 MT 12620 TEU Hamburg to Italy,9,declare_cargo_manifest
+Tug services: Yang Ming Kaohsiung unberthing from Euromax ETD 2024-03-12,7,request_pilotage_tug
+What is the pilotage fee for LOA 196m vessel entering Los Angeles?,4,ask_tariff_rates
+Port dues for MSC Geneva net tonnage 23537 stay duration 13 days,4,ask_tariff_rates
+Container COSU7654321 loaded on which vessel voyage?,6,track_container
+Need pier allocation for general cargo Maersk Edmonton loading crude oil ETD 2024-06-19,0,request_berth_booking
+Requesting wharfage rates for LNG carrier vessels at Los Angeles,4,ask_tariff_rates
+Need pier allocation for general cargo Maersk Edmonton loading chemicals ETD 2024-07-12,0,request_berth_booking
+Container MSCU1234567 loaded on which vessel voyage?,6,track_container
+Reschedule: Maersk Edmonton advance cargo operations to 2024-02-24 due to weather,5,modify_berth_booking
+Reporting delay: cargo operations suspended at terminal PSA due to high winds,3,report_port_incident
+Schedule inquiry: Maersk Edmonton arriving Hamburg berth 7,1,ask_vessel_schedule
+Berth reservation: COSCO Shanghai arriving 2024-08-10 with tank containers total 3183 TEU,0,request_berth_booking
+Incident: Hapag Dubai allision with jetty during berthing maneuver,3,report_port_incident
+Environmental compliance: scrubber washwater discharge rules at Hamburg,8,ask_regulations
+Tariff inquiry: container storage fees for dry van after 17 days free time,4,ask_tariff_rates
+Final cargo manifest for COSCO Shanghai total 5557 MT 17602 TEU Singapore to France,9,declare_cargo_manifest
+When does HMM Busan depart Los Angeles bound for India?,1,ask_vessel_schedule
+Pilotage required for car carrier Yang Ming Kaohsiung draft 16m arriving 2024-04-14,7,request_pilotage_tug
+Modify: Yang Ming Kaohsiung shifting from berth 4 to 21 for cargo segregation,5,modify_berth_booking
+Need berth booking for bulk carrier HMM Busan carrying chemicals ETA 2024-08-14 LOA 163 meters,0,request_berth_booking
+Extend stay: HMM Busan requires additional 18 days alongside for steel coils,5,modify_berth_booking
+Double tug configuration for MSC Geneva due to adverse currents,7,request_pilotage_tug
+Is YMLU7778889 available for collection at Matson gate?,6,track_container
+Tracking: MAEU9876543 discharge completion time at terminal PSA,6,track_container
+Arrival window for ONE Bangkok at pilot station 14 to 21,1,ask_vessel_schedule
+Demurrage rates for containers at HIT after free time expires,4,ask_tariff_rates
+Requesting anchorage for Hapag Dubai awaiting berth availability for coal discharge,0,request_berth_booking
+Cancel berth reservation for Hapag Dubai voyage 461,5,modify_berth_booking
+Container ZIMU1239874 loaded on which vessel voyage?,6,track_container
+Schedule inquiry: HMM Busan arriving Shanghai berth 11,1,ask_vessel_schedule
+Reefer cargo list attached for Maersk Edmonton 1477 refrigerated containers set temps included,9,declare_cargo_manifest
+Safety incident: crew injury on ZIM Haifa during lashing operations,3,report_port_incident
+Double tug configuration for ZIM Haifa due to adverse currents,7,request_pilotage_tug
+Container YMLU7778889 customs inspection status?,6,track_container
+Port dues for Maersk Edmonton net tonnage 45796 stay duration 16 days,4,ask_tariff_rates
+Port incident: MSCU1234567 collapsed during stacking at yard block B2,3,report_port_incident
+Regulations for handling automobiles IMO class 3 at LBCT?,8,ask_regulations
+What is the pilotage fee for LOA 187m vessel entering Hong Kong?,4,ask_tariff_rates
+Requesting vessel schedule for HMM Busan IMO 9940888,1,ask_vessel_schedule
+Out of gauge cargo declaration: automobiles dimensions 14x5x3m,9,declare_cargo_manifest
+Berth change request: ZIM Haifa needs deeper draft berth 23 draft 9m,5,modify_berth_booking
+Schedule inquiry: ONE Bangkok arriving Hong Kong berth 2,1,ask_vessel_schedule
+Immigration formalities for crew change on Maersk Edmonton at Hamburg,8,ask_regulations
+What are the cargo handling charges for electronics per metric ton at HIT?,4,ask_tariff_rates
+Reefer cargo list attached for ONE Bangkok 10019 refrigerated containers set temps included,9,declare_cargo_manifest
+Container TCLU1112223 customs inspection status?,6,track_container
+Extend stay: ZIM Haifa requires additional 15 days alongside for coal,5,modify_berth_booking
+Standby tug for COSCO Shanghai during cargo transfer operations,7,request_pilotage_tug
+What is the ETB for ZIM Haifa at terminal APM?,1,ask_vessel_schedule
+Cancel pilot order for ONE Bangkok ETA changed to 2024-05-28,5,modify_berth_booking
+Demurrage rates for containers at LBCT after free time expires,4,ask_tariff_rates
+Dangerous goods manifest: LNG UN number 2195 class 4 container MAEU9876543,9,declare_cargo_manifest
+Requesting vessel schedule for COSCO Shanghai IMO 9591299,1,ask_vessel_schedule
+Book berth for ONE Bangkok at CTB terminal ETA 2024-09-21 draft 16m alongside port,0,request_berth_booking
+What is the pilotage fee for LOA 187m vessel entering Ningbo?,4,ask_tariff_rates
+Uploading packing list for container EGLV4445556 HS 2709.00 weight 13898kg,2,submit_customs_docs
+Requesting anchorage for Evergreen Tokyo awaiting berth availability for crude oil discharge,0,request_berth_booking
+Out of gauge cargo declaration: automobiles dimensions 11x2x2m,9,declare_cargo_manifest
+Submitting manifest: dry van containers total 10811 TEU on Hapag Dubai,9,declare_cargo_manifest
+Maersk Edmonton requesting quay space for discharge of wheat ETA 2024-09-12 LOA 200m GRT 67200,0,request_berth_booking
+Incident: HMM Busan allision with jetty during berthing maneuver,3,report_port_incident
+Pilotage required for bulk carrier Hapag Dubai draft 11m arriving 2024-04-12,7,request_pilotage_tug
+Manifest amendment: container TCLU1112223 cargo description changed to wheat,9,declare_cargo_manifest
+Mooring gang requested for HMM Busan at berth 7 ETA 2024-02-14,7,request_pilotage_tug
+Reefer cargo list attached for ZIM Haifa 16326 refrigerated containers set temps included,9,declare_cargo_manifest
+Customs procedures for transshipment cargo at Ningbo,8,ask_regulations
+Cargo manifest declaration for Hapag Dubai voyage 58 loading electronics destination Germany,9,declare_cargo_manifest
+Certificate of origin attached for frozen meat HS code 0901.11 preferential origin USA,2,submit_customs_docs
+Container TCLU1112223 customs inspection status?,6,track_container
+Container TCLU1112223 customs inspection status?,6,track_container
+Stevedoring charges for soybeans discharge rate 355 MT per hour,4,ask_tariff_rates
+Environmental incident: oil spill from COSCO Shanghai at anchorage during bunkering,3,report_port_incident
+Container HLCU5556667 loaded on which vessel voyage?,6,track_container
+Security alert: unauthorized personnel near Matson terminal perimeter,3,report_port_incident
+Escort tug request for Hapag Dubai in restricted channel due to rough seas,7,request_pilotage_tug
+Customs docs: commercial invoice 14015 LNG value 4488736 Incoterm DDP,2,submit_customs_docs
+Reporting delay: cargo operations suspended at terminal APM due to high winds,3,report_port_incident
+Environmental compliance: scrubber washwater discharge rules at Hong Kong,8,ask_regulations
+Berth reservation: COSCO Shanghai arriving 2024-07-28 with open top containers total 2126 TEU,0,request_berth_booking
+Bulk cargo declaration: bauxite 75996 MT shipper Louis Dreyfus consignee Cargill,9,declare_cargo_manifest
+Regulations for handling LNG IMO class 4 at APM?,8,ask_regulations
+Cancel berth reservation for HMM Busan voyage 123,5,modify_berth_booking
+Status inquiry: YMLU7778889 customs hold or released?,6,track_container
+Container ZIMU1239874 customs inspection status?,6,track_container
+Reporting equipment failure: crane RMG02 breakdown at berth 10,3,report_port_incident
+Ballast water management requirements at Ningbo for ONE Bangkok,8,ask_regulations
+Reschedule: HMM Busan advance cargo operations to 2024-05-20 due to weather,5,modify_berth_booking
+Berth request: COSCO Shanghai IMO 9865322 arriving 2024-03-28 with 17245 MT of electronics FOB,0,request_berth_booking
+Container MAEU9876543 customs inspection status?,6,track_container
+Customs procedures for transshipment cargo at Shanghai,8,ask_regulations
+Final cargo manifest for ONE Bangkok total 10350 MT 11771 TEU Ningbo to Turkey,9,declare_cargo_manifest
+Customs procedures for transshipment cargo at Los Angeles,8,ask_regulations
+Incident report: HMM Busan damaged fender at berth 11 during mooring,3,report_port_incident
+Standby tug for MSC Geneva during cargo transfer operations,7,request_pilotage_tug
+Requesting wharfage rates for cruise ship vessels at Antwerp,4,ask_tariff_rates
+Submitting SAD document for import of electronics origin Chile consignee Glencore,2,submit_customs_docs
+Submitting manifest: reefer containers total 5567 TEU on ZIM Haifa,9,declare_cargo_manifest
+Safety incident: crew injury on MSC Geneva during lashing operations,3,report_port_incident
+Customs docs: commercial invoice 82133 iron ore value 4996197 Incoterm DDP,2,submit_customs_docs
+What are the ISPS security requirements for ONE Bangkok at Busan?,8,ask_regulations
+Reschedule: HMM Busan advance cargo operations to 2024-08-28 due to weather,5,modify_berth_booking
+Demurrage rates for containers at CTA after free time expires,4,ask_tariff_rates
+OPL (Outer Port Limit) anchorage regulations for ro-ro vessel vessels,8,ask_regulations
+Tariff inquiry: container storage fees for dry van after 9 days free time,4,ask_tariff_rates
+Phytosanitary certificate submitted for agricultural cargo wheat container COSU7654321,2,submit_customs_docs
+Safety incident: crew injury on HMM Busan during lashing operations,3,report_port_incident
+Track container OOLU4567890 last reported location?,6,track_container
+What are the ISPS security requirements for Hapag Dubai at Singapore?,8,ask_regulations
+Final cargo manifest for Maersk Edmonton total 16824 MT 13918 TEU Dubai to France,9,declare_cargo_manifest
+Immigration formalities for crew change on MSC Geneva at Hamburg,8,ask_regulations
+Reschedule: Evergreen Tokyo advance cargo operations to 2024-04-28 due to weather,5,modify_berth_booking
+Arrival window for MSC Geneva at pilot station 3 to 27,1,ask_vessel_schedule
+Submitting manifest: tank containers total 8898 TEU on ONE Bangkok,9,declare_cargo_manifest
+Request berth allocation for MV Evergreen Tokyo LOA 319m beam 35m draft 15m ETA 2024-06-23 cargo wheat,0,request_berth_booking
+What are the cargo handling charges for steel coils per metric ton at LBCT?,4,ask_tariff_rates
+Container YMLU7778889 customs inspection status?,6,track_container
+Request berth allocation for MV ZIM Haifa LOA 294m beam 51m draft 14m ETA 2024-09-16 cargo crude oil,0,request_berth_booking
+Cargo manifest declaration for ONE Bangkok voyage 11 loading chemicals destination Spain,9,declare_cargo_manifest
+Tug services: ZIM Haifa unberthing from LBCT ETD 2024-03-17,7,request_pilotage_tug
+Environmental compliance: scrubber washwater discharge rules at Los Angeles,8,ask_regulations
+Dangerous goods manifest: electronics UN number 2938 class 2 container HLCU5556667,9,declare_cargo_manifest
+Where is container TCLU1112223 currently in port?,6,track_container
+Requesting wharfage rates for bulk carrier vessels at Singapore,4,ask_tariff_rates
+Tracking: HLCU5556667 discharge completion time at terminal CTA,6,track_container
+What are the ISPS security requirements for Maersk Edmonton at Hong Kong?,8,ask_regulations
+Reefer cargo list attached for Maersk Edmonton 1780 refrigerated containers set temps included,9,declare_cargo_manifest
+Customs entry filed: Bill of Lading MAEU3577881 container OOLU4567890 cargo wheat,2,submit_customs_docs
+Berth request: ZIM Haifa IMO 9705477 arriving 2024-08-15 with 33010 MT of LNG FOB,0,request_berth_booking
+Cargo manifest declaration for MSC Geneva voyage 638 loading electronics destination Turkey,9,declare_cargo_manifest
+Container HLCU5556667 customs inspection status?,6,track_container
+ETD for HMM Busan after cargo operations complete?,1,ask_vessel_schedule
+Certificate of origin attached for chemicals HS code 6203.42 preferential origin China,2,submit_customs_docs
+Immigration formalities for crew change on CMA CGM Rio at Los Angeles,8,ask_regulations
+Regulations for handling LNG IMO class 9 at LBCT?,8,ask_regulations
+Incident report: ZIM Haifa damaged fender at berth 2 during mooring,3,report_port_incident
+Request berth allocation for MV Hapag Dubai LOA 203m beam 51m draft 11m ETA 2024-09-23 cargo LNG,0,request_berth_booking
+Escort tug request for COSCO Shanghai in restricted channel due to thunderstorms,7,request_pilotage_tug
+Where is container MAEU9876543 currently in port?,6,track_container
+ETD for ZIM Haifa after cargo operations complete?,1,ask_vessel_schedule
+Environmental compliance: scrubber washwater discharge rules at Shanghai,8,ask_regulations
+Order pilot for Yang Ming Kaohsiung LOA 392m GT 45509 ETA pilot station 2024-04-21,7,request_pilotage_tug
+Manifest amendment: container COSU7654321 cargo description changed to steel coils,9,declare_cargo_manifest
+Schedule inquiry: Evergreen Tokyo arriving Hamburg berth 11,1,ask_vessel_schedule
+Request berth allocation for MV CMA CGM Rio LOA 202m beam 46m draft 11m ETA 2024-05-12 cargo LNG,0,request_berth_booking
+ETA for Evergreen Tokyo voyage 799 from China?,1,ask_vessel_schedule
+Need berth booking for bulk carrier HMM Busan carrying frozen meat ETA 2024-09-14 LOA 355 meters,0,request_berth_booking
+Extend stay: HMM Busan requires additional 9 days alongside for iron ore,5,modify_berth_booking
+Requesting anchorage for Hapag Dubai awaiting berth availability for soybeans discharge,0,request_berth_booking
+Tug services: Evergreen Tokyo unberthing from APM ETD 2024-01-12,7,request_pilotage_tug
+Certificate of origin attached for wheat HS code 8703.23 preferential origin South Africa,2,submit_customs_docs
+Is ZIMU1239874 available for collection at Delta gate?,6,track_container
+Is HLCU5556667 available for collection at Delta gate?,6,track_container
+Environmental incident: oil spill from Hapag Dubai at anchorage during bunkering,3,report_port_incident
+Berth reservation: Yang Ming Kaohsiung arriving 2024-07-28 with reefer containers total 4289 TEU,0,request_berth_booking
+Need pier allocation for tanker Hapag Dubai loading wheat ETD 2024-09-27,0,request_berth_booking
+Need berth booking for bulk carrier CMA CGM Rio carrying LNG ETA 2024-05-16 LOA 196 meters,0,request_berth_booking
+Port state control inspection procedures for Singapore flag vessels,8,ask_regulations
+Berth swap requested between CMA CGM Rio and COSCO Shanghai at APM,5,modify_berth_booking
+Port incident: ONEU3334445 collapsed during stacking at yard block E5,3,report_port_incident
+Requesting anchorage for ONE Bangkok awaiting berth availability for bauxite discharge,0,request_berth_booking
+Track container ONEU3334445 last reported location?,6,track_container
+Need berth booking for car carrier ONE Bangkok carrying steel coils ETA 2024-06-20 LOA 185 meters,0,request_berth_booking
+What are the ISPS security requirements for HMM Busan at Singapore?,8,ask_regulations
+Port state control inspection procedures for Singapore flag vessels,8,ask_regulations
+Port incident: YMLU7778889 collapsed during stacking at yard block D4,3,report_port_incident
+Environmental compliance: scrubber washwater discharge rules at Antwerp,8,ask_regulations
+Reporting delay: cargo operations suspended at terminal Matson due to heavy rain,3,report_port_incident
+Tracking: YMLU7778889 discharge completion time at terminal APM,6,track_container
+Standby tug for MSC Geneva during cargo transfer operations,7,request_pilotage_tug
+What is the ETB for ZIM Haifa at terminal APM?,1,ask_vessel_schedule
+Stevedoring charges for textiles discharge rate 1546 MT per hour,4,ask_tariff_rates
+Documentation submitted: cargo manifest for ONE Bangkok voyage 686 Shanghai,2,submit_customs_docs
+Double tug configuration for ONE Bangkok due to adverse currents,7,request_pilotage_tug
+Double tug configuration for Hapag Dubai due to adverse currents,7,request_pilotage_tug
+Port incident: ONEU3334445 collapsed during stacking at yard block A1,3,report_port_incident
+Cargo manifest declaration for ZIM Haifa voyage 517 loading iron ore destination Turkey,9,declare_cargo_manifest
+Berth change request: HMM Busan needs deeper draft berth 23 draft 13m,5,modify_berth_booking
+Safety incident: crew injury on HMM Busan during lashing operations,3,report_port_incident
+Order pilot for Hapag Dubai LOA 201m GT 98966 ETA pilot station 2024-07-12,7,request_pilotage_tug
+Extend stay: HMM Busan requires additional 6 days alongside for crude oil,5,modify_berth_booking
+Final cargo manifest for ONE Bangkok total 19992 MT 3213 TEU Singapore to UK,9,declare_cargo_manifest
+Requesting vessel schedule for MSC Geneva IMO 9086847,1,ask_vessel_schedule
+Incident: HMM Busan allision with jetty during berthing maneuver,3,report_port_incident
+Reschedule: Hapag Dubai advance cargo operations to 2024-01-20 due to weather,5,modify_berth_booking
+Is MSCU1234567 available for collection at Delta gate?,6,track_container
+Berth swap requested between Evergreen Tokyo and MSC Geneva at Euromax,5,modify_berth_booking
+Is OOLU4567890 available for collection at PSA gate?,6,track_container
+Environmental compliance: scrubber washwater discharge rules at Antwerp,8,ask_regulations
+Demurrage rates for containers at HIT after free time expires,4,ask_tariff_rates
+Phytosanitary certificate submitted for agricultural cargo frozen meat container TCLU1112223,2,submit_customs_docs
+Port dues for COSCO Shanghai net tonnage 25379 stay duration 4 days,4,ask_tariff_rates
+Submitting manifest: open top containers total 1132 TEU on HMM Busan,9,declare_cargo_manifest
+Double tug configuration for COSCO Shanghai due to adverse currents,7,request_pilotage_tug
+Tug services: Yang Ming Kaohsiung unberthing from Delta ETD 2024-03-20,7,request_pilotage_tug
+Pilotage required for bulk carrier ZIM Haifa draft 16m arriving 2024-01-19,7,request_pilotage_tug
+Certificate of origin attached for soybeans HS code 8703.23 preferential origin Australia,2,submit_customs_docs
+What is the ETB for COSCO Shanghai at terminal Delta?,1,ask_vessel_schedule
+Request berth allocation for MV ONE Bangkok LOA 358m beam 57m draft 11m ETA 2024-03-14 cargo steel coils,0,request_berth_booking
+Phytosanitary certificate submitted for agricultural cargo iron ore container YMLU7778889,2,submit_customs_docs
+Requesting vessel schedule for Hapag Dubai IMO 9603587,1,ask_vessel_schedule
+Out of gauge cargo declaration: chemicals dimensions 11x3x4m,9,declare_cargo_manifest
+What are the cargo handling charges for automobiles per metric ton at Delta?,4,ask_tariff_rates
+Tug services: HMM Busan unberthing from CTB ETD 2024-07-25,7,request_pilotage_tug
+Tracking: OOLU4567890 discharge completion time at terminal SSA,6,track_container
+Immigration formalities for crew change on Hapag Dubai at Rotterdam,8,ask_regulations
+Bulk cargo declaration: coal 65182 MT shipper Vitol consignee Louis Dreyfus,9,declare_cargo_manifest
+Customs entry filed: Bill of Lading HLCU4469681 container MSCU1234567 cargo electronics,2,submit_customs_docs
+Environmental incident: oil spill from CMA CGM Rio at anchorage during bunkering,3,report_port_incident
+Out of gauge cargo declaration: steel coils dimensions 6x2x2m,9,declare_cargo_manifest
+Port dues for CMA CGM Rio net tonnage 46883 stay duration 20 days,4,ask_tariff_rates
+Berth request: COSCO Shanghai IMO 9245369 arriving 2024-03-24 with 28703 MT of frozen meat FOB,0,request_berth_booking
+Tug services: HMM Busan unberthing from LBCT ETD 2024-09-25,7,request_pilotage_tug
+Tug services: COSCO Shanghai unberthing from APM ETD 2024-06-22,7,request_pilotage_tug
+Berth request: MSC Geneva IMO 9995805 arriving 2024-02-22 with 58347 MT of wheat FOB,0,request_berth_booking
+Order pilot for Evergreen Tokyo LOA 315m GT 99834 ETA pilot station 2024-09-16,7,request_pilotage_tug
+When is COSCO Shanghai expected to arrive at Hamburg?,1,ask_vessel_schedule
+Cancel berth reservation for MSC Geneva voyage 213,5,modify_berth_booking
+Pilotage required for ro-ro vessel ZIM Haifa draft 11m arriving 2024-09-22,7,request_pilotage_tug
+Submitting customs declaration for steel coils HS code 3004.90 value 1046163 CIF,2,submit_customs_docs
+Mooring gang requested for Yang Ming Kaohsiung at berth 12 ETA 2024-05-21,7,request_pilotage_tug
+Double tug configuration for ZIM Haifa due to adverse currents,7,request_pilotage_tug
+Dangerous goods manifest: crude oil UN number 1849 class 2 container HLCU5556667,9,declare_cargo_manifest
+Security alert: unauthorized personnel near SSA terminal perimeter,3,report_port_incident
+Reefer cargo list attached for ONE Bangkok 19171 refrigerated containers set temps included,9,declare_cargo_manifest
+Submitting SAD document for import of automobiles origin China consignee Vitol,2,submit_customs_docs
+OPL (Outer Port Limit) anchorage regulations for tanker vessels,8,ask_regulations
+Track container EGLV4445556 last reported location?,6,track_container
+Book berth for Maersk Edmonton at CTB terminal ETA 2024-05-12 draft 13m alongside starboard,0,request_berth_booking
+Berth request: Maersk Edmonton IMO 9473209 arriving 2024-07-25 with 60004 MT of iron ore FOB,0,request_berth_booking
+Documentation submitted: cargo manifest for Evergreen Tokyo voyage 410 Shanghai,2,submit_customs_docs
+What are the cargo handling charges for bauxite per metric ton at Delta?,4,ask_tariff_rates
+Environmental incident: oil spill from CMA CGM Rio at anchorage during bunkering,3,report_port_incident
+Track container TCLU1112223 last reported location?,6,track_container
+Requesting anchorage for ONE Bangkok awaiting berth availability for automobiles discharge,0,request_berth_booking
+Customs procedures for transshipment cargo at Dubai,8,ask_regulations
+Documentation submitted: cargo manifest for MSC Geneva voyage 724 Dubai,2,submit_customs_docs
+Standby tug for COSCO Shanghai during cargo transfer operations,7,request_pilotage_tug
+Phytosanitary certificate submitted for agricultural cargo electronics container HLCU5556667,2,submit_customs_docs
+Environmental compliance: scrubber washwater discharge rules at Hong Kong,8,ask_regulations
+Is COSU7654321 available for collection at CTA gate?,6,track_container
+Requesting anchorage for COSCO Shanghai awaiting berth availability for containers discharge,0,request_berth_booking
+Cargo manifest declaration for HMM Busan voyage 126 loading chemicals destination France,9,declare_cargo_manifest
+Evergreen Tokyo requesting quay space for discharge of textiles ETA 2024-05-27 LOA 293m GRT 68568,0,request_berth_booking
+What is the pilotage fee for LOA 210m vessel entering Busan?,4,ask_tariff_rates
+Request tug assistance: Yang Ming Kaohsiung berthing at berth 10 wind force 4,7,request_pilotage_tug
+Incident: HMM Busan allision with jetty during berthing maneuver,3,report_port_incident
+Stevedoring charges for wheat discharge rate 1713 MT per hour,4,ask_tariff_rates
+Uploading packing list for container MAEU9876543 HS 6203.42 weight 4322kg,2,submit_customs_docs
+Modify: ONE Bangkok shifting from berth 7 to 24 for cargo segregation,5,modify_berth_booking
+Customs entry filed: Bill of Lading HLCU1303490 container COSU7654321 cargo coal,2,submit_customs_docs
+Arrival window for COSCO Shanghai at pilot station 10 to 22,1,ask_vessel_schedule
+Regulations for handling iron ore IMO class 8 at CTA?,8,ask_regulations
+Safety incident: crew injury on Maersk Edmonton during lashing operations,3,report_port_incident
+What is the ETB for Hapag Dubai at terminal PSA?,1,ask_vessel_schedule
+Cancel berth reservation for COSCO Shanghai voyage 770,5,modify_berth_booking
+Dangerous goods manifest: textiles UN number 2736 class 9 container ZIMU1239874,9,declare_cargo_manifest
+Reporting delay: cargo operations suspended at terminal LBCT due to rough seas,3,report_port_incident
+Need pier allocation for general cargo HMM Busan loading coal ETD 2024-04-24,0,request_berth_booking
+Submitting SAD document for import of bauxite origin Canada consignee Odebrecht,2,submit_customs_docs
+Immigration formalities for crew change on Yang Ming Kaohsiung at Shanghai,8,ask_regulations
+Request berth allocation for MV Yang Ming Kaohsiung LOA 170m beam 54m draft 16m ETA 2024-03-22 cargo textiles,0,request_berth_booking
+Is MSCU1234567 available for collection at Delta gate?,6,track_container
+Documentation submitted: cargo manifest for ONE Bangkok voyage 175 Shanghai,2,submit_customs_docs
+Port dues for Maersk Edmonton net tonnage 44204 stay duration 6 days,4,ask_tariff_rates
+Berth change request: ZIM Haifa needs deeper draft berth 24 draft 8m,5,modify_berth_booking
+Tug service rates for CMA CGM Rio gross tonnage 73321 at Ningbo,4,ask_tariff_rates
+Berth request: HMM Busan IMO 9463303 arriving 2024-02-11 with 15237 MT of bauxite FOB,0,request_berth_booking
+Port dues for ZIM Haifa net tonnage 20149 stay duration 6 days,4,ask_tariff_rates
+Berth change request: Maersk Edmonton needs deeper draft berth 16 draft 14m,5,modify_berth_booking
+Double tug configuration for CMA CGM Rio due to adverse currents,7,request_pilotage_tug
+Security alert: unauthorized personnel near HIT terminal perimeter,3,report_port_incident
+Requesting wharfage rates for car carrier vessels at Shanghai,4,ask_tariff_rates
+Reschedule: Yang Ming Kaohsiung advance cargo operations to 2024-03-17 due to weather,5,modify_berth_booking
+Requesting anchorage for Yang Ming Kaohsiung awaiting berth availability for crude oil discharge,0,request_berth_booking
+Submitting manifest: tank containers total 18771 TEU on Yang Ming Kaohsiung,9,declare_cargo_manifest
+Mooring gang requested for Evergreen Tokyo at berth 12 ETA 2024-03-22,7,request_pilotage_tug
+Port state control inspection procedures for Panama flag vessels,8,ask_regulations
+Submitting SAD document for import of containers origin Australia consignee Glencore,2,submit_customs_docs
+Tariff inquiry: container storage fees for tank after 13 days free time,4,ask_tariff_rates
+Container ONEU3334445 loaded on which vessel voyage?,6,track_container
+Immigration formalities for crew change on MSC Geneva at Shanghai,8,ask_regulations
+ETA for ZIM Haifa voyage 953 from Russia?,1,ask_vessel_schedule
+Customs docs: commercial invoice 51340 coal value 271876 Incoterm CIF,2,submit_customs_docs
+Dangerous goods manifest: steel coils UN number 2469 class 3 container MSCU1234567,9,declare_cargo_manifest
+Standby tug for ZIM Haifa during cargo transfer operations,7,request_pilotage_tug
+Certificate of origin attached for steel coils HS code 6203.42 preferential origin China,2,submit_customs_docs
+Bulk cargo declaration: iron ore 49212 MT shipper Louis Dreyfus consignee Bunge,9,declare_cargo_manifest
+Bulk cargo declaration: wheat 47813 MT shipper Wilmar consignee Glencore,9,declare_cargo_manifest
+Submitting manifest: dry van containers total 1997 TEU on Yang Ming Kaohsiung,9,declare_cargo_manifest
+Reporting delay: cargo operations suspended at terminal Delta due to thunderstorms,3,report_port_incident
+Certificate of origin attached for iron ore HS code 6203.42 preferential origin Brazil,2,submit_customs_docs
+Port state control inspection procedures for Malta flag vessels,8,ask_regulations
+Modify: HMM Busan shifting from berth 11 to 15 for cargo segregation,5,modify_berth_booking
+ETA for Maersk Edmonton voyage 102 from Indonesia?,1,ask_vessel_schedule
+When does MSC Geneva depart Singapore bound for Spain?,1,ask_vessel_schedule
+Submitting SAD document for import of coal origin USA consignee Olam,2,submit_customs_docs
+Berth request: HMM Busan IMO 9727691 arriving 2024-09-22 with 29385 MT of chemicals FOB,0,request_berth_booking
+Cancel berth reservation for Maersk Edmonton voyage 512,5,modify_berth_booking
+Reporting delay: cargo operations suspended at terminal SSA due to thunderstorms,3,report_port_incident
+Berth change request: CMA CGM Rio needs deeper draft berth 16 draft 13m,5,modify_berth_booking
+Where is container ONEU3334445 currently in port?,6,track_container
+Amend berth booking: ZIM Haifa new ETA 2024-06-19 original booking 2024-02-3,5,modify_berth_booking
+Tug service rates for ZIM Haifa gross tonnage 88802 at Antwerp,4,ask_tariff_rates
+Tariff inquiry: container storage fees for tank after 5 days free time,4,ask_tariff_rates
+Final cargo manifest for COSCO Shanghai total 23128 MT 22701 TEU Singapore to France,9,declare_cargo_manifest
+Customs docs: commercial invoice 16084 frozen meat value 3308095 Incoterm FOB,2,submit_customs_docs
+Tracking: EGLV4445556 discharge completion time at terminal PSA,6,track_container
+Berth request: MSC Geneva IMO 9271782 arriving 2024-06-24 with 78259 MT of soybeans FOB,0,request_berth_booking
+Port state control inspection procedures for Liberia flag vessels,8,ask_regulations
+Security alert: unauthorized personnel near Euromax terminal perimeter,3,report_port_incident
+Dangerous goods manifest: frozen meat UN number 1857 class 9 container EGLV4445556,9,declare_cargo_manifest
+Dangerous goods manifest: soybeans UN number 2644 class 5 container MAEU9876543,9,declare_cargo_manifest
+Status inquiry: YMLU7778889 customs hold or released?,6,track_container
+Berth reservation: CMA CGM Rio arriving 2024-04-16 with tank containers total 20271 TEU,0,request_berth_booking
+Where is container ONEU3334445 currently in port?,6,track_container
+Phytosanitary certificate submitted for agricultural cargo chemicals container YMLU7778889,2,submit_customs_docs
+Arrival window for CMA CGM Rio at pilot station 5 to 23,1,ask_vessel_schedule
+What is the ETB for HMM Busan at terminal Delta?,1,ask_vessel_schedule
+Arrival window for ONE Bangkok at pilot station 2 to 17,1,ask_vessel_schedule
+Standby tug for HMM Busan during cargo transfer operations,7,request_pilotage_tug
+Submitting SAD document for import of iron ore origin Australia consignee Odebrecht,2,submit_customs_docs
+Modify: Maersk Edmonton shifting from berth 7 to 21 for cargo segregation,5,modify_berth_booking
+Customs procedures for transshipment cargo at Shanghai,8,ask_regulations
+Dangerous goods manifest: crude oil UN number 2090 class 3 container ZIMU1239874,9,declare_cargo_manifest
+Ballast water management requirements at Antwerp for CMA CGM Rio,8,ask_regulations
+Standby tug for Maersk Edmonton during cargo transfer operations,7,request_pilotage_tug
+Berth change request: COSCO Shanghai needs deeper draft berth 16 draft 8m,5,modify_berth_booking
+ETA for ONE Bangkok voyage 734 from Russia?,1,ask_vessel_schedule
+Customs procedures for transshipment cargo at Hong Kong,8,ask_regulations
+Uploading packing list for container ONEU3334445 HS 6203.42 weight 13310kg,2,submit_customs_docs
+Incident report: HMM Busan damaged fender at berth 4 during mooring,3,report_port_incident
+Berth change request: Hapag Dubai needs deeper draft berth 23 draft 9m,5,modify_berth_booking
+Berth request: Maersk Edmonton IMO 9477309 arriving 2024-06-23 with 20473 MT of bauxite FOB,0,request_berth_booking
+Container TCLU1112223 loaded on which vessel voyage?,6,track_container
+Double tug configuration for Maersk Edmonton due to adverse currents,7,request_pilotage_tug
+Tariff inquiry: container storage fees for flat rack after 8 days free time,4,ask_tariff_rates
+Amend berth booking: COSCO Shanghai new ETA 2024-03-20 original booking 2024-08-6,5,modify_berth_booking
+Berth reservation: Hapag Dubai arriving 2024-04-24 with reefer containers total 4368 TEU,0,request_berth_booking
+Location of container YMLU7778889 in yard block D4?,6,track_container
+Arrival window for HMM Busan at pilot station 15 to 16,1,ask_vessel_schedule
+What are the ISPS security requirements for CMA CGM Rio at Singapore?,8,ask_regulations
+Berth request: Hapag Dubai IMO 9634792 arriving 2024-07-12 with 49222 MT of wheat FOB,0,request_berth_booking
+When is CMA CGM Rio expected to arrive at Singapore?,1,ask_vessel_schedule
+Modify: Evergreen Tokyo shifting from berth 5 to 13 for cargo segregation,5,modify_berth_booking
+Port incident: TCLU1112223 collapsed during stacking at yard block B2,3,report_port_incident
+Berth change request: Hapag Dubai needs deeper draft berth 14 draft 10m,5,modify_berth_booking
+Immigration formalities for crew change on Evergreen Tokyo at Busan,8,ask_regulations
+Berth change request: ONE Bangkok needs deeper draft berth 13 draft 11m,5,modify_berth_booking
+Need pier allocation for general cargo COSCO Shanghai loading bauxite ETD 2024-01-22,0,request_berth_booking
+Tariff inquiry: container storage fees for tank after 14 days free time,4,ask_tariff_rates
+Standby tug for MSC Geneva during cargo transfer operations,7,request_pilotage_tug
+Berth swap requested between ONE Bangkok and MSC Geneva at CTA,5,modify_berth_booking
+Mooring gang requested for CMA CGM Rio at berth 10 ETA 2024-01-24,7,request_pilotage_tug
+Extend stay: ONE Bangkok requires additional 11 days alongside for containers,5,modify_berth_booking
+Port dues for ZIM Haifa net tonnage 24959 stay duration 15 days,4,ask_tariff_rates
+Order pilot for ZIM Haifa LOA 206m GT 143750 ETA pilot station 2024-06-19,7,request_pilotage_tug
+Cancel berth reservation for ONE Bangkok voyage 273,5,modify_berth_booking
+OPL (Outer Port Limit) anchorage regulations for bulk carrier vessels,8,ask_regulations
+Regulations for handling automobiles IMO class 3 at LBCT?,8,ask_regulations
+Incident report: Yang Ming Kaohsiung damaged fender at berth 4 during mooring,3,report_port_incident
+Environmental compliance: scrubber washwater discharge rules at Busan,8,ask_regulations
+Dangerous goods manifest: automobiles UN number 1359 class 3 container ZIMU1239874,9,declare_cargo_manifest
+What is the ETB for Yang Ming Kaohsiung at terminal Delta?,1,ask_vessel_schedule
+Submitting manifest: tank containers total 22985 TEU on Hapag Dubai,9,declare_cargo_manifest
+Book berth for HMM Busan at Euromax terminal ETA 2024-04-10 draft 13m alongside port,0,request_berth_booking
+Is YMLU7778889 available for collection at HIT gate?,6,track_container
+Track container MAEU9876543 last reported location?,6,track_container
+Tug services: Hapag Dubai unberthing from Delta ETD 2024-09-16,7,request_pilotage_tug
+Standby tug for ONE Bangkok during cargo transfer operations,7,request_pilotage_tug
+Demurrage rates for containers at SSA after free time expires,4,ask_tariff_rates
+Ballast water management requirements at Hong Kong for ZIM Haifa,8,ask_regulations
+Tug services: HMM Busan unberthing from Delta ETD 2024-02-20,7,request_pilotage_tug
+Request tug assistance: Hapag Dubai berthing at berth 6 wind force 11,7,request_pilotage_tug
+Dangerous goods manifest: LNG UN number 3358 class 3 container HLCU5556667,9,declare_cargo_manifest
+Track container YMLU7778889 last reported location?,6,track_container
+Uploading packing list for container MSCU1234567 HS 8703.23 weight 23934kg,2,submit_customs_docs
+Mooring gang requested for MSC Geneva at berth 3 ETA 2024-06-25,7,request_pilotage_tug
+Cancel berth reservation for ONE Bangkok voyage 226,5,modify_berth_booking
+What is the ETB for Hapag Dubai at terminal CTB?,1,ask_vessel_schedule
+Security alert: unauthorized personnel near CTA terminal perimeter,3,report_port_incident
+Reporting delay: cargo operations suspended at terminal APM due to heavy rain,3,report_port_incident
+Regulations for handling automobiles IMO class 5 at PSA?,8,ask_regulations
+Manifest amendment: container OOLU4567890 cargo description changed to coal,9,declare_cargo_manifest
+Cancel berth reservation for Yang Ming Kaohsiung voyage 689,5,modify_berth_booking
+Arrival window for Yang Ming Kaohsiung at pilot station 3 to 29,1,ask_vessel_schedule
+Certificate of origin attached for crude oil HS code 2601.11 preferential origin Brazil,2,submit_customs_docs
+When does MSC Geneva depart Ningbo bound for France?,1,ask_vessel_schedule
+Manifest amendment: container ZIMU1239874 cargo description changed to coal,9,declare_cargo_manifest
+What are the cargo handling charges for soybeans per metric ton at Euromax?,4,ask_tariff_rates
+Reefer cargo list attached for ONE Bangkok 19397 refrigerated containers set temps included,9,declare_cargo_manifest
+Bulk cargo declaration: wheat 8190 MT shipper Cargill consignee Odebrecht,9,declare_cargo_manifest
+Need pier allocation for ro-ro vessel CMA CGM Rio loading automobiles ETD 2024-03-22,0,request_berth_booking
+Incident: COSCO Shanghai allision with jetty during berthing maneuver,3,report_port_incident
+Cancel berth reservation for ONE Bangkok voyage 939,5,modify_berth_booking
+Extend stay: CMA CGM Rio requires additional 19 days alongside for steel coils,5,modify_berth_booking
+What are the cargo handling charges for LNG per metric ton at CTA?,4,ask_tariff_rates
+ETA for Maersk Edmonton voyage 704 from Chile?,1,ask_vessel_schedule
+Submitting customs declaration for soybeans HS code 3004.90 value 630182 EXW,2,submit_customs_docs
+Submitting manifest: dry van containers total 4125 TEU on MSC Geneva,9,declare_cargo_manifest
+Where is container TCLU1112223 currently in port?,6,track_container
+Schedule inquiry: COSCO Shanghai arriving Dubai berth 9,1,ask_vessel_schedule
+Request tug assistance: ZIM Haifa berthing at berth 8 wind force 5,7,request_pilotage_tug
+Reporting delay: cargo operations suspended at terminal Delta due to high winds,3,report_port_incident
+ETD for CMA CGM Rio after cargo operations complete?,1,ask_vessel_schedule
+Demurrage rates for containers at PSA after free time expires,4,ask_tariff_rates
+Requesting vessel schedule for COSCO Shanghai IMO 9312042,1,ask_vessel_schedule
+Submitting manifest: open top containers total 20774 TEU on Yang Ming Kaohsiung,9,declare_cargo_manifest
+Location of container ZIMU1239874 in yard block A1?,6,track_container
+Location of container YMLU7778889 in yard block A1?,6,track_container
+Requesting anchorage for Yang Ming Kaohsiung awaiting berth availability for electronics discharge,0,request_berth_booking
+When does Hapag Dubai depart Hamburg bound for France?,1,ask_vessel_schedule
+Hapag Dubai requesting quay space for discharge of wheat ETA 2024-05-18 LOA 220m GRT 80174,0,request_berth_booking
+Tug services: Yang Ming Kaohsiung unberthing from CTB ETD 2024-08-19,7,request_pilotage_tug
+Port state control inspection procedures for Liberia flag vessels,8,ask_regulations
+Escort tug request for Yang Ming Kaohsiung in restricted channel due to rough seas,7,request_pilotage_tug
+Final cargo manifest for Evergreen Tokyo total 52286 MT 2951 TEU Shanghai to France,9,declare_cargo_manifest
+Reschedule: ONE Bangkok advance cargo operations to 2024-04-16 due to weather,5,modify_berth_booking
+Cancel pilot order for CMA CGM Rio ETA changed to 2024-03-23,5,modify_berth_booking
+Berth change request: CMA CGM Rio needs deeper draft berth 19 draft 16m,5,modify_berth_booking
+OPL (Outer Port Limit) anchorage regulations for general cargo vessels,8,ask_regulations
+Berth change request: ZIM Haifa needs deeper draft berth 13 draft 16m,5,modify_berth_booking
+Security alert: unauthorized personnel near CTB terminal perimeter,3,report_port_incident
+Book berth for Maersk Edmonton at PSA terminal ETA 2024-08-13 draft 16m alongside starboard,0,request_berth_booking
+Security alert: unauthorized personnel near LBCT terminal perimeter,3,report_port_incident
+Manifest amendment: container COSU7654321 cargo description changed to steel coils,9,declare_cargo_manifest
+Track container MSCU1234567 last reported location?,6,track_container
+Port state control inspection procedures for Panama flag vessels,8,ask_regulations
+Port incident: ZIMU1239874 collapsed during stacking at yard block B2,3,report_port_incident
+Request tug assistance: ONE Bangkok berthing at berth 6 wind force 7,7,request_pilotage_tug
+Tracking: TCLU1112223 discharge completion time at terminal Delta,6,track_container
+Port state control inspection procedures for Marshall Islands flag vessels,8,ask_regulations
+Uploading packing list for container COSU7654321 HS 6203.42 weight 13046kg,2,submit_customs_docs
+Book berth for ONE Bangkok at Euromax terminal ETA 2024-02-11 draft 9m alongside port,0,request_berth_booking
+Ballast water management requirements at Ningbo for Hapag Dubai,8,ask_regulations
+Need pier allocation for general cargo MSC Geneva loading wheat ETD 2024-01-15,0,request_berth_booking
+Immigration formalities for crew change on Hapag Dubai at Shanghai,8,ask_regulations
+Need pier allocation for container vessel Evergreen Tokyo loading soybeans ETD 2024-05-25,0,request_berth_booking
+Cargo manifest declaration for ZIM Haifa voyage 982 loading crude oil destination Spain,9,declare_cargo_manifest
+When is Hapag Dubai expected to arrive at Los Angeles?,1,ask_vessel_schedule
+Maersk Edmonton requesting quay space for discharge of coal ETA 2024-05-11 LOA 333m GRT 120111,0,request_berth_booking
+Escort tug request for ONE Bangkok in restricted channel due to rough seas,7,request_pilotage_tug
+Stevedoring charges for frozen meat discharge rate 1659 MT per hour,4,ask_tariff_rates
+Container HLCU5556667 customs inspection status?,6,track_container
+Reporting delay: cargo operations suspended at terminal PSA due to rough seas,3,report_port_incident
+What is the pilotage fee for LOA 210m vessel entering Los Angeles?,4,ask_tariff_rates
+ETD for Yang Ming Kaohsiung after cargo operations complete?,1,ask_vessel_schedule
+Berth swap requested between Yang Ming Kaohsiung and HMM Busan at Euromax,5,modify_berth_booking
+Tracking: HLCU5556667 discharge completion time at terminal Euromax,6,track_container
+COSCO Shanghai requesting quay space for discharge of bauxite ETA 2024-03-23 LOA 280m GRT 129061,0,request_berth_booking
+Demurrage rates for containers at Euromax after free time expires,4,ask_tariff_rates
+ETA for ONE Bangkok voyage 311 from Chile?,1,ask_vessel_schedule
+ETA for Evergreen Tokyo voyage 555 from China?,1,ask_vessel_schedule
+Phytosanitary certificate submitted for agricultural cargo iron ore container ZIMU1239874,2,submit_customs_docs
+Port incident: COSU7654321 collapsed during stacking at yard block B2,3,report_port_incident
+Manifest amendment: container YMLU7778889 cargo description changed to crude oil,9,declare_cargo_manifest
+Port state control inspection procedures for Marshall Islands flag vessels,8,ask_regulations
+Safety incident: crew injury on ONE Bangkok during lashing operations,3,report_port_incident
+Cancel pilot order for Yang Ming Kaohsiung ETA changed to 2024-06-18,5,modify_berth_booking
+Submitting customs declaration for textiles HS code 6203.42 value 123334 CIF,2,submit_customs_docs
+Tariff inquiry: container storage fees for flat rack after 17 days free time,4,ask_tariff_rates
+Reefer cargo list attached for Evergreen Tokyo 6750 refrigerated containers set temps included,9,declare_cargo_manifest
+Berth swap requested between COSCO Shanghai and Evergreen Tokyo at Delta,5,modify_berth_booking
+Bulk cargo declaration: chemicals 47957 MT shipper Glencore consignee Vitol,9,declare_cargo_manifest
+Out of gauge cargo declaration: steel coils dimensions 5x4x3m,9,declare_cargo_manifest
+Track container HLCU5556667 last reported location?,6,track_container
+Modify: HMM Busan shifting from berth 5 to 14 for cargo segregation,5,modify_berth_booking
+Stevedoring charges for textiles discharge rate 1437 MT per hour,4,ask_tariff_rates
+Final cargo manifest for CMA CGM Rio total 55740 MT 12444 TEU Dubai to South Korea,9,declare_cargo_manifest
+Need pier allocation for ro-ro vessel COSCO Shanghai loading automobiles ETD 2024-09-10,0,request_berth_booking
+Need berth booking for ro-ro vessel MSC Geneva carrying crude oil ETA 2024-02-20 LOA 357 meters,0,request_berth_booking
+Uploading packing list for container YMLU7778889 HS 0901.11 weight 4331kg,2,submit_customs_docs
+ETD for Evergreen Tokyo after cargo operations complete?,1,ask_vessel_schedule
+OPL (Outer Port Limit) anchorage regulations for bulk carrier vessels,8,ask_regulations
+Request berth allocation for MV Evergreen Tokyo LOA 385m beam 31m draft 16m ETA 2024-08-12 cargo textiles,0,request_berth_booking
+Cancel pilot order for Yang Ming Kaohsiung ETA changed to 2024-08-23,5,modify_berth_booking
+Container OOLU4567890 customs inspection status?,6,track_container
+Security alert: unauthorized personnel near APM terminal perimeter,3,report_port_incident
+Berth request: ONE Bangkok IMO 9077333 arriving 2024-02-12 with 22009 MT of coal FOB,0,request_berth_booking
+Container EGLV4445556 customs inspection status?,6,track_container
+Mooring gang requested for CMA CGM Rio at berth 6 ETA 2024-06-13,7,request_pilotage_tug
+Requesting wharfage rates for general cargo vessels at Singapore,4,ask_tariff_rates
+Where is container EGLV4445556 currently in port?,6,track_container
+Stevedoring charges for electronics discharge rate 1485 MT per hour,4,ask_tariff_rates
+Incident report: Hapag Dubai damaged fender at berth 11 during mooring,3,report_port_incident
+Need berth booking for car carrier Hapag Dubai carrying frozen meat ETA 2024-08-19 LOA 257 meters,0,request_berth_booking
+Out of gauge cargo declaration: LNG dimensions 10x4x5m,9,declare_cargo_manifest
+Escort tug request for Hapag Dubai in restricted channel due to rough seas,7,request_pilotage_tug
+Schedule inquiry: MSC Geneva arriving Ningbo berth 12,1,ask_vessel_schedule
+Immigration formalities for crew change on MSC Geneva at Rotterdam,8,ask_regulations
+What is the ETB for HMM Busan at terminal CTA?,1,ask_vessel_schedule
+What are the cargo handling charges for iron ore per metric ton at HIT?,4,ask_tariff_rates
+Reporting delay: cargo operations suspended at terminal LBCT due to heavy rain,3,report_port_incident
+Arrival window for Yang Ming Kaohsiung at pilot station 2 to 21,1,ask_vessel_schedule
+Schedule inquiry: ZIM Haifa arriving Singapore berth 4,1,ask_vessel_schedule
+Requesting wharfage rates for ro-ro vessel vessels at Shanghai,4,ask_tariff_rates
+Certificate of origin attached for automobiles HS code 6203.42 preferential origin Indonesia,2,submit_customs_docs
+Mooring gang requested for COSCO Shanghai at berth 9 ETA 2024-07-18,7,request_pilotage_tug
+Immigration formalities for crew change on Maersk Edmonton at Rotterdam,8,ask_regulations
+Berth reservation: ZIM Haifa arriving 2024-01-26 with tank containers total 21530 TEU,0,request_berth_booking
+Need berth booking for general cargo MSC Geneva carrying soybeans ETA 2024-04-27 LOA 157 meters,0,request_berth_booking
+Safety incident: crew injury on ZIM Haifa during lashing operations,3,report_port_incident
+Environmental incident: oil spill from Evergreen Tokyo at anchorage during bunkering,3,report_port_incident
+Submitting customs declaration for textiles HS code 6203.42 value 2107836 FOB,2,submit_customs_docs
+What is the ETB for ONE Bangkok at terminal CTA?,1,ask_vessel_schedule
+Cargo manifest declaration for Maersk Edmonton voyage 104 loading wheat destination Italy,9,declare_cargo_manifest
+Mooring gang requested for CMA CGM Rio at berth 12 ETA 2024-08-14,7,request_pilotage_tug
+Need pier allocation for container vessel Hapag Dubai loading coal ETD 2024-07-16,0,request_berth_booking
+Book berth for Evergreen Tokyo at Delta terminal ETA 2024-05-26 draft 16m alongside starboard,0,request_berth_booking
+Incident: CMA CGM Rio allision with jetty during berthing maneuver,3,report_port_incident
+Documentation submitted: cargo manifest for Evergreen Tokyo voyage 910 Shanghai,2,submit_customs_docs
+What are the ISPS security requirements for Maersk Edmonton at Hamburg?,8,ask_regulations
+Berth reservation: HMM Busan arriving 2024-05-15 with dry van containers total 15725 TEU,0,request_berth_booking
+Book berth for ZIM Haifa at CTA terminal ETA 2024-07-19 draft 16m alongside starboard,0,request_berth_booking
+Need berth booking for car carrier Yang Ming Kaohsiung carrying soybeans ETA 2024-09-18 LOA 151 meters,0,request_berth_booking
+Arrival window for Maersk Edmonton at pilot station 10 to 26,1,ask_vessel_schedule
+Need berth booking for tanker HMM Busan carrying chemicals ETA 2024-02-22 LOA 386 meters,0,request_berth_booking
+Container COSU7654321 customs inspection status?,6,track_container
+Customs docs: commercial invoice 59050 bauxite value 4109649 Incoterm DDP,2,submit_customs_docs
+Status inquiry: ONEU3334445 customs hold or released?,6,track_container
+OPL (Outer Port Limit) anchorage regulations for general cargo vessels,8,ask_regulations
+Order pilot for Maersk Edmonton LOA 302m GT 53426 ETA pilot station 2024-03-14,7,request_pilotage_tug
+Phytosanitary certificate submitted for agricultural cargo textiles container OOLU4567890,2,submit_customs_docs
+When is HMM Busan expected to arrive at Singapore?,1,ask_vessel_schedule
+ZIM Haifa requesting quay space for discharge of containers ETA 2024-07-17 LOA 197m GRT 72415,0,request_berth_booking
+Tracking: COSU7654321 discharge completion time at terminal LBCT,6,track_container
+Location of container ZIMU1239874 in yard block F6?,6,track_container
+Yang Ming Kaohsiung requesting quay space for discharge of steel coils ETA 2024-06-23 LOA 392m GRT 54134,0,request_berth_booking
+ETD for Yang Ming Kaohsiung after cargo operations complete?,1,ask_vessel_schedule
+Tariff inquiry: container storage fees for tank after 18 days free time,4,ask_tariff_rates
+Demurrage rates for containers at HIT after free time expires,4,ask_tariff_rates
+ETA for COSCO Shanghai voyage 709 from Australia?,1,ask_vessel_schedule
+Requesting wharfage rates for cruise ship vessels at Singapore,4,ask_tariff_rates
+What are the ISPS security requirements for HMM Busan at Hamburg?,8,ask_regulations
+Requesting wharfage rates for ro-ro vessel vessels at Shanghai,4,ask_tariff_rates
+Tug service rates for HMM Busan gross tonnage 84436 at Rotterdam,4,ask_tariff_rates
+Order pilot for Hapag Dubai LOA 283m GT 79601 ETA pilot station 2024-02-22,7,request_pilotage_tug
+Customs entry filed: Bill of Lading HLCU2063842 container MAEU9876543 cargo electronics,2,submit_customs_docs
+Reefer cargo list attached for COSCO Shanghai 6385 refrigerated containers set temps included,9,declare_cargo_manifest
+Book berth for ZIM Haifa at LBCT terminal ETA 2024-06-10 draft 10m alongside starboard,0,request_berth_booking
+Cargo manifest declaration for ZIM Haifa voyage 477 loading coal destination India,9,declare_cargo_manifest
+Modify: HMM Busan shifting from berth 10 to 17 for cargo segregation,5,modify_berth_booking
+Berth swap requested between HMM Busan and MSC Geneva at CTB,5,modify_berth_booking
+Out of gauge cargo declaration: coal dimensions 6x2x4m,9,declare_cargo_manifest
+Submitting SAD document for import of coal origin China consignee Cargill,2,submit_customs_docs
+Port state control inspection procedures for Panama flag vessels,8,ask_regulations
+Tariff inquiry: container storage fees for reefer after 8 days free time,4,ask_tariff_rates
+Order pilot for COSCO Shanghai LOA 396m GT 51306 ETA pilot station 2024-04-16,7,request_pilotage_tug
+When does ZIM Haifa depart Hamburg bound for South Korea?,1,ask_vessel_schedule
+Port dues for Yang Ming Kaohsiung net tonnage 33694 stay duration 11 days,4,ask_tariff_rates
+Berth swap requested between Hapag Dubai and Maersk Edmonton at APM,5,modify_berth_booking
+Tug services: CMA CGM Rio unberthing from LBCT ETD 2024-08-13,7,request_pilotage_tug
+Reefer cargo list attached for ONE Bangkok 16088 refrigerated containers set temps included,9,declare_cargo_manifest
+Double tug configuration for Evergreen Tokyo due to adverse currents,7,request_pilotage_tug
+Escort tug request for ZIM Haifa in restricted channel due to fog,7,request_pilotage_tug
+Environmental incident: oil spill from Yang Ming Kaohsiung at anchorage during bunkering,3,report_port_incident
+Customs entry filed: Bill of Lading MSCU1739687 container MAEU9876543 cargo LNG,2,submit_customs_docs
+Pilotage required for bulk carrier HMM Busan draft 9m arriving 2024-01-17,7,request_pilotage_tug
+Submitting SAD document for import of steel coils origin Brazil consignee Louis Dreyfus,2,submit_customs_docs
+Pilotage required for car carrier CMA CGM Rio draft 13m arriving 2024-07-24,7,request_pilotage_tug
+What are the cargo handling charges for crude oil per metric ton at CTB?,4,ask_tariff_rates
+Need berth booking for ro-ro vessel Maersk Edmonton carrying crude oil ETA 2024-04-24 LOA 152 meters,0,request_berth_booking
+Ballast water management requirements at Ningbo for COSCO Shanghai,8,ask_regulations
+Reporting equipment failure: crane RMG02 breakdown at berth 10,3,report_port_incident
+Tracking: TCLU1112223 discharge completion time at terminal LBCT,6,track_container
+Modify: Hapag Dubai shifting from berth 6 to 20 for cargo segregation,5,modify_berth_booking
+Schedule inquiry: ZIM Haifa arriving Busan berth 7,1,ask_vessel_schedule
+Submitting manifest: dry van containers total 21960 TEU on ONE Bangkok,9,declare_cargo_manifest
+OPL (Outer Port Limit) anchorage regulations for ro-ro vessel vessels,8,ask_regulations
+Tariff inquiry: container storage fees for open top after 16 days free time,4,ask_tariff_rates
+Submitting manifest: tank containers total 22107 TEU on CMA CGM Rio,9,declare_cargo_manifest
+Port dues for ZIM Haifa net tonnage 14534 stay duration 12 days,4,ask_tariff_rates
+Reporting delay: cargo operations suspended at terminal Euromax due to high winds,3,report_port_incident
+Request tug assistance: Evergreen Tokyo berthing at berth 6 wind force 6,7,request_pilotage_tug
+When does Evergreen Tokyo depart Antwerp bound for France?,1,ask_vessel_schedule
+Bulk cargo declaration: textiles 47716 MT shipper Trafigura consignee Trafigura,9,declare_cargo_manifest
+Cancel pilot order for Maersk Edmonton ETA changed to 2024-06-21,5,modify_berth_booking
+Tariff inquiry: container storage fees for reefer after 9 days free time,4,ask_tariff_rates
+ETA for MSC Geneva voyage 94 from USA?,1,ask_vessel_schedule
+Immigration formalities for crew change on CMA CGM Rio at Busan,8,ask_regulations
+Submitting customs declaration for textiles HS code 3004.90 value 1433355 CIF,2,submit_customs_docs
+Tug services: ONE Bangkok unberthing from SSA ETD 2024-06-23,7,request_pilotage_tug
+Cargo manifest declaration for HMM Busan voyage 477 loading electronics destination Japan,9,declare_cargo_manifest
+Escort tug request for Evergreen Tokyo in restricted channel due to rough seas,7,request_pilotage_tug
+Berth swap requested between COSCO Shanghai and Hapag Dubai at Delta,5,modify_berth_booking
+Out of gauge cargo declaration: chemicals dimensions 12x4x4m,9,declare_cargo_manifest
+Request tug assistance: Yang Ming Kaohsiung berthing at berth 3 wind force 9,7,request_pilotage_tug
+Berth change request: ONE Bangkok needs deeper draft berth 17 draft 9m,5,modify_berth_booking
+Modify: Evergreen Tokyo shifting from berth 3 to 24 for cargo segregation,5,modify_berth_booking
+Port dues for ZIM Haifa net tonnage 48131 stay duration 11 days,4,ask_tariff_rates
+Order pilot for ZIM Haifa LOA 157m GT 91735 ETA pilot station 2024-07-13,7,request_pilotage_tug
+Cargo manifest declaration for COSCO Shanghai voyage 755 loading wheat destination UK,9,declare_cargo_manifest
+Out of gauge cargo declaration: iron ore dimensions 13x4x3m,9,declare_cargo_manifest
+Berth swap requested between COSCO Shanghai and ONE Bangkok at Matson,5,modify_berth_booking
+Customs procedures for transshipment cargo at Antwerp,8,ask_regulations
+Environmental compliance: scrubber washwater discharge rules at Ningbo,8,ask_regulations
+Need berth booking for car carrier HMM Busan carrying coal ETA 2024-09-23 LOA 210 meters,0,request_berth_booking
+Berth swap requested between COSCO Shanghai and HMM Busan at APM,5,modify_berth_booking
+Bulk cargo declaration: automobiles 55408 MT shipper Olam consignee ADM,9,declare_cargo_manifest
+Port state control inspection procedures for Marshall Islands flag vessels,8,ask_regulations
+Submitting manifest: reefer containers total 16703 TEU on ONE Bangkok,9,declare_cargo_manifest
+Incident report: Maersk Edmonton damaged fender at berth 3 during mooring,3,report_port_incident
+Requesting wharfage rates for cruise ship vessels at Rotterdam,4,ask_tariff_rates
+Final cargo manifest for ZIM Haifa total 65399 MT 12757 TEU Antwerp to UK,9,declare_cargo_manifest
+Modify: Maersk Edmonton shifting from berth 4 to 23 for cargo segregation,5,modify_berth_booking
+Submitting customs declaration for coal HS code 6203.42 value 4018052 FOB,2,submit_customs_docs
+Safety incident: crew injury on Yang Ming Kaohsiung during lashing operations,3,report_port_incident
+Double tug configuration for Evergreen Tokyo due to adverse currents,7,request_pilotage_tug
+Pilotage required for LNG carrier Evergreen Tokyo draft 10m arriving 2024-03-17,7,request_pilotage_tug
+Requesting wharfage rates for general cargo vessels at Hamburg,4,ask_tariff_rates
+Cargo manifest declaration for COSCO Shanghai voyage 836 loading frozen meat destination Turkey,9,declare_cargo_manifest
+Uploading packing list for container MSCU1234567 HS 3004.90 weight 26505kg,2,submit_customs_docs
+Reporting delay: cargo operations suspended at terminal PSA due to heavy rain,3,report_port_incident
+Status inquiry: OOLU4567890 customs hold or released?,6,track_container
+Customs docs: commercial invoice 46409 soybeans value 3039101 Incoterm DDP,2,submit_customs_docs
+Port incident: COSU7654321 collapsed during stacking at yard block B2,3,report_port_incident
+Environmental incident: oil spill from Hapag Dubai at anchorage during bunkering,3,report_port_incident
+Reschedule: ONE Bangkok advance cargo operations to 2024-08-20 due to weather,5,modify_berth_booking
+Need berth booking for bulk carrier Evergreen Tokyo carrying containers ETA 2024-06-17 LOA 318 meters,0,request_berth_booking
+Certificate of origin attached for textiles HS code 0901.11 preferential origin Brazil,2,submit_customs_docs
+ETA for Evergreen Tokyo voyage 533 from Australia?,1,ask_vessel_schedule
+What is the pilotage fee for LOA 155m vessel entering Singapore?,4,ask_tariff_rates
+Demurrage rates for containers at Delta after free time expires,4,ask_tariff_rates
+Incident: Evergreen Tokyo allision with jetty during berthing maneuver,3,report_port_incident
+Tracking: EGLV4445556 discharge completion time at terminal HIT,6,track_container
+Order pilot for ZIM Haifa LOA 205m GT 83694 ETA pilot station 2024-05-16,7,request_pilotage_tug
+Requesting vessel schedule for Evergreen Tokyo IMO 9869793,1,ask_vessel_schedule
+Environmental incident: oil spill from COSCO Shanghai at anchorage during bunkering,3,report_port_incident
+Dangerous goods manifest: textiles UN number 2968 class 2 container TCLU1112223,9,declare_cargo_manifest
+Out of gauge cargo declaration: soybeans dimensions 15x2x3m,9,declare_cargo_manifest
+Container MAEU9876543 customs inspection status?,6,track_container
+Safety incident: crew injury on Hapag Dubai during lashing operations,3,report_port_incident
+Where is container OOLU4567890 currently in port?,6,track_container
+Need pier allocation for bulk carrier COSCO Shanghai loading chemicals ETD 2024-05-12,0,request_berth_booking
+What is the pilotage fee for LOA 276m vessel entering Singapore?,4,ask_tariff_rates
+Reporting equipment failure: crane QC01 breakdown at berth 9,3,report_port_incident
+Berth reservation: HMM Busan arriving 2024-09-18 with tank containers total 21385 TEU,0,request_berth_booking
+Arrival window for COSCO Shanghai at pilot station 15 to 20,1,ask_vessel_schedule
+Modify: CMA CGM Rio shifting from berth 6 to 18 for cargo segregation,5,modify_berth_booking
+Is ZIMU1239874 available for collection at CTB gate?,6,track_container
+Cancel pilot order for COSCO Shanghai ETA changed to 2024-09-22,5,modify_berth_booking
+Reefer cargo list attached for Maersk Edmonton 12557 refrigerated containers set temps included,9,declare_cargo_manifest
+Extend stay: Hapag Dubai requires additional 4 days alongside for crude oil,5,modify_berth_booking
+Safety incident: crew injury on ZIM Haifa during lashing operations,3,report_port_incident
+Reschedule: MSC Geneva advance cargo operations to 2024-03-17 due to weather,5,modify_berth_booking
+Escort tug request for COSCO Shanghai in restricted channel due to thunderstorms,7,request_pilotage_tug
+Reporting delay: cargo operations suspended at terminal PSA due to heavy rain,3,report_port_incident
+Incident: COSCO Shanghai allision with jetty during berthing maneuver,3,report_port_incident
+Pilotage required for ro-ro vessel Hapag Dubai draft 9m arriving 2024-07-25,7,request_pilotage_tug
+What is the pilotage fee for LOA 333m vessel entering Hamburg?,4,ask_tariff_rates
+Double tug configuration for HMM Busan due to adverse currents,7,request_pilotage_tug
+Submitting manifest: dry van containers total 4359 TEU on MSC Geneva,9,declare_cargo_manifest
+Schedule inquiry: CMA CGM Rio arriving Singapore berth 11,1,ask_vessel_schedule
+Request berth allocation for MV Maersk Edmonton LOA 380m beam 39m draft 15m ETA 2024-08-12 cargo chemicals,0,request_berth_booking
+Port incident: YMLU7778889 collapsed during stacking at yard block D4,3,report_port_incident
+Uploading packing list for container MAEU9876543 HS 2601.11 weight 1710kg,2,submit_customs_docs
+Reporting equipment failure: crane RMG01 breakdown at berth 12,3,report_port_incident
+Reporting delay: cargo operations suspended at terminal CTB due to heavy rain,3,report_port_incident
+Immigration formalities for crew change on HMM Busan at Shanghai,8,ask_regulations
+Uploading packing list for container COSU7654321 HS 6203.42 weight 26285kg,2,submit_customs_docs
+Mooring gang requested for Maersk Edmonton at berth 1 ETA 2024-06-18,7,request_pilotage_tug
+ETD for Hapag Dubai after cargo operations complete?,1,ask_vessel_schedule
+Reefer cargo list attached for ZIM Haifa 17119 refrigerated containers set temps included,9,declare_cargo_manifest
+Dangerous goods manifest: containers UN number 1136 class 3 container COSU7654321,9,declare_cargo_manifest
+Container ZIMU1239874 customs inspection status?,6,track_container
+Extend stay: Hapag Dubai requires additional 21 days alongside for wheat,5,modify_berth_booking
+Cargo manifest declaration for ZIM Haifa voyage 667 loading steel coils destination India,9,declare_cargo_manifest
+Need pier allocation for LNG carrier ONE Bangkok loading automobiles ETD 2024-09-19,0,request_berth_booking
+Location of container ZIMU1239874 in yard block B2?,6,track_container
+Cancel pilot order for COSCO Shanghai ETA changed to 2024-05-18,5,modify_berth_booking
+Tug service rates for Yang Ming Kaohsiung gross tonnage 106085 at Antwerp,4,ask_tariff_rates
+Immigration formalities for crew change on HMM Busan at Shanghai,8,ask_regulations
+Requesting wharfage rates for bulk carrier vessels at Singapore,4,ask_tariff_rates
+Tariff inquiry: container storage fees for open top after 7 days free time,4,ask_tariff_rates
+Customs procedures for transshipment cargo at Antwerp,8,ask_regulations
+Customs entry filed: Bill of Lading HLCU7915713 container ZIMU1239874 cargo textiles,2,submit_customs_docs
+Incident report: Evergreen Tokyo damaged fender at berth 4 during mooring,3,report_port_incident
+Out of gauge cargo declaration: chemicals dimensions 6x4x3m,9,declare_cargo_manifest
+Submitting customs declaration for frozen meat HS code 0901.11 value 1520407 EXW,2,submit_customs_docs
+Final cargo manifest for Maersk Edmonton total 66501 MT 17114 TEU Shanghai to Spain,9,declare_cargo_manifest
+What are the cargo handling charges for automobiles per metric ton at APM?,4,ask_tariff_rates
+Schedule inquiry: COSCO Shanghai arriving Shanghai berth 3,1,ask_vessel_schedule
+Where is container EGLV4445556 currently in port?,6,track_container
+Reschedule: Yang Ming Kaohsiung advance cargo operations to 2024-08-27 due to weather,5,modify_berth_booking
+ETD for Evergreen Tokyo after cargo operations complete?,1,ask_vessel_schedule
+Customs procedures for transshipment cargo at Singapore,8,ask_regulations
+Phytosanitary certificate submitted for agricultural cargo chemicals container OOLU4567890,2,submit_customs_docs
+Book berth for Yang Ming Kaohsiung at Matson terminal ETA 2024-05-11 draft 10m alongside starboard,0,request_berth_booking
+Submitting customs declaration for automobiles HS code 0901.11 value 1117717 EXW,2,submit_customs_docs
+Immigration formalities for crew change on Maersk Edmonton at Hong Kong,8,ask_regulations
+Incident report: Hapag Dubai damaged fender at berth 3 during mooring,3,report_port_incident
+Need pier allocation for ro-ro vessel ZIM Haifa loading crude oil ETD 2024-03-16,0,request_berth_booking
+Out of gauge cargo declaration: containers dimensions 11x5x2m,9,declare_cargo_manifest
+Out of gauge cargo declaration: coal dimensions 12x4x3m,9,declare_cargo_manifest
+Standby tug for ONE Bangkok during cargo transfer operations,7,request_pilotage_tug
+Container HLCU5556667 loaded on which vessel voyage?,6,track_container
+Where is container ZIMU1239874 currently in port?,6,track_container
+Extend stay: ONE Bangkok requires additional 4 days alongside for soybeans,5,modify_berth_booking
+OPL (Outer Port Limit) anchorage regulations for car carrier vessels,8,ask_regulations
+Incident report: MSC Geneva damaged fender at berth 12 during mooring,3,report_port_incident
+Double tug configuration for MSC Geneva due to adverse currents,7,request_pilotage_tug
+Tug service rates for Maersk Edmonton gross tonnage 37949 at Rotterdam,4,ask_tariff_rates
+Out of gauge cargo declaration: LNG dimensions 11x3x3m,9,declare_cargo_manifest
+Port dues for Yang Ming Kaohsiung net tonnage 27242 stay duration 5 days,4,ask_tariff_rates
+Dangerous goods manifest: LNG UN number 3165 class 1 container ZIMU1239874,9,declare_cargo_manifest
+What are the cargo handling charges for coal per metric ton at SSA?,4,ask_tariff_rates
+Regulations for handling bauxite IMO class 3 at LBCT?,8,ask_regulations
+Where is container OOLU4567890 currently in port?,6,track_container
+Schedule inquiry: ZIM Haifa arriving Hamburg berth 11,1,ask_vessel_schedule
+Reporting delay: cargo operations suspended at terminal CTA due to high winds,3,report_port_incident
+Request berth allocation for MV MSC Geneva LOA 195m beam 47m draft 12m ETA 2024-03-19 cargo textiles,0,request_berth_booking
+Submitting customs declaration for textiles HS code 2709.00 value 4933117 EXW,2,submit_customs_docs
+What are the ISPS security requirements for Yang Ming Kaohsiung at Dubai?,8,ask_regulations
+Incident report: MSC Geneva damaged fender at berth 4 during mooring,3,report_port_incident
+What is the pilotage fee for LOA 363m vessel entering Los Angeles?,4,ask_tariff_rates
+Regulations for handling chemicals IMO class 3 at HIT?,8,ask_regulations
+Reschedule: CMA CGM Rio advance cargo operations to 2024-05-22 due to weather,5,modify_berth_booking
+Tracking: COSU7654321 discharge completion time at terminal Matson,6,track_container
+Certificate of origin attached for bauxite HS code 2601.11 preferential origin China,2,submit_customs_docs
+Demurrage rates for containers at Matson after free time expires,4,ask_tariff_rates
+Environmental compliance: scrubber washwater discharge rules at Rotterdam,8,ask_regulations
+Final cargo manifest for COSCO Shanghai total 62069 MT 10090 TEU Dubai to Turkey,9,declare_cargo_manifest
+Regulations for handling soybeans IMO class 4 at Delta?,8,ask_regulations
+Tug service rates for ONE Bangkok gross tonnage 93245 at Singapore,4,ask_tariff_rates
+Berth swap requested between COSCO Shanghai and HMM Busan at CTB,5,modify_berth_booking
+Dangerous goods manifest: chemicals UN number 2957 class 3 container YMLU7778889,9,declare_cargo_manifest
+Requesting anchorage for ZIM Haifa awaiting berth availability for crude oil discharge,0,request_berth_booking
+Port dues for ZIM Haifa net tonnage 11000 stay duration 13 days,4,ask_tariff_rates
+Bulk cargo declaration: crude oil 31336 MT shipper Louis Dreyfus consignee Cargill,9,declare_cargo_manifest
+Requesting wharfage rates for cruise ship vessels at Dubai,4,ask_tariff_rates
+Berth swap requested between MSC Geneva and CMA CGM Rio at Euromax,5,modify_berth_booking
+Cancel berth reservation for MSC Geneva voyage 439,5,modify_berth_booking
+Is YMLU7778889 available for collection at Matson gate?,6,track_container
+Reporting equipment failure: crane QC01 breakdown at berth 8,3,report_port_incident
+Tariff inquiry: container storage fees for tank after 19 days free time,4,ask_tariff_rates
+Need pier allocation for ro-ro vessel Hapag Dubai loading coal ETD 2024-05-19,0,request_berth_booking
+Amend berth booking: MSC Geneva new ETA 2024-08-22 original booking 2024-06-5,5,modify_berth_booking
+Bulk cargo declaration: steel coils 41435 MT shipper Wilmar consignee Trafigura,9,declare_cargo_manifest
+Book berth for HMM Busan at Matson terminal ETA 2024-06-18 draft 10m alongside port,0,request_berth_booking
+ETD for COSCO Shanghai after cargo operations complete?,1,ask_vessel_schedule
+Safety incident: crew injury on Evergreen Tokyo during lashing operations,3,report_port_incident
+ETD for Maersk Edmonton after cargo operations complete?,1,ask_vessel_schedule
+Incident: Hapag Dubai allision with jetty during berthing maneuver,3,report_port_incident
+Cancel berth reservation for CMA CGM Rio voyage 673,5,modify_berth_booking
+Berth swap requested between HMM Busan and Yang Ming Kaohsiung at LBCT,5,modify_berth_booking
+Dangerous goods manifest: bauxite UN number 2656 class 3 container OOLU4567890,9,declare_cargo_manifest
+What are the ISPS security requirements for CMA CGM Rio at Ningbo?,8,ask_regulations
+OPL (Outer Port Limit) anchorage regulations for bulk carrier vessels,8,ask_regulations
+What is the pilotage fee for LOA 275m vessel entering Hamburg?,4,ask_tariff_rates
+Tracking: MAEU9876543 discharge completion time at terminal CTB,6,track_container
+Book berth for ZIM Haifa at CTA terminal ETA 2024-09-10 draft 9m alongside port,0,request_berth_booking
+Container OOLU4567890 loaded on which vessel voyage?,6,track_container
+Reporting delay: cargo operations suspended at terminal CTA due to high winds,3,report_port_incident
+Final cargo manifest for ZIM Haifa total 14202 MT 3804 TEU Rotterdam to UK,9,declare_cargo_manifest
+Phytosanitary certificate submitted for agricultural cargo containers container EGLV4445556,2,submit_customs_docs
+Certificate of origin attached for iron ore HS code 8703.23 preferential origin Brazil,2,submit_customs_docs
+Requesting wharfage rates for tanker vessels at Ningbo,4,ask_tariff_rates
+Environmental compliance: scrubber washwater discharge rules at Shanghai,8,ask_regulations
+Standby tug for Hapag Dubai during cargo transfer operations,7,request_pilotage_tug
+Order pilot for ONE Bangkok LOA 212m GT 34614 ETA pilot station 2024-08-22,7,request_pilotage_tug
+Location of container MAEU9876543 in yard block F6?,6,track_container
+Berth reservation: Maersk Edmonton arriving 2024-04-19 with tank containers total 8015 TEU,0,request_berth_booking
+Arrival window for Evergreen Tokyo at pilot station 11 to 18,1,ask_vessel_schedule
+Phytosanitary certificate submitted for agricultural cargo soybeans container MAEU9876543,2,submit_customs_docs
+Requesting wharfage rates for container vessel vessels at Hong Kong,4,ask_tariff_rates
+Container TCLU1112223 customs inspection status?,6,track_container
+When is Evergreen Tokyo expected to arrive at Dubai?,1,ask_vessel_schedule
+Mooring gang requested for COSCO Shanghai at berth 5 ETA 2024-09-23,7,request_pilotage_tug
+What are the cargo handling charges for coal per metric ton at LBCT?,4,ask_tariff_rates
+What is the ETB for Yang Ming Kaohsiung at terminal CTB?,1,ask_vessel_schedule
+Berth change request: COSCO Shanghai needs deeper draft berth 21 draft 14m,5,modify_berth_booking
+Where is container COSU7654321 currently in port?,6,track_container
+Tug service rates for MSC Geneva gross tonnage 129914 at Los Angeles,4,ask_tariff_rates
+Tariff inquiry: container storage fees for flat rack after 9 days free time,4,ask_tariff_rates
+ETD for HMM Busan after cargo operations complete?,1,ask_vessel_schedule
+Extend stay: CMA CGM Rio requires additional 8 days alongside for chemicals,5,modify_berth_booking
+Requesting wharfage rates for car carrier vessels at Hamburg,4,ask_tariff_rates
+What are the ISPS security requirements for Evergreen Tokyo at Hamburg?,8,ask_regulations
+Track container ONEU3334445 last reported location?,6,track_container
+Maersk Edmonton requesting quay space for discharge of crude oil ETA 2024-02-23 LOA 354m GRT 44818,0,request_berth_booking
+Location of container MSCU1234567 in yard block B2?,6,track_container
+Security alert: unauthorized personnel near HIT terminal perimeter,3,report_port_incident
+Tug service rates for Hapag Dubai gross tonnage 116667 at Singapore,4,ask_tariff_rates
+Customs procedures for transshipment cargo at Shanghai,8,ask_regulations
+Track container COSU7654321 last reported location?,6,track_container
+Schedule inquiry: Yang Ming Kaohsiung arriving Dubai berth 4,1,ask_vessel_schedule
+Customs docs: commercial invoice 10453 crude oil value 1051430 Incoterm EXW,2,submit_customs_docs
+When does Hapag Dubai depart Antwerp bound for Netherlands?,1,ask_vessel_schedule
+What are the cargo handling charges for soybeans per metric ton at SSA?,4,ask_tariff_rates
+Escort tug request for Maersk Edmonton in restricted channel due to heavy rain,7,request_pilotage_tug
+Schedule inquiry: CMA CGM Rio arriving Rotterdam berth 5,1,ask_vessel_schedule
+Uploading packing list for container MAEU9876543 HS 8703.23 weight 6921kg,2,submit_customs_docs
+Phytosanitary certificate submitted for agricultural cargo containers container MSCU1234567,2,submit_customs_docs
+Cancel pilot order for Hapag Dubai ETA changed to 2024-09-14,5,modify_berth_booking
+Requesting anchorage for MSC Geneva awaiting berth availability for steel coils discharge,0,request_berth_booking
+Reporting delay: cargo operations suspended at terminal Euromax due to fog,3,report_port_incident
+Request tug assistance: CMA CGM Rio berthing at berth 10 wind force 12,7,request_pilotage_tug
+Cargo manifest declaration for Hapag Dubai voyage 799 loading chemicals destination Germany,9,declare_cargo_manifest
+Cancel pilot order for Yang Ming Kaohsiung ETA changed to 2024-09-16,5,modify_berth_booking
+Demurrage rates for containers at Euromax after free time expires,4,ask_tariff_rates
+Uploading packing list for container MSCU1234567 HS 2601.11 weight 3997kg,2,submit_customs_docs
+Standby tug for ZIM Haifa during cargo transfer operations,7,request_pilotage_tug
+Uploading packing list for container ZIMU1239874 HS 2601.11 weight 21664kg,2,submit_customs_docs
+Book berth for Hapag Dubai at APM terminal ETA 2024-01-15 draft 10m alongside starboard,0,request_berth_booking
+Standby tug for COSCO Shanghai during cargo transfer operations,7,request_pilotage_tug
+What are the cargo handling charges for electronics per metric ton at Matson?,4,ask_tariff_rates
+Regulations for handling steel coils IMO class 9 at HIT?,8,ask_regulations
+ETD for Hapag Dubai after cargo operations complete?,1,ask_vessel_schedule
+When is HMM Busan expected to arrive at Ningbo?,1,ask_vessel_schedule
+Berth request: MSC Geneva IMO 9333799 arriving 2024-04-28 with 11799 MT of iron ore FOB,0,request_berth_booking
+OPL (Outer Port Limit) anchorage regulations for bulk carrier vessels,8,ask_regulations
+When is Hapag Dubai expected to arrive at Rotterdam?,1,ask_vessel_schedule
+Requesting wharfage rates for LNG carrier vessels at Hamburg,4,ask_tariff_rates
+Container MAEU9876543 loaded on which vessel voyage?,6,track_container
+Book berth for Yang Ming Kaohsiung at Delta terminal ETA 2024-01-27 draft 12m alongside port,0,request_berth_booking
+Schedule inquiry: Maersk Edmonton arriving Hamburg berth 1,1,ask_vessel_schedule
+Certificate of origin attached for soybeans HS code 8703.23 preferential origin Indonesia,2,submit_customs_docs
+Ballast water management requirements at Rotterdam for Yang Ming Kaohsiung,8,ask_regulations
+Uploading packing list for container HLCU5556667 HS 0901.11 weight 26778kg,2,submit_customs_docs
+Book berth for Maersk Edmonton at APM terminal ETA 2024-01-25 draft 10m alongside port,0,request_berth_booking
+Reporting equipment failure: crane QC02 breakdown at berth 12,3,report_port_incident
+Tracking: OOLU4567890 discharge completion time at terminal CTB,6,track_container
+Container ONEU3334445 customs inspection status?,6,track_container
+Reschedule: Evergreen Tokyo advance cargo operations to 2024-08-19 due to weather,5,modify_berth_booking
+Ballast water management requirements at Singapore for ZIM Haifa,8,ask_regulations
+Arrival window for Yang Ming Kaohsiung at pilot station 9 to 23,1,ask_vessel_schedule
+Customs entry filed: Bill of Lading MAEU4055953 container OOLU4567890 cargo crude oil,2,submit_customs_docs
+Uploading packing list for container TCLU1112223 HS 3004.90 weight 20099kg,2,submit_customs_docs
+Tariff inquiry: container storage fees for reefer after 9 days free time,4,ask_tariff_rates
+What is the ETB for ZIM Haifa at terminal Matson?,1,ask_vessel_schedule
+Reefer cargo list attached for Evergreen Tokyo 20033 refrigerated containers set temps included,9,declare_cargo_manifest
+Container MSCU1234567 loaded on which vessel voyage?,6,track_container
+Manifest amendment: container ZIMU1239874 cargo description changed to crude oil,9,declare_cargo_manifest
+Requesting wharfage rates for ro-ro vessel vessels at Hong Kong,4,ask_tariff_rates
+Reporting equipment failure: crane QC02 breakdown at berth 9,3,report_port_incident
+Stevedoring charges for automobiles discharge rate 1621 MT per hour,4,ask_tariff_rates
+Tracking: MAEU9876543 discharge completion time at terminal CTA,6,track_container
+Demurrage rates for containers at PSA after free time expires,4,ask_tariff_rates
+Incident: ZIM Haifa allision with jetty during berthing maneuver,3,report_port_incident
+Certificate of origin attached for steel coils HS code 2601.11 preferential origin Brazil,2,submit_customs_docs
+Incident: Evergreen Tokyo allision with jetty during berthing maneuver,3,report_port_incident
+What are the cargo handling charges for iron ore per metric ton at HIT?,4,ask_tariff_rates
+Incident report: Hapag Dubai damaged fender at berth 9 during mooring,3,report_port_incident
+Tracking: MAEU9876543 discharge completion time at terminal PSA,6,track_container
+ETA for CMA CGM Rio voyage 578 from China?,1,ask_vessel_schedule
+Submitting SAD document for import of textiles origin Brazil consignee Odebrecht,2,submit_customs_docs
+Incident report: Maersk Edmonton damaged fender at berth 8 during mooring,3,report_port_incident
+Customs entry filed: Bill of Lading MAEU8325920 container YMLU7778889 cargo frozen meat,2,submit_customs_docs
+Security alert: unauthorized personnel near Delta terminal perimeter,3,report_port_incident
+Environmental compliance: scrubber washwater discharge rules at Ningbo,8,ask_regulations
+Requesting wharfage rates for cruise ship vessels at Dubai,4,ask_tariff_rates
+When does ONE Bangkok depart Busan bound for Turkey?,1,ask_vessel_schedule
+Bulk cargo declaration: electronics 18705 MT shipper Odebrecht consignee Odebrecht,9,declare_cargo_manifest
+Uploading packing list for container EGLV4445556 HS 6203.42 weight 25423kg,2,submit_customs_docs
+Maersk Edmonton requesting quay space for discharge of containers ETA 2024-01-21 LOA 328m GRT 141449,0,request_berth_booking
+Tug services: ZIM Haifa unberthing from APM ETD 2024-07-19,7,request_pilotage_tug
+Tracking: TCLU1112223 discharge completion time at terminal Euromax,6,track_container
+Container MSCU1234567 customs inspection status?,6,track_container
+Tug service rates for Yang Ming Kaohsiung gross tonnage 81195 at Los Angeles,4,ask_tariff_rates
+Incident: CMA CGM Rio allision with jetty during berthing maneuver,3,report_port_incident
+Port incident: ONEU3334445 collapsed during stacking at yard block B2,3,report_port_incident
+Request tug assistance: HMM Busan berthing at berth 10 wind force 5,7,request_pilotage_tug
+Submitting manifest: open top containers total 23363 TEU on HMM Busan,9,declare_cargo_manifest
+Tug services: Yang Ming Kaohsiung unberthing from Delta ETD 2024-06-17,7,request_pilotage_tug
+What are the ISPS security requirements for ZIM Haifa at Ningbo?,8,ask_regulations
+Immigration formalities for crew change on CMA CGM Rio at Singapore,8,ask_regulations
+Reporting delay: cargo operations suspended at terminal PSA due to fog,3,report_port_incident
+Track container MAEU9876543 last reported location?,6,track_container
+Standby tug for ONE Bangkok during cargo transfer operations,7,request_pilotage_tug
+Tariff inquiry: container storage fees for tank after 3 days free time,4,ask_tariff_rates
+Incident report: HMM Busan damaged fender at berth 4 during mooring,3,report_port_incident
+Modify: Evergreen Tokyo shifting from berth 7 to 20 for cargo segregation,5,modify_berth_booking
+Escort tug request for HMM Busan in restricted channel due to fog,7,request_pilotage_tug
+Submitting SAD document for import of steel coils origin Russia consignee Wilmar,2,submit_customs_docs
+Berth change request: CMA CGM Rio needs deeper draft berth 16 draft 9m,5,modify_berth_booking
+Standby tug for HMM Busan during cargo transfer operations,7,request_pilotage_tug
+Need berth booking for ro-ro vessel CMA CGM Rio carrying crude oil ETA 2024-06-17 LOA 261 meters,0,request_berth_booking
+Reporting equipment failure: crane RMG01 breakdown at berth 8,3,report_port_incident
+Reporting equipment failure: crane QC03 breakdown at berth 1,3,report_port_incident
+OPL (Outer Port Limit) anchorage regulations for car carrier vessels,8,ask_regulations
+Final cargo manifest for ONE Bangkok total 78834 MT 10155 TEU Antwerp to France,9,declare_cargo_manifest
+Port incident: TCLU1112223 collapsed during stacking at yard block A1,3,report_port_incident
+ETD for Maersk Edmonton after cargo operations complete?,1,ask_vessel_schedule
+Uploading packing list for container EGLV4445556 HS 3004.90 weight 20412kg,2,submit_customs_docs
+Submitting SAD document for import of iron ore origin Argentina consignee Louis Dreyfus,2,submit_customs_docs
+Ballast water management requirements at Dubai for Hapag Dubai,8,ask_regulations
+When does Yang Ming Kaohsiung depart Shanghai bound for Japan?,1,ask_vessel_schedule
+Escort tug request for Maersk Edmonton in restricted channel due to thunderstorms,7,request_pilotage_tug
+Is COSU7654321 available for collection at PSA gate?,6,track_container
+Berth change request: Yang Ming Kaohsiung needs deeper draft berth 22 draft 10m,5,modify_berth_booking
+Request berth allocation for MV ONE Bangkok LOA 311m beam 48m draft 13m ETA 2024-05-15 cargo electronics,0,request_berth_booking
+Submitting manifest: open top containers total 1954 TEU on MSC Geneva,9,declare_cargo_manifest
+Standby tug for ZIM Haifa during cargo transfer operations,7,request_pilotage_tug
+Environmental incident: oil spill from MSC Geneva at anchorage during bunkering,3,report_port_incident
+Extend stay: MSC Geneva requires additional 9 days alongside for steel coils,5,modify_berth_booking
+Reschedule: ONE Bangkok advance cargo operations to 2024-03-24 due to weather,5,modify_berth_booking
+Berth swap requested between HMM Busan and COSCO Shanghai at LBCT,5,modify_berth_booking
+When is Maersk Edmonton expected to arrive at Busan?,1,ask_vessel_schedule
+When is Hapag Dubai expected to arrive at Shanghai?,1,ask_vessel_schedule
+Port incident: MAEU9876543 collapsed during stacking at yard block C3,3,report_port_incident
+Dangerous goods manifest: iron ore UN number 2169 class 4 container COSU7654321,9,declare_cargo_manifest
+Port state control inspection procedures for Liberia flag vessels,8,ask_regulations
+Customs entry filed: Bill of Lading MAEU5171737 container ZIMU1239874 cargo electronics,2,submit_customs_docs
+Berth request: MSC Geneva IMO 9240977 arriving 2024-07-14 with 27356 MT of crude oil FOB,0,request_berth_booking
+Location of container ONEU3334445 in yard block D4?,6,track_container
+ETD for Maersk Edmonton after cargo operations complete?,1,ask_vessel_schedule
+Escort tug request for HMM Busan in restricted channel due to heavy rain,7,request_pilotage_tug
+Ballast water management requirements at Rotterdam for COSCO Shanghai,8,ask_regulations
+When is Yang Ming Kaohsiung expected to arrive at Antwerp?,1,ask_vessel_schedule
+Book berth for COSCO Shanghai at Euromax terminal ETA 2024-08-12 draft 8m alongside starboard,0,request_berth_booking
+Tug services: ZIM Haifa unberthing from LBCT ETD 2024-02-11,7,request_pilotage_tug
+Need pier allocation for LNG carrier MSC Geneva loading steel coils ETD 2024-09-18,0,request_berth_booking
+Pilotage required for general cargo Maersk Edmonton draft 12m arriving 2024-09-16,7,request_pilotage_tug
