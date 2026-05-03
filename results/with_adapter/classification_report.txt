@@ -1,0 +1,22 @@
+CLASSIFICATION REPORT
+============================================================
+                        precision    recall  f1-score   support
+
+ request_berth_booking     1.0000    0.9833    0.9916        60
+   ask_vessel_schedule     0.8000    0.9444    0.8662        72
+   submit_customs_docs     1.0000    1.0000    1.0000        32
+  report_port_incident     0.6154    1.0000    0.7619         8
+      ask_tariff_rates     1.0000    1.0000    1.0000        20
+  modify_berth_booking     1.0000    1.0000    1.0000        28
+       track_container     0.9524    1.0000    0.9756        80
+  request_pilotage_tug     0.9706    0.8250    0.8919        40
+       ask_regulations     1.0000    1.0000    1.0000        12
+declare_cargo_manifest     0.9697    0.6667    0.7901        48
+
+              accuracy                         0.9300       400
+             macro avg     0.9308    0.9419    0.9277       400
+          weighted avg     0.9402    0.9300    0.9290       400
+
+Overall Accuracy:  0.9300
+Macro F1 Score:    0.9277
+Weighted F1 Score: 0.9290
