@@ -1,0 +1,61 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# Model checkpoints (large files, keep only final adapter)
+models/**/checkpoint-*/
+models/**/pytorch_model.bin
+models/**/*.bin
+models/**/optimizer.pt
+models/**/scheduler.pt
+models/**/rng_state.pth
+models/**/trainer_state.json
+
+# Keep LoRA adapter files (small, needed for inference)
+# adapter_config.json
+# adapter_model.safetensors
+# tokenizer.json
+# tokenizer_config.json
+
+# Training logs
+models/logs/
+*.log
+
+# Coverage/reports
+htmlcov/
+.coverage
+.pytest_cache/
+.tox/
+
+# OS files
+.DS_Store
+Thumbs.db
