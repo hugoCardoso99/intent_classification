@@ -56,6 +56,61 @@ The base model without the adapter predicts almost everything as a single class 
 
 **Per-class highlights:** 5 of 10 intents achieve perfect F1 (1.000). The weakest performers are `report_port_incident` (F1 0.762, only 8 test samples) and `declare_cargo_manifest` (F1 0.790, confused with `ask_vessel_schedule`).
 
+## LLM-as-a-Judge
+
+Beyond traditional metrics, this project includes an LLM-as-a-Judge system (default: Gemini Flash free tier) for qualitative evaluation, production monitoring, and model version comparison.
+
+**Why?** Metrics like F1 can't detect label ambiguity, out-of-domain inputs, or whether a "wrong" prediction is actually reasonable. In production, there are no ground-truth labels at all — the LLM judge acts as a proxy to catch drift before users complain.
+
+### Offline Evaluation (`src/llm_judge.py`)
+
+Judges each prediction as CORRECT, ACCEPTABLE (label ambiguity), WRONG, or OOD. Surfaces error categories that raw metrics miss — e.g., distinguishing genuine model failures from ambiguous label boundaries.
+
+```bash
+# Judge all test predictions
+python src/llm_judge.py --predictions results/with_adapter/predictions.csv
+
+# Judge only misclassified examples
+python src/llm_judge.py --predictions results/with_adapter/predictions.csv --errors_only
+
+# Use a different provider
+python src/llm_judge.py --predictions results/with_adapter/predictions.csv --provider groq
+```
+
+### Production Monitoring (`src/monitor.py`)
+
+Samples production logs (no ground truth needed), runs the LLM judge, and tracks OOD rate, wrong prediction rate, and confidence calibration over time. Triggers alerts when metrics exceed thresholds.
+
+```bash
+# Monitor a production log
+python src/monitor.py --log production_log.csv
+
+# Custom thresholds
+python src/monitor.py --log production_log.csv --ood_threshold 0.03 --wrong_threshold 0.10
+```
+
+Production log format: `timestamp,text,predicted_intent,confidence`
+
+### Model Version Comparison (`src/compare_models.py`)
+
+Compares two model versions on the same data using LLM-assigned pseudo-ground-truth labels and McNemar's test for statistical significance. Includes a pairwise tiebreaker for ambiguous disagreements.
+
+```bash
+# Compare two adapter versions
+python src/compare_models.py \
+    --model_a models/roberta-intent \
+    --model_b models/roberta-intent-v2 \
+    --data data/test.csv
+
+# Compare adapter vs bare base model
+python src/compare_models.py \
+    --model_a models/roberta-intent \
+    --no_adapter_b \
+    --data data/test.csv
+```
+
+**API key setup:** Get a free Gemini key at [aistudio.google.com/apikey](https://aistudio.google.com/apikey) and set `GEMINI_API_KEY` in your environment. Groq and OpenAI are also supported via `--provider`.
+
 ## Project Structure
 
 ```
@@ -69,12 +124,18 @@ intent_detection/
 │   ├── generate_data.py       # synthetic dataset generation
 │   ├── train.py               # LoRA fine-tuning with weighted loss
 │   ├── evaluate.py            # metrics, confusion matrix, F1 charts
-│   └── predict.py             # interactive / batch inference
+│   ├── predict.py             # interactive / batch inference
+│   ├── llm_judge.py           # LLM-as-a-Judge core module
+│   ├── monitor.py             # production drift monitoring
+│   └── compare_models.py      # model version comparison (McNemar's test)
 ├── models/
 │   └── roberta-intent/        # saved LoRA adapter (~few MB)
 ├── results/
 │   ├── with_adapter/          # evaluation with LoRA
-│   └── base_model/            # baseline evaluation (no adapter)
+│   ├── base_model/            # baseline evaluation (no adapter)
+│   ├── judge/                 # LLM judge evaluation results
+│   ├── monitoring/            # production monitoring history
+│   └── comparison/            # model version comparison results
 └── requirements.txt
 ```
 
